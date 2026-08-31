@@ -1,0 +1,50 @@
+{
+    "GUID": "23eb11",
+    "Name": "Custom_Assetbundle",
+    "Transform": {
+        "posX": 51.044,
+        "posY": -1.905,
+        "posZ": -0.21,
+        "rotX": 0.0,
+        "rotY": 270.0,
+        "rotZ": 359.0,
+        "scaleX": 5.0,
+        "scaleY": 5.0,
+        "scaleZ": 5.0
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomAssetbundle": {
+        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1647720532172920283/69819723FA8AB271ABC1A9ADBCD21733F676FA3C/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+    },
+    "LuaScriptState": ""
+}

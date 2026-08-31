@@ -1,0 +1,187 @@
+{
+    "GUID": "b81c66",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -53.363,
+        "posY": 3.809,
+        "posZ": 11.166,
+        "rotX": 1.415,
+        "rotY": 179.954,
+        "rotZ": 0.302,
+        "scaleX": 0.79,
+        "scaleY": 1.0,
+        "scaleZ": 0.79
+    },
+    "Nickname": "Hedge",
+    "Description": "•  COVER: When tracing Line of Sight for Ranged Attacks, Line of Sight may not be traced through this terrain piece by units not inside this terrain piece.\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  ROUGH: Units moving into, out of, or through this Terrain piece subtract 1” from the total distance they would move.\r\n",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553854/C7BCCD20235174336975A6834E7174951B464632/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "86b2a9",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": 14.241,
+                "posY": 1.947,
+                "posZ": 12.595,
+                "rotX": 0.0,
+                "rotY": 180.0,
+                "rotZ": 0.0,
+                "scaleX": 0.79,
+                "scaleY": 1.0,
+                "scaleZ": 0.79
+            },
+            "Nickname": "Hedge",
+            "Description": "•  COVER: When tracing Line of Sight for Ranged Attacks, Line of Sight may not be traced through this terrain piece by units not inside this terrain piece.\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  ROUGH: Units moving into, out of, or through this Terrain piece subtract 1” from the total distance they would move.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553854/C7BCCD20235174336975A6834E7174951B464632/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "ce781d",
+                    "Name": "Custom_Model",
+                    "Transform": {
+                        "posX": -0.001,
+                        "posY": 0.185,
+                        "posZ": 0.033,
+                        "rotX": 0.0,
+                        "rotY": 90.209,
+                        "rotZ": 0.0,
+                        "scaleX": 2.051,
+                        "scaleY": 1.657,
+                        "scaleZ": 1.623
+                    },
+                    "Nickname": "",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 0.713,
+                        "g": 0.713,
+                        "b": 0.713
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomMesh": {
+                        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928713870/C4F85BBE1EC0965FBD57E2BE9A80A8C342BA9CC9/",
+                        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928713969/AB9A969764C96C1726D55E0C5335675C2D7CE7D6/",
+                        "NormalURL": "",
+                        "ColliderURL": "",
+                        "Convex": true,
+                        "MaterialIndex": 1,
+                        "TypeIndex": 0,
+                        "CustomShader": {
+                            "SpecularColor": {
+                                "r": 0.875,
+                                "g": 0.812,
+                                "b": 0.745
+                            },
+                            "SpecularIntensity": 0.0,
+                            "SpecularSharpness": 2.0,
+                            "FresnelStrength": 0.0
+                        },
+                        "CastShadows": true
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

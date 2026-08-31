@@ -1,0 +1,174 @@
+{
+    "GUID": "a7d96e",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -54.634,
+        "posY": 3.822,
+        "posZ": -2.007,
+        "rotX": 359.494,
+        "rotY": 180.0,
+        "rotZ": 359.893,
+        "scaleX": 1.33,
+        "scaleY": 1.0,
+        "scaleZ": 1.33
+    },
+    "Nickname": "Weirwood Tree",
+    "Description": "•  INSPIRING: While within Short range of this terrain piece, units gain +1 to Morale Test rolls.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552546/BD45648DF3B8C3CEB2FF4F68338E1A180815964C/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "45f765",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": 13.575,
+                "posY": 1.947,
+                "posZ": 1.84,
+                "rotX": 0.0,
+                "rotY": 180.0,
+                "rotZ": 0.0,
+                "scaleX": 1.33,
+                "scaleY": 1.0,
+                "scaleZ": 1.33
+            },
+            "Nickname": "Weirwood Tree",
+            "Description": "•  INSPIRING: While within Short range of this terrain piece, units gain +1 to Morale Test rolls.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552546/BD45648DF3B8C3CEB2FF4F68338E1A180815964C/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "8e1130",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": -0.168,
+                        "posY": -0.137,
+                        "posZ": -0.108,
+                        "rotX": 0.0,
+                        "rotY": 16.001,
+                        "rotZ": 0.0,
+                        "scaleX": 1.232,
+                        "scaleY": 1.63,
+                        "scaleZ": 1.232
+                    },
+                    "Nickname": "",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683711339078621/ACDEB0B38B3633BE2CEA48214BAB92F969E20B65/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 1,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+{
+    "GUID": "571d62",
+    "Name": "ScriptingTrigger",
+    "Transform": {
+        "posX": 44.006,
+        "posY": 3.305,
+        "posZ": 11.458,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 4.25,
+        "scaleY": 5.5,
+        "scaleZ": 4.25
+    },
+    "Nickname": "Crown",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.51
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "LuaScriptState": ""
+}

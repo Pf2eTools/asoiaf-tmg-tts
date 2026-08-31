@@ -1,0 +1,159 @@
+{
+    "GUID": "dd67e3",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": 39.75,
+        "posY": 0.555,
+        "posZ": 0.0,
+        "rotX": 0.001,
+        "rotY": 270.0,
+        "rotZ": 0.0,
+        "scaleX": 8.184,
+        "scaleY": 1.0,
+        "scaleZ": 8.184
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.098,
+        "g": 0.098,
+        "b": 0.098
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/37c9687cc785d28da3d7ffe8afe589ab0978a32f/generated/en/game/default-tactics-board.jpg",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.2,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "",
+    "AttachedSnapPoints": [
+        {
+            "Position": {
+                "x": 1.308,
+                "y": 0.406,
+                "z": 0.758
+            }
+        },
+        {
+            "Position": {
+                "x": 0.769,
+                "y": 0.406,
+                "z": 0.758
+            }
+        },
+        {
+            "Position": {
+                "x": 0.251,
+                "y": 0.406,
+                "z": 0.757
+            }
+        },
+        {
+            "Position": {
+                "x": -0.265,
+                "y": 0.406,
+                "z": 0.761
+            }
+        },
+        {
+            "Position": {
+                "x": -0.795,
+                "y": 0.406,
+                "z": 0.761
+            }
+        },
+        {
+            "Position": {
+                "x": -1.315,
+                "y": 0.406,
+                "z": 0.763
+            }
+        },
+        {
+            "Position": {
+                "x": 1.398,
+                "y": 0.2,
+                "z": -0.52
+            },
+            "Rotation": {
+                "x": 0.051,
+                "y": 359.99,
+                "z": 0.0
+            }
+        },
+        {
+            "Position": {
+                "x": 0.692,
+                "y": 0.2,
+                "z": -0.516
+            },
+            "Rotation": {
+                "x": 0.051,
+                "y": 359.99,
+                "z": 0.0
+            }
+        },
+        {
+            "Position": {
+                "x": -0.003,
+                "y": 0.2,
+                "z": -0.524
+            },
+            "Rotation": {
+                "x": 0.051,
+                "y": 359.99,
+                "z": 0.0
+            }
+        },
+        {
+            "Position": {
+                "x": -0.7,
+                "y": 0.2,
+                "z": -0.509
+            },
+            "Rotation": {
+                "x": 0.051,
+                "y": 359.99,
+                "z": 0.0
+            }
+        },
+        {
+            "Position": {
+                "x": -1.393,
+                "y": 0.2,
+                "z": -0.511
+            },
+            "Rotation": {
+                "x": 0.051,
+                "y": 359.99,
+                "z": 0.0
+            }
+        }
+    ]
+}

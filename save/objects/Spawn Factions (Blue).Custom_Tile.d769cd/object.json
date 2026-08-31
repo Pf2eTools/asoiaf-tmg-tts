@@ -1,0 +1,152 @@
+{
+    "GUID": "d769cd",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": -87.0,
+        "posY": 2.05,
+        "posZ": -56.0,
+        "rotX": 0.0,
+        "rotY": 180.0,
+        "rotZ": 0.0,
+        "scaleX": 7.0,
+        "scaleY": 1.0,
+        "scaleZ": 7.0
+    },
+    "Nickname": "Spawn Factions (Blue)",
+    "Description": "Spawn all units and cards of a faction",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685245084490/915A52AD68AC9C74497231894A8F3A97743B16B3/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.2,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "",
+    "CustomUIAssets": [
+        {
+            "Type": 0,
+            "Name": "Baratheon",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258792619/3698BCD212EB474C7A472F3F4ECF5004DD265051/"
+        },
+        {
+            "Type": 0,
+            "Name": "Free Folk",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258792766/8DFF483EA4FCA1D4414AF1CC47BF12C4C4FA6662/"
+        },
+        {
+            "Type": 0,
+            "Name": "Greyjoy",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258793056/CFEF90BC5685E295F8B80FB712EC7EAB61AAE5A3/"
+        },
+        {
+            "Type": 0,
+            "Name": "Lannister",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258793201/BC3040E0DF34BFC7D2DF5F0496A3E4569907D258/"
+        },
+        {
+            "Type": 0,
+            "Name": "Martell",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/assets/warcouncil/martell/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Bolton",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/2056508073735152948/DE662737BECC946F75A7158461940AD235CB2DDD/"
+        },
+        {
+            "Type": 0,
+            "Name": "Neutral",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258793607/BF146AF2F7239EF778B2FB727417BDE1939332DC/"
+        },
+        {
+            "Type": 0,
+            "Name": "Night's Watch",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258793854/8ED3B43E977369528F475F4FBCA47118CADAED63/"
+        },
+        {
+            "Type": 0,
+            "Name": "Stark",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258794007/20908BB8308BA30A66CFFF7D9FD832702251C482/"
+        },
+        {
+            "Type": 0,
+            "Name": "Targaryen",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1937136685258794245/F589638EAAA1AE6FA8797E452BB2D84627239C25/"
+        },
+        {
+            "Type": 0,
+            "Name": "Brotherhood",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/assets/warcouncil/brotherhood/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Tully",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/kullvox-tully/tully/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Tyrell",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/kullvox-tyrell/tyrell/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Blackfyre",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/hotshot-blackfyre/blackfyre/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Others",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/boardmangaming-others/others/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Arryn",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/boardmangaming-arryn/arryn/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Hotshot-Targaryen",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/hotshot-targaryen/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "Hotshot-Baratheon",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/refs/heads/master/custom/assets/hotshot-baratheon/crest-shadow.png"
+        },
+        {
+            "Type": 0,
+            "Name": "hnctatteredprince",
+            "URL": "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/ba3a594928c6933b05ef170e332169799c412865/custom/portraits/hnc-tattered-prince/round/tatterd_prince_ncu.png"
+        }
+    ]
+}

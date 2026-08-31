@@ -1,0 +1,212 @@
+
+<Defaults>
+  <Text class="settingsText" alignment="MiddleLeft" color="#FFFFFF" fontSize="18" tooltipBackgroundColor="Black"></Text>
+  <InputField class="addSetTime" onEndEdit="onEndEdit_genericInput" width="50" characterLimit="2" characterValidation="Integer" text="00" placeholder="00"></InputField>
+</Defaults>
+
+<VerticalLayout id="layout__gamePaused" visibility="Blue|Red|Black" active="false" height="100" width="240" rectAlignment="UpperCenter" childAlignment="MiddleCenter" color="#000000BB" offsetXY="0 -100">
+  <Text height="50" width="240" color="Red" fontStyle="Bold" fontSize="28">CLOCK PAUSED</Text>
+  <Button height="50" width="100" color="#282828" textColor="#FFFFFF" fontSize="18" onclick="onClick_resumeClock">Resume</Button>
+</VerticalLayout>
+
+<VerticalLayout id="layout__timeRanOut" active="false" height="100" width="240" rectAlignment="UpperCenter" childAlignment="MiddleCenter" color="#000000BB" offsetXY="0 -220">
+  <Text id="layout__timeRanOut_text" height="50" width="240" color="White" fontStyle="Bold" fontSize="20">The time ran out!</Text>
+  <Button height="50" width="100" color="#282828" textColor="#FFFFFF" fontSize="18" onclick="onClick_timeRanOutOK">OK</Button>
+</VerticalLayout>
+
+<Panel id="modal__addSetTime_Blue"
+  visibility="Hidden"
+  height="200"
+  width="440"
+  color="#282828"
+  outline="#000000"
+  outlineSize="2 -2"
+  allowDragging="true"
+  returnToOriginalPositionWhenReleased="false">
+  <Text
+      alignment="UpperLeft"
+      fontSize="18"
+      offsetXY="15 -10"
+      fontStyle="Bold"
+      color="#FFFFFF">
+      Add/Set Time <textcolor color="#93D2FF">(Blue)</textcolor>
+  </Text>
+  <Button
+      width="20"
+      height="20"
+      offsetXY="-10 -10"
+      rectAlignment="UpperRight"
+      color="#990000"
+      textColor="#FFFFFF"
+      text="X"
+      onClick="onClick_addSetTime_close(Blue)">
+  </Button>
+  <TableLayout
+      cellBackgroundColor="clear"
+      columnWidths="115 50 10 50 10 50 115"
+      rowBackgroundColor="clear"
+      offsetXY="10 -20"
+      height="160"
+      width="420"
+      rectAlignment="LowerCenter">
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Blue_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Blue_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Blue_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_setTime(Blue)" height="30" width="80">Set Time</Button></Panel></Cell>
+      </Row>
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Blue_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Blue_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Blue_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_addTime(Blue)" height="30" width="80">Add Time</Button></Panel></Cell>
+      </Row>
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Blue_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Blue_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Blue_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_subTime(Blue)" height="30" width="80">Subtract Time</Button></Panel></Cell>
+      </Row>
+  </TableLayout>
+</Panel>
+<Panel id="modal__addSetTime_Red"
+  visibility="Hidden"
+  height="200"
+  width="440"
+  color="#282828"
+  outline="#000000"
+  outlineSize="2 -2"
+  allowDragging="true"
+  returnToOriginalPositionWhenReleased="false">
+  <Text
+      alignment="UpperLeft"
+      fontSize="18"
+      offsetXY="15 -10"
+      fontStyle="Bold"
+      color="#FFFFFF">
+      Add/Set Time <textcolor color="#FFB2B2">(Red)</textcolor>
+  </Text>
+  <Button
+      width="20"
+      height="20"
+      offsetXY="-10 -10"
+      rectAlignment="UpperRight"
+      color="#990000"
+      textColor="#FFFFFF"
+      text="X"
+      onClick="onClick_addSetTime_close(Red)">
+  </Button>
+  <TableLayout
+      cellBackgroundColor="clear"
+      columnWidths="115 50 10 50 10 50 115"
+      rowBackgroundColor="clear"
+      offsetXY="10 -20"
+      height="160"
+      width="420"
+      rectAlignment="LowerCenter">
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Red_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Red_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_setTime__Red_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_setTime(Red)" height="30" width="80">Set Time</Button></Panel></Cell>
+      </Row>
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Red_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Red_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_addTime__Red_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_addTime(Red)" height="30" width="80">Add Time</Button></Panel></Cell>
+      </Row>
+      <Row preferredHeight="40">
+        <Cell><Text class="settingsText" fontStyle="Bold">HH:MM:SS</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Red_H" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Red_M" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Text class="settingsText" alignment="MiddleCenter" fontStyle="Bold">:</Text></Cell>
+        <Cell><Panel preferredWidth="50"><InputField id="ipt_subTime__Red_S" class="addSetTime"></InputField></Panel></Cell>
+        <Cell><Panel preferredWidth="115"><Button onclick="onClick_subTime(Red)" height="30" width="80">Subtract Time</Button></Panel></Cell>
+      </Row>
+  </TableLayout>
+</Panel>
+
+<Panel id="vpPanel"
+  active="true"
+  height="50"
+  width="256"
+  rectAlignment="UpperRight"
+  offsetXY="-190 1">
+  <TableLayout cellPadding="1 1 1"  cellBackgroundColor="clear" columnWidths="53 60 15 15 60 53" rowBackgroundColor="#000000BB">
+      <Row>
+        <Cell columnSpan="2">
+            <Text id="bluePlayer" color="#93D2FF" fontStyle="Bold" fontSize="17" resizeTextForBestFit="true" alignment="MiddleRight">Blue Player</Text>
+        </Cell>
+        <Cell columnSpan="2">
+          <Text color="#FFFFFF" fontStyle="Bold" fontSize="15"> V </Text>
+        </Cell>
+        <Cell columnSpan="2">
+          <Text id="redPlayer" color="#FFB2B2" fontStyle="Bold" fontSize="17" resizeTextForBestFit="true" alignment="MiddleLeft">Red Player</Text>
+        </Cell>
+      </Row>
+      <Row>
+        <Cell>
+            <Text id="bluePlayerVP" color="#93D2FF" fontStyle="Bold" fontSize="17" alignment="MiddleRight">0 VP</Text>
+        </Cell>
+        <Cell>
+            <Text id="bluePlayerUD" color="#93D2FF" fontStyle="Bold" fontSize="17" alignment="MiddleRight">0 UD</Text>
+        </Cell>
+        <Cell columnSpan="2">
+          <Text color="#FFFFFF" fontStyle="Bold" fontSize="19"> : </Text>
+        </Cell>
+        <Cell>
+          <Text id="redPlayerVP" color="#FFB2B2" fontStyle="Bold" fontSize="17" alignment="MiddleLeft">0 VP</Text>
+        </Cell>
+        <Cell>
+          <Text id="redPlayerUD" color="#FFB2B2" fontStyle="Bold" fontSize="17" alignment="MiddleLeft">0 UD</Text>
+        </Cell>
+      </Row>
+      <Row preferredHeight="2" id="tableRow__divider" active="false">
+        <Cell columnSpan="3">
+          <HorizontalLayout ignoreLayout="true" height="2">
+            <Panel id="clock__barSpent_Blue" color="#000000BB" preferredWidth="0"></Panel>
+            <Panel id="clock__barRemaining_Blue" color="#93D2FF" preferredWidth="128"></Panel>
+          </HorizontalLayout>
+        </Cell>
+        <Cell columnSpan="3">
+          <HorizontalLayout ignoreLayout="true" height="2">
+            <Panel id="clock__barRemaining_Red" color="#FFB2B2" preferredWidth="128"></Panel>
+            <Panel id="clock__barSpent_Red" color="#000000BB" preferredWidth="0"></Panel>
+          </HorizontalLayout>
+        </Cell>
+      </Row>
+      <Row id="tableRow__clock" active="false">
+        <Cell columnSpan="2">
+            <Text id="bluePlayerTime" tooltip="Edit" tooltipPosition="Below" onclick="onClick_addSetTime_show(Blue)" color="#93D2FF" fontStyle="Bold" fontSize="17" alignment="MiddleRight">00:00:00</Text>
+        </Cell>
+        <Cell columnSpan="2">
+          <Text onClick="onClick_clockPauseSymbol" tooltip="Pause" tooltipPosition="Below" color="#FFFFFF" fontStyle="Bold" fontSize="14"> || </Text>
+        </Cell>
+        <Cell columnSpan="2">
+          <Text id="redPlayerTime" tooltip="Edit" tooltipPosition="Below" onclick="onClick_addSetTime_show(Red)" color="#FFB2B2" fontStyle="Bold" fontSize="17" alignment="MiddleLeft">00:00:00</Text>
+        </Cell>
+      </Row>
+      <Row id="tableRow__spectator" active="false">
+        <Cell columnSpan="6">
+          <Text id="spectator_gamemode" color="#FFFFFF" fontStyle="Bold" fontSize="17" text="No Gamemode"></Text>
+        </Cell>
+      </Row>
+  </TableLayout>
+</Panel>

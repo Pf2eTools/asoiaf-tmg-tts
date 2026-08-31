@@ -1,0 +1,11 @@
+<Panel id="navigation" height="50" width="150" position="0 94 -11" rotation="180 180 0">
+  <TableLayout cellSpacing="3" cellBackgroundColor="clear">
+    <Row>
+      <Cell><Button id="previous" onClick="onPreviousClick" color="#FFFFFF00" active="true" icon="left"></Button></Cell>
+      <Cell></Cell>
+      <Cell></Cell>
+      <Cell></Cell>
+      <Cell><Button id="next" onClick="onNextClick" color="#FFFFFF00" active="true" icon="right"></Button></Cell>
+    </Row>
+  </TableLayout>
+</Panel>

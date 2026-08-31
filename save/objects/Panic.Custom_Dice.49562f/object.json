@@ -1,0 +1,106 @@
+{
+    "GUID": "49562f",
+    "Name": "Custom_Dice",
+    "Transform": {
+        "posX": -32.968,
+        "posY": 2.226,
+        "posZ": -27.61,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 1.6,
+        "scaleY": 1.6,
+        "scaleZ": 1.6
+    },
+    "Nickname": "Panic",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Blue",
+        "PanicDice"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2502390525066783998/50A5DBC4A4FAF217F8AA65B75AD2117665170EF1/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomDice": {
+            "Type": 1
+        }
+    },
+    "LuaScriptState": "",
+    "RotationValues": [
+        {
+            "Value": "1",
+            "Rotation": {
+                "x": -90.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Value": "2",
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Value": "3",
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -90.0
+            }
+        },
+        {
+            "Value": "4",
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 90.0
+            }
+        },
+        {
+            "Value": "5",
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": -180.0
+            }
+        },
+        {
+            "Value": "6",
+            "Rotation": {
+                "x": 90.0,
+                "y": 180.0,
+                "z": 0.0
+            }
+        }
+    ]
+}

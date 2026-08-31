@@ -1,0 +1,59 @@
+{
+    "GUID": "6a7455",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -77.355,
+        "posY": 1.793,
+        "posZ": 14.99,
+        "rotX": 0.0,
+        "rotY": 0.118,
+        "rotZ": 180.0,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "Banner's Peace",
+    "Description": "Game Mode Banner's Peace",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "Tags": [
+        "GamemodeCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 167000,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1670": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/15244292321113186045/588A1E6202834606888B807D99F5F0CE4B522E13/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834317745/9F1313366FB17C946BC893B049513DE82D98CDBF/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

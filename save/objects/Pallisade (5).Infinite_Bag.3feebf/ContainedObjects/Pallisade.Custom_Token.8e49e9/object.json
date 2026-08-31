@@ -1,0 +1,174 @@
+{
+    "GUID": "8e49e9",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -54.692,
+        "posY": 3.817,
+        "posZ": 15.037,
+        "rotX": 2.303,
+        "rotY": 180.001,
+        "rotZ": 359.971,
+        "scaleX": 0.79,
+        "scaleY": 1.0,
+        "scaleZ": 0.79
+    },
+    "Nickname": "Pallisade",
+    "Description": "•  BLOCKS LINE OF SIGHT: Line of Sight may not be traced through this terrain piece by units not inside this Terrain piece.\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  IMPASSABLE: Units may pivot over, but never move into, through, or end overlapping, this Terrain piece.\r\n",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734554044/3EC24B9D75999AFE5E7ACF782CBEB2CB5E7363F6/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "77e398",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": 3.38,
+                "posY": 1.947,
+                "posZ": 12.274,
+                "rotX": 0.0,
+                "rotY": 180.0,
+                "rotZ": 0.0,
+                "scaleX": 0.79,
+                "scaleY": 1.0,
+                "scaleZ": 0.79
+            },
+            "Nickname": "Pallisade",
+            "Description": "•  BLOCKS LINE OF SIGHT: Line of Sight may not be traced through this terrain piece by units not inside this Terrain piece.\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  IMPASSABLE: Units may pivot over, but never move into, through, or end overlapping, this Terrain piece.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734554044/3EC24B9D75999AFE5E7ACF782CBEB2CB5E7363F6/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "160448",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 0.003,
+                        "posY": -0.047,
+                        "posZ": -0.145,
+                        "rotX": 0.0,
+                        "rotY": 270.0,
+                        "rotZ": 0.0,
+                        "scaleX": 3.4,
+                        "scaleY": 2.55,
+                        "scaleZ": 3.4
+                    },
+                    "Nickname": "Z_L2_Palisade1",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928712508/585022FF0C4AF92D88E93DCA469B90ADD3B7C7A5/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

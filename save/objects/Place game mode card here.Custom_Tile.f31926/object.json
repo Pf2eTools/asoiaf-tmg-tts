@@ -1,0 +1,55 @@
+{
+    "GUID": "f31926",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": -37.5,
+        "posY": 0.65,
+        "posZ": 0.0,
+        "rotX": -0.001,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 4.0,
+        "scaleY": 1.0,
+        "scaleZ": 4.0
+    },
+    "Nickname": "Place game mode card here",
+    "Description": "Will spawn deployment zones and game mode assets",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1482201742854472818/4818CD3D8F152C863441C9EED2F33D8A263DDFFC/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 3,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": ""
+}

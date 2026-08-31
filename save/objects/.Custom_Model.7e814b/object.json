@@ -1,0 +1,53 @@
+{
+    "GUID": "7e814b",
+    "Name": "Custom_Model",
+    "Transform": {
+        "posX": 57.246,
+        "posY": -10.0,
+        "posZ": 1.293,
+        "rotX": 0.0,
+        "rotY": 270.009,
+        "rotZ": 0.0,
+        "scaleX": 0.05,
+        "scaleY": 0.05,
+        "scaleZ": 0.05
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/2058741574604894037/E4C82476B48C5013D47131B936640FDFE6E98CB9/",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CastShadows": true
+    },
+    "LuaScriptState": ""
+}

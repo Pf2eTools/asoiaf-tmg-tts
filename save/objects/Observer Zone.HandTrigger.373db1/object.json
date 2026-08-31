@@ -1,0 +1,45 @@
+{
+    "GUID": "373db1",
+    "Name": "HandTrigger",
+    "Transform": {
+        "posX": -129.343,
+        "posY": 6.0,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 15.0,
+        "scaleY": 10.0,
+        "scaleZ": 5.0
+    },
+    "Nickname": "Observer Zone",
+    "Description": "For Streamers",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09,
+        "a": 0.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": false,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "FogColor": "Brown",
+    "LuaScriptState": ""
+}

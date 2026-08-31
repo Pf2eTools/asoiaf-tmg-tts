@@ -1,0 +1,59 @@
+{
+    "GUID": "b07041",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -76.582,
+        "posY": 2.419,
+        "posZ": 14.795,
+        "rotX": 0.003,
+        "rotY": 179.99,
+        "rotZ": 210.576,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "Politics is Nothing, Only Weapons Count",
+    "Description": "Game Mode Politics is Nothing, Only Weapons Count",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "Tags": [
+        "GamemodeCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 167500,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1675": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/16507486628042649247/32AFDF3BA80133D10F2A7601A8BA72D2DC303482/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834317745/9F1313366FB17C946BC893B049513DE82D98CDBF/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

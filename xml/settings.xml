@@ -1,0 +1,60 @@
+
+<Button id="settingsButton"
+onclick="onClick_settings"
+active="true"
+visibility="Blue|Black|Red"
+rectAlignment="UpperLeft"
+offsetXY="317 -3"
+width="60"
+height="60"
+icon="Settings"
+color="#FFFFFF00"
+tooltip="Open Settings Menu"
+tooltipPosition="Below">
+</Button>
+
+<Panel id="modal__settings"
+  visibility="Hidden"
+  height="600"
+  width="1066"
+  color="#282828"
+  outline="#000000"
+  outlineSize="2 -2"
+  allowDragging="true"
+  returnToOriginalPositionWhenReleased="false">
+  <Text
+      alignment="UpperLeft"
+      fontSize="18"
+      offsetXY="15 -10"
+      fontStyle="Bold"
+      color="#FFFFFF"
+      text="Settings">
+  </Text>
+  <Button id="modal__settings_close"
+      width="20"
+      height="20"
+      offsetXY="-10 -10"
+      rectAlignment="UpperRight"
+      color="#990000"
+      textColor="#FFFFFF"
+      text="X"
+      onClick="onClick_closeSettings">
+  </Button>
+  <VerticalScrollView
+      height="550"
+      width="1048"
+      offsetXY="-1 10"
+      rectAlignment="LowerCenter"
+      scrollSensitivity="50"
+      color="#00000000"
+      scrollbarColors="#CDCDCD|#727272|#333333|rgba(0.78,0.78,0.78,0.5)">
+      <TableLayout id="modal__settings_wrp"
+          width="1018"
+          height="1000"
+          offsetXY="6 0"
+          columnWidths="40 300 40 626"
+          cellBackgroundColor="clear"
+          cellPadding="2 2 0 0">
+      </TableLayout>
+  </VerticalScrollView>
+</Panel>

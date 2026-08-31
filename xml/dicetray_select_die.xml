@@ -1,0 +1,32 @@
+<Cell>
+  <Dropdown id="selectDie" active="true"
+    onValueChanged="onSelectDie_ValueChanged"
+    width="200" height="35"
+    fontSize="20" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+  <Dropdown id="selectTslDie" active="false"
+    onValueChanged="onSelectDie_ValueChanged"
+    width="200" height="35"
+    fontSize="16" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+  <Dropdown id="selectCommunityDie" active="false"
+    onValueChanged="onSelectDie_ValueChanged"
+    width="200" height="35"
+    fontSize="16" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+  <Dropdown id="selectWorldCupDie" active="false"
+    onValueChanged="onSelectDie_ValueChanged"
+    width="200" height="35"
+    fontSize="20" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+  <Dropdown id="selectChampionDie" active="false"
+    onValueChanged="onSelectDie_ValueChanged"
+    width="200" height="35"
+    fontSize="12" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+</Cell>
+<Cell>
+  <Dropdown id="diceTypeDropDown" onValueChanged="onDiceTypeDropDown_ValueChanged"
+    height="35" fontSize="16" itemHeight="35" fontStyle="Bold">
+  </Dropdown>
+</Cell>

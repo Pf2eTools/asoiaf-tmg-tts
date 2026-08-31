@@ -1,0 +1,91 @@
+<TableLayout
+    position="0 -4000 -1050"
+    columnWidths="1000 200"
+    height="600"
+    cellBackgroundColor="clear"
+    visibility="Admin">
+    <Row preferredHeight="200">
+        <Cell>
+            <Text
+                color="white"
+                fontSize="100"
+                >Number of Packs
+            </Text>
+        </Cell>
+        <Cell>
+            <InputField
+                id="inputNumPacks"
+                height="200"
+                width="200"
+                characterValidation="Integer"
+                characterLimit="2"
+                fontSize="100"
+                onEndEdit="Global/onEndEdit_numPacks"
+                >
+                4
+            </InputField>
+        </Cell>
+    </Row>
+    <Row preferredHeight="200">
+        <Cell>
+            <Text
+                color="white"
+                fontSize="100"
+                >Packsize
+            </Text>
+        </Cell>
+        <Cell>
+            <InputField
+                id="inputPacksize"
+                height="200"
+                width="200"
+                characterValidation="Integer"
+                characterLimit="2"
+                fontSize="100"
+                onEndEdit="Global/onEndEdit_packsize"
+                >
+                10
+            </InputField>
+        </Cell>
+    </Row>
+    <Row preferredHeight="200">
+        <Cell columnSpan="2">
+            <Button
+                fontSize="100"
+                text="Spawn!"
+                onclick="Global/onClick_spawn"
+            ></Button>
+        </Cell>
+    </Row>
+</TableLayout>
+
+
+<TableLayout
+    position="8000 -4000 -1050"
+    columnWidths="1000 200"
+    height="1200"
+    cellBackgroundColor="clear">
+    <Row preferredHeight="1000">
+        <Cell columnSpan="2">
+            <InputField
+                id="inputArmyText"
+                lineType="MultiLineNewLine"
+                height="1000"
+                width="1200"
+                fontSize="40"
+                readOnly="true"
+                placeholder="Copy once generated"
+                >
+            </InputField>
+        </Cell>
+    </Row>
+    <Row preferredHeight="200">
+        <Cell columnSpan="2">
+            <Button
+                fontSize="100"
+                text="Generate Army Text"
+                onclick="Global/onClick_genText"
+            ></Button>
+        </Cell>
+    </Row>
+</TableLayout>

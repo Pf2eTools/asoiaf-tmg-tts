@@ -1,0 +1,55 @@
+{
+    "GUID": "ca0779",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -53.156,
+        "posY": 3.878,
+        "posZ": -27.575,
+        "rotX": 3.683,
+        "rotY": 179.97,
+        "rotZ": 359.558,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "Pass",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2056509977580427287/FA28BC782802062FEBDDB02691E0ABE0C81E2C0B/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.2,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": true
+        }
+    },
+    "LuaScriptState": ""
+}

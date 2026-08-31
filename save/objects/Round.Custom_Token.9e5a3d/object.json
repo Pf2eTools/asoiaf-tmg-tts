@@ -1,0 +1,55 @@
+{
+    "GUID": "9e5a3d",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": 33.546,
+        "posY": 1.007,
+        "posZ": 10.702,
+        "rotX": 0.001,
+        "rotY": 270.0,
+        "rotZ": 180.0,
+        "scaleX": 0.65,
+        "scaleY": 1.0,
+        "scaleZ": 0.65
+    },
+    "Nickname": "Round",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834123070/7D877257F9F08635ABBE40367BDF69048CC526E6/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.505,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": ""
+}

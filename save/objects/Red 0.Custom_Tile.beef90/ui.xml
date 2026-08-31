@@ -1,0 +1,21 @@
+<!-- include xml\vpTracker_Red.xml -->
+<Panel id="vpTracker" height="200" width="200" position="0 -72 -11" rotation="180 180 0">
+
+  <TableLayout cellSpacing="3" cellBackgroundColor="clear">
+
+    <Row>
+
+      <Cell><Button id="RemoveVP" onClick="Global/onClick_removeVP(Red)" color="#FFFFFF00" active="false" icon="RemoveVP"></Button></Cell>
+
+      <Cell></Cell>
+
+      <Cell><Button id="AddVP" onClick="Global/onClick_addVP(Red)" color="#FFFFFF00" active="true" icon="AddVP"></Button></Cell>
+
+    </Row>
+
+  </TableLayout>
+
+</Panel>
+
+
+<!-- include xml\vpTracker_Red.xml -->

@@ -1,0 +1,59 @@
+{
+    "GUID": "d08cdd",
+    "Name": "Card",
+    "Transform": {
+        "posX": -17.007,
+        "posY": 1.911,
+        "posZ": -14.867,
+        "rotX": 0.0,
+        "rotY": 179.964,
+        "rotZ": 0.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "Objective - +1 Card While Controlling",
+    "Description": "While you Control this Objective, you gain +1 Tactics Hand size, and draw +1 card when refilling your hand.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.713,
+        "g": 0.713,
+        "b": 0.713
+    },
+    "Tags": [
+        "ObjectiveCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 10006000,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "100060": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2072257990323890315/54B67B9C714FFA050EB00DD44CCC1EE25B604D46/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2072257990323890796/219F7F1E123C42DFF58A1BF1B8756D9489B423C5/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

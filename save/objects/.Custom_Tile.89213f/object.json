@@ -1,0 +1,1117 @@
+{
+    "GUID": "89213f",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": 51.97,
+        "posY": -5.0,
+        "posZ": -17.47,
+        "rotX": 0.0,
+        "rotY": 180.013,
+        "rotZ": 0.007,
+        "scaleX": 0.024,
+        "scaleY": 1.0,
+        "scaleZ": 0.024
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185769591/E5898C3895E4B8263BCF94C87E16690A31F69A99/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "",
+    "ChildObjects": [
+        {
+            "GUID": "3ad5c3",
+            "Name": "Custom_Tile",
+            "Transform": {
+                "posX": -2.08,
+                "posY": 0.0,
+                "posZ": -0.065,
+                "rotX": 0.0,
+                "rotY": 359.985,
+                "rotZ": 0.0,
+                "scaleX": 1.0,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+            },
+            "Nickname": "",
+            "Description": "",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185770229/7DC625B8B9634E84CC023159EDEA7073144C33AE/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                    "Type": 0,
+                    "Thickness": 0.1,
+                    "Stackable": false,
+                    "Stretch": true
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "da563b",
+                    "Name": "Custom_Tile",
+                    "Transform": {
+                        "posX": -2.015,
+                        "posY": 0.0,
+                        "posZ": -0.081,
+                        "rotX": 0.0,
+                        "rotY": 0.0,
+                        "rotZ": 0.0,
+                        "scaleX": 1.0,
+                        "scaleY": 1.0,
+                        "scaleZ": 1.0
+                    },
+                    "Nickname": "",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomImage": {
+                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185770911/80918C14E2D1FA8529AC9589913A31688DB4F6B1/",
+                        "ImageSecondaryURL": "",
+                        "ImageScalar": 1.0,
+                        "WidthScale": 0.0,
+                        "CustomTile": {
+                            "Type": 0,
+                            "Thickness": 0.1,
+                            "Stackable": false,
+                            "Stretch": true
+                        }
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": "",
+                    "ChildObjects": [
+                        {
+                            "GUID": "32b6e7",
+                            "Name": "Custom_Tile",
+                            "Transform": {
+                                "posX": -2.11,
+                                "posY": 0.0,
+                                "posZ": 0.003,
+                                "rotX": 0.0,
+                                "rotY": 0.0,
+                                "rotZ": 0.0,
+                                "scaleX": 1.0,
+                                "scaleY": 1.0,
+                                "scaleZ": 1.0
+                            },
+                            "Nickname": "",
+                            "Description": "",
+                            "GMNotes": "",
+                            "AltLookAngle": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "ColorDiffuse": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0
+                            },
+                            "LayoutGroupSortIndex": 0,
+                            "Value": 0,
+                            "Locked": false,
+                            "Grid": true,
+                            "Snap": true,
+                            "IgnoreFoW": false,
+                            "MeasureMovement": false,
+                            "DragSelectable": true,
+                            "Autoraise": true,
+                            "Sticky": true,
+                            "Tooltip": true,
+                            "GridProjection": false,
+                            "HideWhenFaceDown": false,
+                            "Hands": false,
+                            "CustomImage": {
+                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185771571/83963996F5CABFF696E503BC66A49D93CD1DE00A/",
+                                "ImageSecondaryURL": "",
+                                "ImageScalar": 1.0,
+                                "WidthScale": 0.0,
+                                "CustomTile": {
+                                    "Type": 0,
+                                    "Thickness": 0.1,
+                                    "Stackable": false,
+                                    "Stretch": true
+                                }
+                            },
+                            "LuaScript": "",
+                            "LuaScriptState": "",
+                            "XmlUI": "",
+                            "ChildObjects": [
+                                {
+                                    "GUID": "d1f8e0",
+                                    "Name": "Custom_Tile",
+                                    "Transform": {
+                                        "posX": -1.916,
+                                        "posY": 0.0,
+                                        "posZ": -2.175,
+                                        "rotX": 0.0,
+                                        "rotY": 0.0,
+                                        "rotZ": 0.0,
+                                        "scaleX": 1.0,
+                                        "scaleY": 1.0,
+                                        "scaleZ": 1.0
+                                    },
+                                    "Nickname": "",
+                                    "Description": "",
+                                    "GMNotes": "",
+                                    "AltLookAngle": {
+                                        "x": 0.0,
+                                        "y": 0.0,
+                                        "z": 0.0
+                                    },
+                                    "ColorDiffuse": {
+                                        "r": 1.0,
+                                        "g": 1.0,
+                                        "b": 1.0
+                                    },
+                                    "LayoutGroupSortIndex": 0,
+                                    "Value": 0,
+                                    "Locked": false,
+                                    "Grid": true,
+                                    "Snap": true,
+                                    "IgnoreFoW": false,
+                                    "MeasureMovement": false,
+                                    "DragSelectable": true,
+                                    "Autoraise": true,
+                                    "Sticky": true,
+                                    "Tooltip": true,
+                                    "GridProjection": false,
+                                    "HideWhenFaceDown": false,
+                                    "Hands": false,
+                                    "CustomImage": {
+                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185768925/77919D6F9B1337C4508FE37017DCEA524F46D2D3/",
+                                        "ImageSecondaryURL": "",
+                                        "ImageScalar": 1.0,
+                                        "WidthScale": 0.0,
+                                        "CustomTile": {
+                                            "Type": 0,
+                                            "Thickness": 0.1,
+                                            "Stackable": false,
+                                            "Stretch": true
+                                        }
+                                    },
+                                    "LuaScript": "",
+                                    "LuaScriptState": "",
+                                    "XmlUI": "",
+                                    "ChildObjects": [
+                                        {
+                                            "GUID": "04a35d",
+                                            "Name": "Custom_Tile",
+                                            "Transform": {
+                                                "posX": 2.059,
+                                                "posY": 0.0,
+                                                "posZ": 0.041,
+                                                "rotX": 0.0,
+                                                "rotY": 0.0,
+                                                "rotZ": 0.0,
+                                                "scaleX": 1.0,
+                                                "scaleY": 1.0,
+                                                "scaleZ": 1.0
+                                            },
+                                            "Nickname": "",
+                                            "Description": "",
+                                            "GMNotes": "",
+                                            "AltLookAngle": {
+                                                "x": 0.0,
+                                                "y": 0.0,
+                                                "z": 0.0
+                                            },
+                                            "ColorDiffuse": {
+                                                "r": 1.0,
+                                                "g": 1.0,
+                                                "b": 1.0
+                                            },
+                                            "LayoutGroupSortIndex": 0,
+                                            "Value": 0,
+                                            "Locked": false,
+                                            "Grid": true,
+                                            "Snap": true,
+                                            "IgnoreFoW": false,
+                                            "MeasureMovement": false,
+                                            "DragSelectable": true,
+                                            "Autoraise": true,
+                                            "Sticky": true,
+                                            "Tooltip": true,
+                                            "GridProjection": false,
+                                            "HideWhenFaceDown": false,
+                                            "Hands": false,
+                                            "CustomImage": {
+                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185768470/F8796C040B5A4506932CB6A38AEDC01EF588A3FC/",
+                                                "ImageSecondaryURL": "",
+                                                "ImageScalar": 1.0,
+                                                "WidthScale": 0.0,
+                                                "CustomTile": {
+                                                    "Type": 0,
+                                                    "Thickness": 0.1,
+                                                    "Stackable": false,
+                                                    "Stretch": true
+                                                }
+                                            },
+                                            "LuaScript": "",
+                                            "LuaScriptState": "",
+                                            "XmlUI": "",
+                                            "ChildObjects": [
+                                                {
+                                                    "GUID": "65c0fa",
+                                                    "Name": "Custom_Tile",
+                                                    "Transform": {
+                                                        "posX": 2.036,
+                                                        "posY": 0.0,
+                                                        "posZ": 0.03,
+                                                        "rotX": 0.0,
+                                                        "rotY": 0.0,
+                                                        "rotZ": 0.0,
+                                                        "scaleX": 1.0,
+                                                        "scaleY": 1.0,
+                                                        "scaleZ": 1.0
+                                                    },
+                                                    "Nickname": "",
+                                                    "Description": "",
+                                                    "GMNotes": "",
+                                                    "AltLookAngle": {
+                                                        "x": 0.0,
+                                                        "y": 0.0,
+                                                        "z": 0.0
+                                                    },
+                                                    "ColorDiffuse": {
+                                                        "r": 1.0,
+                                                        "g": 1.0,
+                                                        "b": 1.0
+                                                    },
+                                                    "LayoutGroupSortIndex": 0,
+                                                    "Value": 0,
+                                                    "Locked": false,
+                                                    "Grid": true,
+                                                    "Snap": true,
+                                                    "IgnoreFoW": false,
+                                                    "MeasureMovement": false,
+                                                    "DragSelectable": true,
+                                                    "Autoraise": true,
+                                                    "Sticky": true,
+                                                    "Tooltip": true,
+                                                    "GridProjection": false,
+                                                    "HideWhenFaceDown": false,
+                                                    "Hands": false,
+                                                    "CustomImage": {
+                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185767920/B43F93B5D30D87FABCDD048AE331A2D02B0F30BE/",
+                                                        "ImageSecondaryURL": "",
+                                                        "ImageScalar": 1.0,
+                                                        "WidthScale": 0.0,
+                                                        "CustomTile": {
+                                                            "Type": 0,
+                                                            "Thickness": 0.1,
+                                                            "Stackable": false,
+                                                            "Stretch": true
+                                                        }
+                                                    },
+                                                    "LuaScript": "",
+                                                    "LuaScriptState": "",
+                                                    "XmlUI": "",
+                                                    "ChildObjects": [
+                                                        {
+                                                            "GUID": "9f6a3e",
+                                                            "Name": "Custom_Tile",
+                                                            "Transform": {
+                                                                "posX": 1.99,
+                                                                "posY": 0.0,
+                                                                "posZ": 0.022,
+                                                                "rotX": 0.0,
+                                                                "rotY": 0.04,
+                                                                "rotZ": 0.0,
+                                                                "scaleX": 1.0,
+                                                                "scaleY": 1.0,
+                                                                "scaleZ": 1.0
+                                                            },
+                                                            "Nickname": "",
+                                                            "Description": "",
+                                                            "GMNotes": "",
+                                                            "AltLookAngle": {
+                                                                "x": 0.0,
+                                                                "y": 0.0,
+                                                                "z": 0.0
+                                                            },
+                                                            "ColorDiffuse": {
+                                                                "r": 1.0,
+                                                                "g": 1.0,
+                                                                "b": 1.0
+                                                            },
+                                                            "LayoutGroupSortIndex": 0,
+                                                            "Value": 0,
+                                                            "Locked": false,
+                                                            "Grid": true,
+                                                            "Snap": true,
+                                                            "IgnoreFoW": false,
+                                                            "MeasureMovement": false,
+                                                            "DragSelectable": true,
+                                                            "Autoraise": true,
+                                                            "Sticky": true,
+                                                            "Tooltip": true,
+                                                            "GridProjection": false,
+                                                            "HideWhenFaceDown": false,
+                                                            "Hands": false,
+                                                            "CustomImage": {
+                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185767435/EE8DF68E4BB203D3F85110931671D386CCE7B3DD/",
+                                                                "ImageSecondaryURL": "",
+                                                                "ImageScalar": 1.0,
+                                                                "WidthScale": 0.0,
+                                                                "CustomTile": {
+                                                                    "Type": 0,
+                                                                    "Thickness": 0.1,
+                                                                    "Stackable": false,
+                                                                    "Stretch": true
+                                                                }
+                                                            },
+                                                            "LuaScript": "",
+                                                            "LuaScriptState": "",
+                                                            "XmlUI": "",
+                                                            "ChildObjects": [
+                                                                {
+                                                                    "GUID": "7b904e",
+                                                                    "Name": "Custom_Tile",
+                                                                    "Transform": {
+                                                                        "posX": 2.07,
+                                                                        "posY": 0.0,
+                                                                        "posZ": 0.039,
+                                                                        "rotX": 0.0,
+                                                                        "rotY": 359.96,
+                                                                        "rotZ": 0.0,
+                                                                        "scaleX": 1.0,
+                                                                        "scaleY": 1.0,
+                                                                        "scaleZ": 1.0
+                                                                    },
+                                                                    "Nickname": "",
+                                                                    "Description": "",
+                                                                    "GMNotes": "",
+                                                                    "AltLookAngle": {
+                                                                        "x": 0.0,
+                                                                        "y": 0.0,
+                                                                        "z": 0.0
+                                                                    },
+                                                                    "ColorDiffuse": {
+                                                                        "r": 1.0,
+                                                                        "g": 1.0,
+                                                                        "b": 1.0
+                                                                    },
+                                                                    "LayoutGroupSortIndex": 0,
+                                                                    "Value": 0,
+                                                                    "Locked": false,
+                                                                    "Grid": true,
+                                                                    "Snap": true,
+                                                                    "IgnoreFoW": false,
+                                                                    "MeasureMovement": false,
+                                                                    "DragSelectable": true,
+                                                                    "Autoraise": true,
+                                                                    "Sticky": true,
+                                                                    "Tooltip": true,
+                                                                    "GridProjection": false,
+                                                                    "HideWhenFaceDown": false,
+                                                                    "Hands": false,
+                                                                    "CustomImage": {
+                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185766747/11E599D7C7801D84EBBC7AC3D9176542380CDF76/",
+                                                                        "ImageSecondaryURL": "",
+                                                                        "ImageScalar": 1.0,
+                                                                        "WidthScale": 0.0,
+                                                                        "CustomTile": {
+                                                                            "Type": 0,
+                                                                            "Thickness": 0.1,
+                                                                            "Stackable": false,
+                                                                            "Stretch": true
+                                                                        }
+                                                                    },
+                                                                    "LuaScript": "",
+                                                                    "LuaScriptState": "",
+                                                                    "XmlUI": "",
+                                                                    "ChildObjects": [
+                                                                        {
+                                                                            "GUID": "b044ee",
+                                                                            "Name": "Custom_Tile",
+                                                                            "Transform": {
+                                                                                "posX": -0.025,
+                                                                                "posY": 0.0,
+                                                                                "posZ": -2.193,
+                                                                                "rotX": 0.0,
+                                                                                "rotY": 0.0,
+                                                                                "rotZ": 0.0,
+                                                                                "scaleX": 1.0,
+                                                                                "scaleY": 1.0,
+                                                                                "scaleZ": 1.0
+                                                                            },
+                                                                            "Nickname": "",
+                                                                            "Description": "",
+                                                                            "GMNotes": "",
+                                                                            "AltLookAngle": {
+                                                                                "x": 0.0,
+                                                                                "y": 0.0,
+                                                                                "z": 0.0
+                                                                            },
+                                                                            "ColorDiffuse": {
+                                                                                "r": 1.0,
+                                                                                "g": 1.0,
+                                                                                "b": 1.0
+                                                                            },
+                                                                            "LayoutGroupSortIndex": 0,
+                                                                            "Value": 0,
+                                                                            "Locked": false,
+                                                                            "Grid": true,
+                                                                            "Snap": true,
+                                                                            "IgnoreFoW": false,
+                                                                            "MeasureMovement": false,
+                                                                            "DragSelectable": true,
+                                                                            "Autoraise": true,
+                                                                            "Sticky": true,
+                                                                            "Tooltip": true,
+                                                                            "GridProjection": false,
+                                                                            "HideWhenFaceDown": false,
+                                                                            "Hands": false,
+                                                                            "CustomImage": {
+                                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185761906/D7A60128AC0A0C6E0CC9B936096A18761D437A67/",
+                                                                                "ImageSecondaryURL": "",
+                                                                                "ImageScalar": 1.0,
+                                                                                "WidthScale": 0.0,
+                                                                                "CustomTile": {
+                                                                                    "Type": 0,
+                                                                                    "Thickness": 0.1,
+                                                                                    "Stackable": false,
+                                                                                    "Stretch": true
+                                                                                }
+                                                                            },
+                                                                            "LuaScript": "",
+                                                                            "LuaScriptState": "",
+                                                                            "XmlUI": "",
+                                                                            "ChildObjects": [
+                                                                                {
+                                                                                    "GUID": "e248cb",
+                                                                                    "Name": "Custom_Tile",
+                                                                                    "Transform": {
+                                                                                        "posX": -1.985,
+                                                                                        "posY": 0.0,
+                                                                                        "posZ": -0.05,
+                                                                                        "rotX": 0.0,
+                                                                                        "rotY": -0.001,
+                                                                                        "rotZ": 0.0,
+                                                                                        "scaleX": 1.0,
+                                                                                        "scaleY": 1.0,
+                                                                                        "scaleZ": 1.0
+                                                                                    },
+                                                                                    "Nickname": "",
+                                                                                    "Description": "",
+                                                                                    "GMNotes": "",
+                                                                                    "AltLookAngle": {
+                                                                                        "x": 0.0,
+                                                                                        "y": 0.0,
+                                                                                        "z": 0.0
+                                                                                    },
+                                                                                    "ColorDiffuse": {
+                                                                                        "r": 1.0,
+                                                                                        "g": 1.0,
+                                                                                        "b": 1.0
+                                                                                    },
+                                                                                    "LayoutGroupSortIndex": 0,
+                                                                                    "Value": 0,
+                                                                                    "Locked": false,
+                                                                                    "Grid": true,
+                                                                                    "Snap": true,
+                                                                                    "IgnoreFoW": false,
+                                                                                    "MeasureMovement": false,
+                                                                                    "DragSelectable": true,
+                                                                                    "Autoraise": true,
+                                                                                    "Sticky": true,
+                                                                                    "Tooltip": true,
+                                                                                    "GridProjection": false,
+                                                                                    "HideWhenFaceDown": false,
+                                                                                    "Hands": false,
+                                                                                    "CustomImage": {
+                                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185764604/D19DACFCB5AC89C3ECC1CB18134F98D2ACA5209C/",
+                                                                                        "ImageSecondaryURL": "",
+                                                                                        "ImageScalar": 1.0,
+                                                                                        "WidthScale": 0.0,
+                                                                                        "CustomTile": {
+                                                                                            "Type": 0,
+                                                                                            "Thickness": 0.1,
+                                                                                            "Stackable": false,
+                                                                                            "Stretch": true
+                                                                                        }
+                                                                                    },
+                                                                                    "LuaScript": "",
+                                                                                    "LuaScriptState": "",
+                                                                                    "XmlUI": "",
+                                                                                    "ChildObjects": [
+                                                                                        {
+                                                                                            "GUID": "a6343d",
+                                                                                            "Name": "Custom_Tile",
+                                                                                            "Transform": {
+                                                                                                "posX": -2.031,
+                                                                                                "posY": 0.0,
+                                                                                                "posZ": -0.023,
+                                                                                                "rotX": 0.0,
+                                                                                                "rotY": 0.001,
+                                                                                                "rotZ": 0.0,
+                                                                                                "scaleX": 1.0,
+                                                                                                "scaleY": 1.0,
+                                                                                                "scaleZ": 1.0
+                                                                                            },
+                                                                                            "Nickname": "",
+                                                                                            "Description": "",
+                                                                                            "GMNotes": "",
+                                                                                            "AltLookAngle": {
+                                                                                                "x": 0.0,
+                                                                                                "y": 0.0,
+                                                                                                "z": 0.0
+                                                                                            },
+                                                                                            "ColorDiffuse": {
+                                                                                                "r": 1.0,
+                                                                                                "g": 1.0,
+                                                                                                "b": 1.0
+                                                                                            },
+                                                                                            "LayoutGroupSortIndex": 0,
+                                                                                            "Value": 0,
+                                                                                            "Locked": false,
+                                                                                            "Grid": true,
+                                                                                            "Snap": true,
+                                                                                            "IgnoreFoW": false,
+                                                                                            "MeasureMovement": false,
+                                                                                            "DragSelectable": true,
+                                                                                            "Autoraise": true,
+                                                                                            "Sticky": true,
+                                                                                            "Tooltip": true,
+                                                                                            "GridProjection": false,
+                                                                                            "HideWhenFaceDown": false,
+                                                                                            "Hands": false,
+                                                                                            "CustomImage": {
+                                                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185765124/5632603B54A09B52B8B4FA9C586D9E004490687B/",
+                                                                                                "ImageSecondaryURL": "",
+                                                                                                "ImageScalar": 1.0,
+                                                                                                "WidthScale": 0.0,
+                                                                                                "CustomTile": {
+                                                                                                    "Type": 0,
+                                                                                                    "Thickness": 0.1,
+                                                                                                    "Stackable": false,
+                                                                                                    "Stretch": true
+                                                                                                }
+                                                                                            },
+                                                                                            "LuaScript": "",
+                                                                                            "LuaScriptState": "",
+                                                                                            "XmlUI": "",
+                                                                                            "ChildObjects": [
+                                                                                                {
+                                                                                                    "GUID": "ce60c6",
+                                                                                                    "Name": "Custom_Tile",
+                                                                                                    "Transform": {
+                                                                                                        "posX": -2.028,
+                                                                                                        "posY": 0.0,
+                                                                                                        "posZ": -0.023,
+                                                                                                        "rotX": 0.0,
+                                                                                                        "rotY": 0.0,
+                                                                                                        "rotZ": 0.0,
+                                                                                                        "scaleX": 1.0,
+                                                                                                        "scaleY": 1.0,
+                                                                                                        "scaleZ": 1.0
+                                                                                                    },
+                                                                                                    "Nickname": "",
+                                                                                                    "Description": "",
+                                                                                                    "GMNotes": "",
+                                                                                                    "AltLookAngle": {
+                                                                                                        "x": 0.0,
+                                                                                                        "y": 0.0,
+                                                                                                        "z": 0.0
+                                                                                                    },
+                                                                                                    "ColorDiffuse": {
+                                                                                                        "r": 1.0,
+                                                                                                        "g": 1.0,
+                                                                                                        "b": 1.0
+                                                                                                    },
+                                                                                                    "LayoutGroupSortIndex": 0,
+                                                                                                    "Value": 0,
+                                                                                                    "Locked": false,
+                                                                                                    "Grid": true,
+                                                                                                    "Snap": true,
+                                                                                                    "IgnoreFoW": false,
+                                                                                                    "MeasureMovement": false,
+                                                                                                    "DragSelectable": true,
+                                                                                                    "Autoraise": true,
+                                                                                                    "Sticky": true,
+                                                                                                    "Tooltip": true,
+                                                                                                    "GridProjection": false,
+                                                                                                    "HideWhenFaceDown": false,
+                                                                                                    "Hands": false,
+                                                                                                    "CustomImage": {
+                                                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185765666/32CCC0386DA5FE7444FD95C0B0950E237C7D2F04/",
+                                                                                                        "ImageSecondaryURL": "",
+                                                                                                        "ImageScalar": 1.0,
+                                                                                                        "WidthScale": 0.0,
+                                                                                                        "CustomTile": {
+                                                                                                            "Type": 0,
+                                                                                                            "Thickness": 0.1,
+                                                                                                            "Stackable": false,
+                                                                                                            "Stretch": true
+                                                                                                        }
+                                                                                                    },
+                                                                                                    "LuaScript": "",
+                                                                                                    "LuaScriptState": "",
+                                                                                                    "XmlUI": "",
+                                                                                                    "ChildObjects": [
+                                                                                                        {
+                                                                                                            "GUID": "f1fd69",
+                                                                                                            "Name": "Custom_Tile",
+                                                                                                            "Transform": {
+                                                                                                                "posX": -2.006,
+                                                                                                                "posY": 0.0,
+                                                                                                                "posZ": -0.077,
+                                                                                                                "rotX": 0.0,
+                                                                                                                "rotY": 0.0,
+                                                                                                                "rotZ": 0.0,
+                                                                                                                "scaleX": 1.0,
+                                                                                                                "scaleY": 1.0,
+                                                                                                                "scaleZ": 1.0
+                                                                                                            },
+                                                                                                            "Nickname": "",
+                                                                                                            "Description": "",
+                                                                                                            "GMNotes": "",
+                                                                                                            "AltLookAngle": {
+                                                                                                                "x": 0.0,
+                                                                                                                "y": 0.0,
+                                                                                                                "z": 0.0
+                                                                                                            },
+                                                                                                            "ColorDiffuse": {
+                                                                                                                "r": 1.0,
+                                                                                                                "g": 1.0,
+                                                                                                                "b": 1.0
+                                                                                                            },
+                                                                                                            "LayoutGroupSortIndex": 0,
+                                                                                                            "Value": 0,
+                                                                                                            "Locked": false,
+                                                                                                            "Grid": true,
+                                                                                                            "Snap": true,
+                                                                                                            "IgnoreFoW": false,
+                                                                                                            "MeasureMovement": false,
+                                                                                                            "DragSelectable": true,
+                                                                                                            "Autoraise": true,
+                                                                                                            "Sticky": true,
+                                                                                                            "Tooltip": true,
+                                                                                                            "GridProjection": false,
+                                                                                                            "HideWhenFaceDown": false,
+                                                                                                            "Hands": false,
+                                                                                                            "CustomImage": {
+                                                                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185766191/349D9E89E0718E6FD4D385392680566F9D41FCA4/",
+                                                                                                                "ImageSecondaryURL": "",
+                                                                                                                "ImageScalar": 1.0,
+                                                                                                                "WidthScale": 0.0,
+                                                                                                                "CustomTile": {
+                                                                                                                    "Type": 0,
+                                                                                                                    "Thickness": 0.1,
+                                                                                                                    "Stackable": false,
+                                                                                                                    "Stretch": true
+                                                                                                                }
+                                                                                                            },
+                                                                                                            "LuaScript": "",
+                                                                                                            "LuaScriptState": "",
+                                                                                                            "XmlUI": "",
+                                                                                                            "ChildObjects": [
+                                                                                                                {
+                                                                                                                    "GUID": "4a997a",
+                                                                                                                    "Name": "Custom_Tile",
+                                                                                                                    "Transform": {
+                                                                                                                        "posX": 0.067,
+                                                                                                                        "posY": 0.0,
+                                                                                                                        "posZ": -2.129,
+                                                                                                                        "rotX": 0.0,
+                                                                                                                        "rotY": 0.0,
+                                                                                                                        "rotZ": 0.0,
+                                                                                                                        "scaleX": 1.0,
+                                                                                                                        "scaleY": 1.0,
+                                                                                                                        "scaleZ": 1.0
+                                                                                                                    },
+                                                                                                                    "Nickname": "",
+                                                                                                                    "Description": "",
+                                                                                                                    "GMNotes": "",
+                                                                                                                    "AltLookAngle": {
+                                                                                                                        "x": 0.0,
+                                                                                                                        "y": 0.0,
+                                                                                                                        "z": 0.0
+                                                                                                                    },
+                                                                                                                    "ColorDiffuse": {
+                                                                                                                        "r": 1.0,
+                                                                                                                        "g": 1.0,
+                                                                                                                        "b": 1.0
+                                                                                                                    },
+                                                                                                                    "LayoutGroupSortIndex": 0,
+                                                                                                                    "Value": 0,
+                                                                                                                    "Locked": false,
+                                                                                                                    "Grid": true,
+                                                                                                                    "Snap": true,
+                                                                                                                    "IgnoreFoW": false,
+                                                                                                                    "MeasureMovement": false,
+                                                                                                                    "DragSelectable": true,
+                                                                                                                    "Autoraise": true,
+                                                                                                                    "Sticky": true,
+                                                                                                                    "Tooltip": true,
+                                                                                                                    "GridProjection": false,
+                                                                                                                    "HideWhenFaceDown": false,
+                                                                                                                    "Hands": false,
+                                                                                                                    "CustomImage": {
+                                                                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185761010/9B352B6ADEC0170918D83328AC891B3AD79F742B/",
+                                                                                                                        "ImageSecondaryURL": "",
+                                                                                                                        "ImageScalar": 1.0,
+                                                                                                                        "WidthScale": 0.0,
+                                                                                                                        "CustomTile": {
+                                                                                                                            "Type": 0,
+                                                                                                                            "Thickness": 0.1,
+                                                                                                                            "Stackable": false,
+                                                                                                                            "Stretch": true
+                                                                                                                        }
+                                                                                                                    },
+                                                                                                                    "LuaScript": "",
+                                                                                                                    "LuaScriptState": "",
+                                                                                                                    "XmlUI": "",
+                                                                                                                    "ChildObjects": [
+                                                                                                                        {
+                                                                                                                            "GUID": "074ff9",
+                                                                                                                            "Name": "Custom_Tile",
+                                                                                                                            "Transform": {
+                                                                                                                                "posX": 1.979,
+                                                                                                                                "posY": 0.0,
+                                                                                                                                "posZ": 0.078,
+                                                                                                                                "rotX": 0.0,
+                                                                                                                                "rotY": 0.0,
+                                                                                                                                "rotZ": 0.0,
+                                                                                                                                "scaleX": 1.0,
+                                                                                                                                "scaleY": 1.0,
+                                                                                                                                "scaleZ": 1.0
+                                                                                                                            },
+                                                                                                                            "Nickname": "",
+                                                                                                                            "Description": "",
+                                                                                                                            "GMNotes": "",
+                                                                                                                            "AltLookAngle": {
+                                                                                                                                "x": 0.0,
+                                                                                                                                "y": 0.0,
+                                                                                                                                "z": 0.0
+                                                                                                                            },
+                                                                                                                            "ColorDiffuse": {
+                                                                                                                                "r": 1.0,
+                                                                                                                                "g": 1.0,
+                                                                                                                                "b": 1.0
+                                                                                                                            },
+                                                                                                                            "LayoutGroupSortIndex": 0,
+                                                                                                                            "Value": 0,
+                                                                                                                            "Locked": false,
+                                                                                                                            "Grid": true,
+                                                                                                                            "Snap": true,
+                                                                                                                            "IgnoreFoW": false,
+                                                                                                                            "MeasureMovement": false,
+                                                                                                                            "DragSelectable": true,
+                                                                                                                            "Autoraise": true,
+                                                                                                                            "Sticky": true,
+                                                                                                                            "Tooltip": true,
+                                                                                                                            "GridProjection": false,
+                                                                                                                            "HideWhenFaceDown": false,
+                                                                                                                            "Hands": false,
+                                                                                                                            "CustomImage": {
+                                                                                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185760319/BEB494F702B4D6C9C1D05248D90E2D2A778A7AE4/",
+                                                                                                                                "ImageSecondaryURL": "",
+                                                                                                                                "ImageScalar": 1.0,
+                                                                                                                                "WidthScale": 0.0,
+                                                                                                                                "CustomTile": {
+                                                                                                                                    "Type": 0,
+                                                                                                                                    "Thickness": 0.1,
+                                                                                                                                    "Stackable": false,
+                                                                                                                                    "Stretch": true
+                                                                                                                                }
+                                                                                                                            },
+                                                                                                                            "LuaScript": "",
+                                                                                                                            "LuaScriptState": "",
+                                                                                                                            "XmlUI": "",
+                                                                                                                            "ChildObjects": [
+                                                                                                                                {
+                                                                                                                                    "GUID": "46421b",
+                                                                                                                                    "Name": "Custom_Tile",
+                                                                                                                                    "Transform": {
+                                                                                                                                        "posX": 2.049,
+                                                                                                                                        "posY": 0.0,
+                                                                                                                                        "posZ": -0.038,
+                                                                                                                                        "rotX": 0.0,
+                                                                                                                                        "rotY": 0.0,
+                                                                                                                                        "rotZ": 0.0,
+                                                                                                                                        "scaleX": 1.0,
+                                                                                                                                        "scaleY": 1.0,
+                                                                                                                                        "scaleZ": 1.0
+                                                                                                                                    },
+                                                                                                                                    "Nickname": "",
+                                                                                                                                    "Description": "",
+                                                                                                                                    "GMNotes": "",
+                                                                                                                                    "AltLookAngle": {
+                                                                                                                                        "x": 0.0,
+                                                                                                                                        "y": 0.0,
+                                                                                                                                        "z": 0.0
+                                                                                                                                    },
+                                                                                                                                    "ColorDiffuse": {
+                                                                                                                                        "r": 1.0,
+                                                                                                                                        "g": 1.0,
+                                                                                                                                        "b": 1.0
+                                                                                                                                    },
+                                                                                                                                    "LayoutGroupSortIndex": 0,
+                                                                                                                                    "Value": 0,
+                                                                                                                                    "Locked": false,
+                                                                                                                                    "Grid": true,
+                                                                                                                                    "Snap": true,
+                                                                                                                                    "IgnoreFoW": false,
+                                                                                                                                    "MeasureMovement": false,
+                                                                                                                                    "DragSelectable": true,
+                                                                                                                                    "Autoraise": true,
+                                                                                                                                    "Sticky": true,
+                                                                                                                                    "Tooltip": true,
+                                                                                                                                    "GridProjection": false,
+                                                                                                                                    "HideWhenFaceDown": false,
+                                                                                                                                    "Hands": false,
+                                                                                                                                    "CustomImage": {
+                                                                                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185759558/4D40F1B9C389D6BE16992090E89ABB6C0AB7009D/",
+                                                                                                                                        "ImageSecondaryURL": "",
+                                                                                                                                        "ImageScalar": 1.0,
+                                                                                                                                        "WidthScale": 0.0,
+                                                                                                                                        "CustomTile": {
+                                                                                                                                            "Type": 0,
+                                                                                                                                            "Thickness": 0.1,
+                                                                                                                                            "Stackable": false,
+                                                                                                                                            "Stretch": true
+                                                                                                                                        }
+                                                                                                                                    },
+                                                                                                                                    "LuaScript": "",
+                                                                                                                                    "LuaScriptState": "",
+                                                                                                                                    "XmlUI": "",
+                                                                                                                                    "ChildObjects": [
+                                                                                                                                        {
+                                                                                                                                            "GUID": "669855",
+                                                                                                                                            "Name": "Custom_Tile",
+                                                                                                                                            "Transform": {
+                                                                                                                                                "posX": 2.037,
+                                                                                                                                                "posY": 0.0,
+                                                                                                                                                "posZ": 0.028,
+                                                                                                                                                "rotX": 0.0,
+                                                                                                                                                "rotY": 0.0,
+                                                                                                                                                "rotZ": 0.0,
+                                                                                                                                                "scaleX": 1.0,
+                                                                                                                                                "scaleY": 1.0,
+                                                                                                                                                "scaleZ": 1.0
+                                                                                                                                            },
+                                                                                                                                            "Nickname": "",
+                                                                                                                                            "Description": "",
+                                                                                                                                            "GMNotes": "",
+                                                                                                                                            "AltLookAngle": {
+                                                                                                                                                "x": 0.0,
+                                                                                                                                                "y": 0.0,
+                                                                                                                                                "z": 0.0
+                                                                                                                                            },
+                                                                                                                                            "ColorDiffuse": {
+                                                                                                                                                "r": 1.0,
+                                                                                                                                                "g": 1.0,
+                                                                                                                                                "b": 1.0
+                                                                                                                                            },
+                                                                                                                                            "LayoutGroupSortIndex": 0,
+                                                                                                                                            "Value": 0,
+                                                                                                                                            "Locked": false,
+                                                                                                                                            "Grid": true,
+                                                                                                                                            "Snap": true,
+                                                                                                                                            "IgnoreFoW": false,
+                                                                                                                                            "MeasureMovement": false,
+                                                                                                                                            "DragSelectable": true,
+                                                                                                                                            "Autoraise": true,
+                                                                                                                                            "Sticky": true,
+                                                                                                                                            "Tooltip": true,
+                                                                                                                                            "GridProjection": false,
+                                                                                                                                            "HideWhenFaceDown": false,
+                                                                                                                                            "Hands": false,
+                                                                                                                                            "CustomImage": {
+                                                                                                                                                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185758788/EFDC723A890A5FDA83F93EFD0BD093394AC02087/",
+                                                                                                                                                "ImageSecondaryURL": "",
+                                                                                                                                                "ImageScalar": 1.0,
+                                                                                                                                                "WidthScale": 0.0,
+                                                                                                                                                "CustomTile": {
+                                                                                                                                                    "Type": 0,
+                                                                                                                                                    "Thickness": 0.1,
+                                                                                                                                                    "Stackable": false,
+                                                                                                                                                    "Stretch": true
+                                                                                                                                                }
+                                                                                                                                            },
+                                                                                                                                            "LuaScript": "",
+                                                                                                                                            "LuaScriptState": "",
+                                                                                                                                            "XmlUI": "",
+                                                                                                                                            "ChildObjects": [
+                                                                                                                                                {
+                                                                                                                                                    "GUID": "46da40",
+                                                                                                                                                    "Name": "Custom_Tile",
+                                                                                                                                                    "Transform": {
+                                                                                                                                                        "posX": 1.971,
+                                                                                                                                                        "posY": 0.0,
+                                                                                                                                                        "posZ": 0.069,
+                                                                                                                                                        "rotX": 0.0,
+                                                                                                                                                        "rotY": 0.0,
+                                                                                                                                                        "rotZ": 0.0,
+                                                                                                                                                        "scaleX": 1.0,
+                                                                                                                                                        "scaleY": 1.0,
+                                                                                                                                                        "scaleZ": 1.0
+                                                                                                                                                    },
+                                                                                                                                                    "Nickname": "",
+                                                                                                                                                    "Description": "",
+                                                                                                                                                    "GMNotes": "",
+                                                                                                                                                    "AltLookAngle": {
+                                                                                                                                                        "x": 0.0,
+                                                                                                                                                        "y": 0.0,
+                                                                                                                                                        "z": 0.0
+                                                                                                                                                    },
+                                                                                                                                                    "ColorDiffuse": {
+                                                                                                                                                        "r": 1.0,
+                                                                                                                                                        "g": 1.0,
+                                                                                                                                                        "b": 1.0
+                                                                                                                                                    },
+                                                                                                                                                    "LayoutGroupSortIndex": 0,
+                                                                                                                                                    "Value": 0,
+                                                                                                                                                    "Locked": false,
+                                                                                                                                                    "Grid": true,
+                                                                                                                                                    "Snap": true,
+                                                                                                                                                    "IgnoreFoW": false,
+                                                                                                                                                    "MeasureMovement": false,
+                                                                                                                                                    "DragSelectable": true,
+                                                                                                                                                    "Autoraise": true,
+                                                                                                                                                    "Sticky": true,
+                                                                                                                                                    "Tooltip": true,
+                                                                                                                                                    "GridProjection": false,
+                                                                                                                                                    "HideWhenFaceDown": false,
+                                                                                                                                                    "Hands": false,
+                                                                                                                                                    "CustomImage": {
+                                                                                                                                                        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185756283/DAA78DF1C3580BF554CA99595DA18736311D80E0/",
+                                                                                                                                                        "ImageSecondaryURL": "",
+                                                                                                                                                        "ImageScalar": 1.0,
+                                                                                                                                                        "WidthScale": 0.0,
+                                                                                                                                                        "CustomTile": {
+                                                                                                                                                            "Type": 0,
+                                                                                                                                                            "Thickness": 0.1,
+                                                                                                                                                            "Stackable": false,
+                                                                                                                                                            "Stretch": true
+                                                                                                                                                        }
+                                                                                                                                                    },
+                                                                                                                                                    "LuaScript": "",
+                                                                                                                                                    "LuaScriptState": "",
+                                                                                                                                                    "XmlUI": ""
+                                                                                                                                                }
+                                                                                                                                            ]
+                                                                                                                                        }
+                                                                                                                                    ]
+                                                                                                                                }
+                                                                                                                            ]
+                                                                                                                        }
+                                                                                                                    ]
+                                                                                                                }
+                                                                                                            ]
+                                                                                                        }
+                                                                                                    ]
+                                                                                                }
+                                                                                            ]
+                                                                                        }
+                                                                                    ]
+                                                                                }
+                                                                            ]
+                                                                        }
+                                                                    ]
+                                                                }
+                                                            ]
+                                                        }
+                                                    ]
+                                                }
+                                            ]
+                                        }
+                                    ]
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

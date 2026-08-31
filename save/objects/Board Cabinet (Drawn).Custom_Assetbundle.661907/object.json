@@ -1,0 +1,130 @@
+{
+    "GUID": "661907",
+    "Name": "Custom_Assetbundle",
+    "Transform": {
+        "posX": 0.0,
+        "posY": -41.99,
+        "posZ": 0.0,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 1.5,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "Board Cabinet (Drawn)",
+    "Description": "Click on the handle to close.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.25,
+        "g": 0.25,
+        "b": 0.25
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": false,
+    "Snap": false,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": false,
+    "Sticky": true,
+    "Tooltip": false,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomAssetbundle": {
+        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/868496425808279018/1BE1733E66A6D19385888B136F4E6DEDFC257969/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 1,
+        "TypeIndex": 4,
+        "LoopingEffectIndex": 0
+    },
+    "LuaScriptState": "",
+    "PhysicsMaterial": {
+        "StaticFriction": 0.6,
+        "DynamicFriction": 0.6,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+    },
+    "Rigidbody": {
+        "Mass": 1.0,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": false
+    },
+    "States": {
+        "1": {
+            "GUID": "3dcbdd",
+            "Name": "Custom_Assetbundle",
+            "Transform": {
+                "posX": 0.0,
+                "posY": -41.99,
+                "posZ": 0.0,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 1.5,
+                "scaleY": 1.0,
+                "scaleZ": 1.0
+            },
+            "Nickname": "Board Cabinet",
+            "Description": "Click to open.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 0.25,
+                "g": 0.25,
+                "b": 0.25
+            },
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": true,
+            "Grid": false,
+            "Snap": false,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": false,
+            "Sticky": true,
+            "Tooltip": false,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomAssetbundle": {
+                "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/868496425808274507/801DDE162A6431250F18BADB2306A54FE4F9FAFF/",
+                "AssetbundleSecondaryURL": "",
+                "MaterialIndex": 1,
+                "TypeIndex": 4,
+                "LoopingEffectIndex": 0
+            },
+            "LuaScript": "function onLoad()\r\n    self.interactable = false;\r\n    self.createButton({\r\n    label = \"\",\r\n    click_function = \"onButtonClick\",\r\n    function_owner = self,\r\n    width = 1000,\r\n    height = 750,\r\n    color = {1, 0, 0, 0.0},\r\n    position = {0, 40.7, 32.8},\r\n    rotation = {-90, 0, 0},\r\n    font_size = 200\r\n    })\r\nend\r\n\r\nfunction onButtonClick()\r\n    self.setState( 1 + (self.getStateId() % 2) )\r\n\r\nend\r\n",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "PhysicsMaterial": {
+                "StaticFriction": 0.6,
+                "DynamicFriction": 0.6,
+                "Bounciness": 0.0,
+                "FrictionCombine": 0,
+                "BounceCombine": 0
+            },
+            "Rigidbody": {
+                "Mass": 1.0,
+                "Drag": 0.1,
+                "AngularDrag": 0.1,
+                "UseGravity": false
+            }
+        }
+    }
+}

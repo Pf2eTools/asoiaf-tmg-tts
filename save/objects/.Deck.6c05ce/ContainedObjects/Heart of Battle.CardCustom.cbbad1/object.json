@@ -1,0 +1,59 @@
+{
+    "GUID": "cbbad1",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -76.239,
+        "posY": 2.354,
+        "posZ": 14.284,
+        "rotX": 0.001,
+        "rotY": 179.999,
+        "rotZ": 157.547,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "Heart of Battle",
+    "Description": "Game Mode Heart of Battle",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "Tags": [
+        "GamemodeCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 167300,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1673": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/12536347801431181489/A1B6E9979B949CFBB8200596BDECAB411B0660A7/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834317745/9F1313366FB17C946BC893B049513DE82D98CDBF/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

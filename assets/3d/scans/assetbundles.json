@@ -1,0 +1,1314 @@
+{
+    "martell/arianne": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195016574/E50825E6EC418F553F85AF1C23FD116CF1C0BFDC/"
+    },
+    "martell/arys": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195016822/B25E2A85A43445D14CEF99C0143550AA5C73E910/"
+    },
+    "martell/daemon": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195017035/23890D6331D358EF036097E5A025F1D078159697/"
+    },
+    "martell/darkstar": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195203541/396B3103AF58BF779434F3E1E304FD0A5E522A5A/"
+    },
+    "martell/doran": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195017676/A4069EEFD1BF32BB28E88B3A54837AC717FB1189/"
+    },
+    "martell/dune_vipers": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195017893/7FA23684385AF5CF8CC82C1D293ED02749E02609/"
+    },
+    "martell/ellaria": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195018234/672157C44941E2E1B264ADE572D31866FCEB864E/"
+    },
+    "martell/hotah": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195018483/CBBBF17E33EB324A600C81461BF8FEA026AA351D/"
+    },
+    "martell/knights": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195018747/2E83606881CFC0E99DD9FDE58CBC4F90741D281F/"
+    },
+    "martell/nym": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195019215/3C9F975BF304C993FA07457FA1DF7788EC4A9FDA/"
+    },
+    "martell/oberyn_ncu": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195019457/8D501BB78E4955CCDF08EF9EAD2F5E6792620964/"
+    },
+    "martell/oberyn_prince": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195019706/1A2BC4550444CF9E75F675193F6939A8A2A0B5BC/"
+    },
+    "martell/outriders": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195019958/117943BCAA581F47455AABB1549C3398B376D302/"
+    },
+    "martell/royal_guard": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195020182/5636EDC737764EA77753CDAC4E98DC2CC8952EEF/"
+    },
+    "martell/sentinel": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195020406/520D77B76110C52551B4FE7054C73CC670930620/"
+    },
+    "martell/skirmisher": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195020768/D3A28096B378AC7103A7D9BE9AA83837A34F3C36/"
+    },
+    "martell/spearlord": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195021150/12A2527D06F247387505BBC2946E334137189A2E/"
+    },
+    "martell/spearmen": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195021455/AF319097815703832E98B728256E8F45B45A5267/"
+    },
+    "martell/spearmen_captain": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195359591/C8F66DB16F8D5330582D21F0C217F7F51DF1F560/"
+    },
+    "martell/uller": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195021705/DCB5CA4C6373659B099E6415A76F66E31E08D9BA/"
+    },
+    "neutral/jokin": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195021973/8AD3C8B7CB50E77B428C1DB5C8061C3EE86BB1CC/"
+    },
+    "neutral/widower": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478742831195022275/0D95CACCCE021770255A16214C7D8AF099F49A1E/"
+    },
+    "stark/arya_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726581516/DC6B1BF77C696DC5C2210EB7729CB29DA36FE999/",
+        "painter": "Brush Brighta"
+    },
+    "stark/bran_and_hodor": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726426690/BB3B27AA48F1023D5D3A78C3E006D18D1040DD4C/",
+        "painter": "Brush Brighta"
+    },
+    "stark/brynden_tully_outrider_commander": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726434033/032215579049468600C3C5337436FA1B1D8BBE2D/",
+        "painter": "Bartender"
+    },
+    "stark/brynden_tully_the_blackfish": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726427198/9CDE6D7A51042589080F0F632A6E51CFFB87E691/",
+        "painter": "Brush Brighta"
+    },
+    "stark/catelyn_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726428016/98275BEEB909E6A3F5CD0B4D9165769D38C5611C/",
+        "painter": "Brush Brighta"
+    },
+    "stark/crannogman_survivalist": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1798600640499698855/D5883C74B82656EC0DA824BAA90DBDF597F110B0/",
+        "painter": "Bartender"
+    },
+    "stark/crannogman_trackers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726428570/9D363AC2E7DA0338C1092C0C77ECCE3D6F208211/",
+        "painter": "Brush Brighta"
+    },
+    "stark/crannogman_warden": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726429092/935724FA595228F3308E7AB8505F8130A91055A1/",
+        "painter": "Brush Brighta"
+    },
+    "stark/eddard_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726429482/A76B44E9524FDD0E0BAF2E363F80AB05B3397DCB/",
+        "painter": "Brush Brighta"
+    },
+    "stark/eddards_honor_guard": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726439823/3C9555FBCE7692BAA383E96A46E4BAEEED100A20/",
+        "painter": "Bartender"
+    },
+    "stark/greatjon_umber": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726430194/6D064CC3CC45069ADFFDDE77243D22B09E495BB5/",
+        "painter": "Brush Brighta"
+    },
+    "stark/grey_wind": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726620542/0431192C30316E071CCAE61AEA7CFEDC91BAAEFF/",
+        "painter": "Bartender"
+    },
+    "stark/house_mormont_shebears": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1618472373247886631/3FEE0AB70E8283EEFFBBE2DBA0C48B290D83240D/",
+        "painter": "Bartender"
+    },
+    "stark/house_tully_cavaliers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726441569/508F4B580F9B38AA3BB271AC9CB43708669D250E/",
+        "painter": "Bartender"
+    },
+    "stark/house_tully_sworn_shields": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726439078/DC84ED45038675EEACFB947DDD5DA38E122D3E73/",
+        "painter": "Bartender"
+    },
+    "stark/house_umber_berserkers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726425971/7AD9AE151658FC8425D39C1A69C79EBF2C556AEF/",
+        "painter": "Bartender"
+    },
+    "stark/house_umber_greataxes": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726442370/D8333933282D93A6B423DCA91B1EDAAD8B7D97E4/",
+        "painter": "Bartender"
+    },
+    "stark/howland_reed": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726431724/87E5AEDCC42EA1C0EB2F5DB90A9EBB7BE2F1A1E2/",
+        "painter": "Brush Brighta"
+    },
+    "stark/jaqen_hghar": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758936894/8CE59B5A3DA2C2D95670E30CB00DF22BBA501D6F/",
+        "painter": "Bolton Skincare"
+    },
+    "stark/jojen_reed": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726432076/620D025AF90596D06FB57DA5E6745BEC2E75DF9A/",
+        "painter": "Brush Brighta"
+    },
+    "stark/maege_mormont": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726432484/53F42D420DDC28061E99AF941659A9FB52FD6E1D/",
+        "painter": "Bartender"
+    },
+    "stark/meera_reed": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726433217/C33FD7E97593EE4514F49154F1356595E4872CDE/",
+        "painter": "Brush Brighta"
+    },
+    "stark/mormont_veteran": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1798600640499699162/7C2C83D6C69D06A55BDA747B0D11457248B175DB/",
+        "painter": "Bartender"
+    },
+    "stark/osha": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726434760/923518EB58672AA30CDE17CA7D74237598A68DC8/",
+        "painter": "Brush Brighta"
+    },
+    "stark/rickard_karstark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1915745283459387584/67AB1817438E970AD4AE4DE8077EE9CF94D1444A/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "stark/rickon_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726435782/B28801E5AB2940D4BFA1C5840A8EE7765D26EFFF/",
+        "painter": "Brush Brighta"
+    },
+    "stark/robb_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726436415/3270770CD38FF868709E944654460DFB6270135C/",
+        "painter": "Brush Brighta"
+    },
+    "stark/rodrik_cassel": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726437261/7489BEA504AE4518FEB0D1D58E5B6985BAC7A115/",
+        "painter": "Brush Brighta"
+    },
+    "stark/sansa_stark": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726437885/AFB4B117082783CE496FCBEA019E27F9461C1614/",
+        "painter": "Brush Brighta"
+    },
+    "stark/shaggydog": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726438290/AA930FF2CAD2543947C3D75F7322A27B87178503/",
+        "painter": "Bartender"
+    },
+    "stark/stark_bowmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646592730555750006/FFFA597E0DC7A99EA53BA437AFECF586669A855E/",
+        "painter": "Brush Brighta"
+    },
+    "stark/stark_outriders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726435254/C55E588A40F8E01B9763483C3E628D1A9F81C0E1/",
+        "painter": "Brush Brighta"
+    },
+    "stark/stark_sworn_swords": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726439823/3C9555FBCE7692BAA383E96A46E4BAEEED100A20/",
+        "painter": "Bartender"
+    },
+    "stark/summer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726443167/56B022A1F65B9115B72FF39CFC83A0FC1C9E177C/",
+        "painter": "Bartender"
+    },
+    "stark/sworn_sword_captain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726440528/3B6911479B1708FA42E156150F1B84D67DC399D2/",
+        "painter": "Bartender"
+    },
+    "stark/syrio_forel": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726441066/EAA8F96FFAC560236512670436AA3450881618FE/",
+        "painter": "Brush Brighta"
+    },
+    "stark/umber_champion": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378726442003/E3928EE7F36F523DA113680E1E9794F45C352F60/",
+        "painter": "Bartender"
+    },
+    "stark/winterfell_guardian": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1798600640499699375/8AEFFC21FFD6C0B2A1D6B4C9C911C82593CE3929/",
+        "painter": "Bartender"
+    },
+    "lannister/addam_marbrand": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230884798/D9A6F80B3D9E1B4F5368FEC9E8922FC41DA28234/",
+        "painter": "Willybunks"
+    },
+    "lannister/arys_oakheart": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747939911472343309/1A4AF447DFAF593AFBFCBD8F1E9E69482F3D19E9/",
+        "painter": "Bloodraven"
+    },
+    "lannister/assault_veteran": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1618472373242395534/404EA8C59603031A468DA44FB5A480A4D4DBD466/",
+        "painter": "Bloodraven"
+    },
+    "lannister/hl_baratheon_banners": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1661232658848706858/097D469797AE070DE8DB5E8DD553ACB211DB9574/",
+        "painter": "Bloodraven"
+    },
+    "lannister/barristan_selmy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747939911472342862/05D0084758AB2D60A775F421D2C2319F0811A5F5/",
+        "painter": "Bloodraven"
+    },
+    "lannister/boros_blount": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395230762/FEB8BF99A10FC15E88734539E5CCDEF6C42747E6/",
+        "painter": "Bloodraven"
+    },
+    "lannister/cersei_lannister": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395231023/F108D5EC52DB9CB397DAE372EB2E85F52401237A/",
+        "painter": "Bloodraven"
+    },
+    "lannister/champion_of_the_faith": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1618472373242395765/F19C9A35EA6CEA30B35AF9C7647738D1475AE490/",
+        "painter": "Bloodraven"
+    },
+    "lannister/clegane_butcher": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662716255/D95DFFD6B091FA874967E4D87DA2C945CDD1E32F/",
+        "painter": "Jan Koch"
+    },
+    "lannister/gregor_clegane_lord_tywins_mad_dog": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1661232658848644923/D6868DC725E8E92CC37F3B5E4C89958342C8307A/",
+        "painter": "Bloodraven"
+    },
+    "lannister/gregor_clegane_mounted_behemoth": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395235703/CD03D49335CD88AF88A9F96E55D6C12CC8B7EBBC/",
+        "painter": "Bloodraven"
+    },
+    "lannister/guard_captain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395231633/3AC00D6ED1323E59018FA81B04286A2FF0C53ED8/",
+        "painter": "Bloodraven"
+    },
+    "lannister/house_clegane_mountains_men": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395234053/B9ED89E90564EA7C88D537DD5DD4D2A4D8BF43CA/",
+        "painter": "Bloodraven"
+    },
+    "lannister/jaime_lannister_kingsguard": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747939911472342537/856790A435B0654D95385F987CD87844C6643570/",
+        "painter": "Bloodraven"
+    },
+    "lannister/jaime_lannister_maimed_hostage": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170827956/303845075D62EFEF4999CD1833F9CBC9297AD8A9/",
+        "painter": "Jan Koch"
+    },
+    "lannister/jaime_lannister_the_kingslayer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170827624/077FA477789EDBF634E296C5BE08F8370119D2CD/",
+        "painter": "Jan Koch"
+    },
+    "lannister/joffrey_baratheon": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395233461/76A2365A6C8D639B30106E8BD6E7EF25C95A65AC/",
+        "painter": "Bloodraven"
+    },
+    "lannister/kevan_lannister": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230884939/790AC403118C3FF56F8337D7BFB842BCA1544371/",
+        "painter": "Willybunks"
+    },
+    "lannister/kingsguard": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395230762/FEB8BF99A10FC15E88734539E5CCDEF6C42747E6/",
+        "painter": "Bloodraven"
+    },
+    "lannister/knights_of_casterly_rock": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395233750/25A740DE4A2E15C02C5C68A9D52DD195A8F12A00/",
+        "painter": "Bloodraven"
+    },
+    "lannister/lannisport_city_watch": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685244961629/9CFDF0F6322530BD171595E6E27952B99E7A2C63/",
+        "painter": "Bloodraven"
+    },
+    "lannister/lannister_crossbowmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395231323/F7CD2839173B0A9F05C7F8582C600C7E5C610D01/",
+        "painter": "Bloodraven"
+    },
+    "lannister/lannister_guardsmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395232324/12257AD101A786513A75806EB60097042DC8DAC2/",
+        "painter": "Bloodraven"
+    },
+    "lannister/lannister_halberdiers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395232892/BA18DE29255418468619190D0352054D7D2B3A12/",
+        "painter": "Bloodraven"
+    },
+    "lannister/mandon_moore": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747939911472343094/A8168CDE08029372FBB3CA7E356F2D0B7258E606/",
+        "painter": "Bloodraven"
+    },
+    "lannister/meryn_trant": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747939911472343550/1BDEA15F10E4AC9C5AC1F16EEDF0D8F30DA6EB8D/",
+        "painter": "Bloodraven"
+    },
+    "lannister/poor_fellows": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395234341/0CA3EC0839742F561658FABE92446929B45F0F1B/",
+        "painter": "Bloodraven"
+    },
+    "lannister/preston_greenfield": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395234574/8F6DACBF805AC228A88232BB48402CD797154B8A/",
+        "painter": "Bloodraven"
+    },
+    "lannister/pycelle": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395234937/5140393AA6D55A98BF49BA59E4B2B588DA7FC989/",
+        "painter": "Bloodraven"
+    },
+    "lannister/pyromancers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395235349/B13A0B1DC6F3C2027C8216BE3C5C38D0FF740D71/",
+        "painter": "Bloodraven"
+    },
+    "lannister/qyburn": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230885094/973F282EDDBC0AEC5D55A967E5D1249BFC797C7F/",
+        "painter": "Willybunks"
+    },
+    "lannister/red_cloaks": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747940523274549656/13E0DA76651EFDDF059D410BC91B3B4B0F0BFD54/",
+        "painter": "Bloodraven"
+    },
+    "lannister/sandor_clegane": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170828284/5083CF8BE34F4A4867733BFF2110A5D48BAFB358/",
+        "painter": "Jan Koch"
+    },
+    "lannister/sentinel_enforcer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662716552/3B657F54C5D35D085524CC12C8AF65EC9B787739/",
+        "painter": "Jan Koch"
+    },
+    "lannister/ser_robert_strong": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230885523/5DB42B4F3DA74408FFC6C5BB0A2130E4AA9BBBA1/",
+        "painter": "Willybunks"
+    },
+    "lannister/the_high_sparrow": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395233185/F73DD211991105224999DCDA6DA50A74E4232091/",
+        "painter": "Bloodraven"
+    },
+    "lannister/the_warriors_sons": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395236848/67213669290E06529F6FCE94942F0961A0E8B3FD/",
+        "painter": "Bloodraven"
+    },
+    "lannister/tommen_baratheon": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230885706/F79F8A8EF6B1A26942D357C5616B36B2B02D8744/",
+        "painter": "Willybunks"
+    },
+    "lannister/turncoat": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662716798/DB3DBBB97DBF4B587738EE223A361731E557EDED/",
+        "painter": "Jan Koch"
+    },
+    "lannister/tyrion_lannister_halfman": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395236090/BC712C1FE11A86F65457319F6051AAE0D070C60C/",
+        "painter": "Bloodraven"
+    },
+    "lannister/tyrion_lannister_the_imp": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195940604/028D7177BA993A5BCA8613BBF369130A4E708E24/",
+        "painter": "Willybunks"
+    },
+    "lannister/tywin_lannister": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395236561/9A037F2897F9CB5F73515273F1CB0F599D9312DE/",
+        "painter": "Bloodraven"
+    },
+    "nightswatch/aemon": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393863579/F19E8D590D578D6109F7FDC2C64EF6D0BF0B61E4/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/alliser_thorne": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393863871/D0BBE9CF57EFD02F0B84413432DEFB526E162555/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/benjen_stark_beyond_the_wall": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230904328/79C567FEFE833D7DDA9CC31DA62AF8A7BCECF9E5/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/benjen_stark_first_ranger": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860548222776717221/6148811DDD350C8DC66C0BA931F5F5348E523A40/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/bowen_marsh": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393864351/A2CC1B4997A7B1CC0FDBD3E8EFB3EDD12319AB6B/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/builder_crossbowmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593864309756214/2FB60F850BE4000512196C907FF87F48CCC36D74/",
+        "painter": "Bolton Skincare"
+    },
+    "nightswatch/builder_scorpion_crew": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170018159/ED39A7C9BD501FC0034763500A4D1D1EE4BD81B3/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/builder_stone_thrower": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1749057862504141012/3C6E4BF3852271833BCA257960B6FE2C50D7097D/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/coldhands_enigmatic_guide": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860548222776717472/020996C3D805099C80CDE9D7385196DFA5F8B647/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/coldhands_former_crow": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729043475/53C257B757BADA4E83E8CC1B79D500C056F22979/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/conscripts": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276804655/6022DB138B924FC3E312167D43951FADD532AF7B/",
+        "painter": "Bolton Skincare"
+    },
+    "nightswatch/cotter_pyke": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230904455/7B2EACD6AAB889C50D294F6FA06EADB6D35110C6/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/craster": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646591393628019257/90102323609089ABB4DF898879EF3B773647082B/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/donal_noye": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393865779/E1C018EF825B2B9061A29C40F2260E2D1C9416E0/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/eddison_tollett": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686366850/5B7FC1BB06014EC9595AA5AC65BF89772146F420/",
+        "painter": "Hobbes"
+    },
+    "nightswatch/ghost": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393866129/EB0F7284A97C442D5CE2EBD71F61FE30B1D8A58C/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/gilly": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860548222776717652/454700AE9F2D18101C2763A8E9B2C4328E0C9AB8/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/grenn": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276804985/3F2597532551095D82CAD0559E66D5BE72A8F47B/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/hardened_ranger": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276805258/DE12F36D104E969846084466831D7BB09064E8D8/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/jeor_mormont": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393866924/0F8001CA22970C563C82DF83007696CA57FFC65E/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/jon_snow": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393867214/43B9ACAEF76638BC08A6102E3645F9969D8B02EC/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/othell_yarwyck": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393867483/719EE3E8CB3F06544FB69E643098FD500E3E4E94/",
+        "painter": "Othell"
+    },
+    "nightswatch/pypar": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393867757/3EC48F6CAC8016FCC96FE1E6C0F2A3673475B559/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/qhorin_halfhand": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276805786/45BBB4D1C8971C96A1E9411A37970CCA7654C9C2/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/ranger_hunters": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393866490/57032943E118F387D86FD3A6FC772C5A323AD55E/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/ranger_trackers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393868593/E2A149FDB5A13FF37CF2EEEF95FE2FD3FCEB30BA/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/ranger_vanguards": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230904552/B3948367AFC22A164CD7E2D4D89D8E915DA88A7A/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/samwell_tarly": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860548222776717861/1ABBD8555D4A8EA7CFFFDFE27774EA0D19D4DFDE/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/satin": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686367073/D4725BECA340EB2BE1938907C9CE43C63470BF14/",
+        "painter": "Hobbes"
+    },
+    "nightswatch/senior_builder": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276804410/364F36474256156D25761982DF60988810B79B59/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/ser_denys_mallister": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686367239/BA6B614547353ACF61251C2F68E38DA5C467FA20/",
+        "painter": "Hobbes"
+    },
+    "nightswatch/shadow_tower_spearmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230904650/D29723FB48010FCFC775B1CBE386F03F84CAD7D3/",
+        "painter": "Hobbes"
+    },
+    "nightswatch/sworn_brothers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393868090/6B013922944C8AA581C8935733F019EA62ED74D3/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/veterans_of_the_watch": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393869061/DD962E9C494F2BADB5611CF5E702630CD3E13E2F/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/watch_captain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393864603/CFBF0A0968FE476FF12E95909A263C290A3106F5/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/watch_marshal": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276805507/365A71DB7321FE4239A148D27961DEE78F1F1316/",
+        "painter": "Benjen Stark"
+    },
+    "nightswatch/watch_recruiter": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434872401137229/EAA56211ED05B12A9926BBC42DC58A1BA14AABDE/",
+        "painter": "Jan Koch"
+    },
+    "nightswatch/yoren": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686367353/D761068F1CBB007A1EC34D9FD2492F3F366B3E61/",
+        "painter": "Hobbes"
+    },
+    "freefolk/borroq": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195938556/9183E09CFFE43619CAF01B8C981268267B32D0C4/",
+        "painter": "ragme"
+    },
+    "freefolk/borroqs_boar": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195938670/215993F3C36F92203B71FF3573E6D5C27953F4FE/",
+        "painter": "ragme"
+    },
+    "freefolk/champion_of_bone": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230881561/3C6AF60F824FE573395E223A51BD15489BEB6E00/",
+        "painter": "ragme"
+    },
+    "freefolk/chosen_of_styr": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393324746/4BC0A1F7A779DF9317AAF2BBD8F87DDD72A3C306/",
+        "painter": "Masarath"
+    },
+    "freefolk/craster": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646591393628019257/90102323609089ABB4DF898879EF3B773647082B/",
+        "painter": "Halfhand"
+    },
+    "freefolk/followers_of_bone": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230881839/CC5113BBE4D62C8465171B1EEBB0017AA67B1101/",
+        "painter": "ragme"
+    },
+    "freefolk/free_folk_raiders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393327075/326543E971A069DE99E76821C9115B1C2FE1C7B3/",
+        "painter": "Masarath"
+    },
+    "freefolk/free_folk_trappers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393329675/8B14C4C70BFA78352DE44C41702836905006CF20/",
+        "painter": "Masarath"
+    },
+    "freefolk/frozen_shore_bear_riders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195938804/2D61A1A25CEF1DD94589B8CD0B6E7BD927D2DF46/",
+        "painter": "ragme"
+    },
+    "freefolk/frozen_shore_chariots": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685244761665/A0D5770E87C41B4D38CBDBEF2D59EA20D5C3CA59/",
+        "painter": "ragme"
+    },
+    "freefolk/harma": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393325281/286D60757A348BC53BE65865D715B2AB1E27E705/",
+        "painter": "Masarath"
+    },
+    "freefolk/harmas_bannerman": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393325951/B5C4CA911F65EE33C888A6CFED5816393A53F45A/",
+        "painter": "Masarath"
+    },
+    "freefolk/jarl": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393326295/B25131B4557E60ED59E6172AB1A44B89F4FDE3D9/",
+        "painter": "Masarath"
+    },
+    "freefolk/lady_val": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393326629/0CC8352A2A8CEEF2995AC8D082D1CE77497CCC51/",
+        "painter": "Masarath"
+    },
+    "freefolk/mag_the_mighty": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230882389/208A1975308D20CC90D340A78ED88B440E04ADF0/",
+        "painter": "ragme"
+    },
+    "freefolk/mance_rayder": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393326842/78C0F6D15047B8D9153BD495C7CAB5147B4F2458/",
+        "painter": "Masarath"
+    },
+    "freefolk/raid_leader": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230882579/B0064CE6CB21F2F4FAE02B0E62C9D5C3D90DB131/",
+        "painter": "ragme"
+    },
+    "freefolk/rattleshirt": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393327298/EE0E5CE99941829A8C183D66D5AC173EF8047A8F/",
+        "painter": "Masarath"
+    },
+    "freefolk/savage_giant": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393327669/8AC6179DBA6F8521B461A8C9F0671B7695E4BD67/",
+        "painter": "Masarath"
+    },
+    "freefolk/shadowcat": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686368893/E49993213CE2593B6853A5A26A547C9C1AAB4100/",
+        "painter": "Stilgar"
+    },
+    "freefolk/spearwife_matriarch": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195938956/8527D2EA98A4DBCC24195E626C618D8B0256D9D0/",
+        "painter": "ragme"
+    },
+    "freefolk/styr": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393328204/5933F281DF47FC386025C21743DD0B5ECEFB0867/",
+        "painter": "Masarath"
+    },
+    "freefolk/the_bonelords_chosen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230883025/56433CA25FE628926570BF2C5B1E4C3A380DCD01/",
+        "painter": "ragme"
+    },
+    "freefolk/the_great_walrus": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195939273/0BAA45A3A6AAAE957AE21B600DBEA2B55DE87C46/",
+        "painter": "ragme"
+    },
+    "freefolk/the_weeper": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393330092/43423040F6D8ED8B6C1F6F4103ECE3A8DB1D65EF/",
+        "painter": "Masarath"
+    },
+    "freefolk/thenn_warriors": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393328589/C5757871C1EA9CE0B1E7C388CAFCE9DBF355434B/",
+        "painter": "Masarath"
+    },
+    "freefolk/tormund_giantsbane": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393328984/080346B983AF0F5189C23C446633EAB02DFC37D6/",
+        "painter": "Masarath"
+    },
+    "freefolk/varamyr_sixskins": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686369094/C1AC028E72B6A4F8DA78CD26F2F32F67EBDA403A/",
+        "painter": "Stilgar"
+    },
+    "freefolk/varamyrs_eagle": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686369251/3E58F1CEE732519FE03378D845B89A8A981CD3F4/",
+        "painter": "Stilgar"
+    },
+    "freefolk/walrus_clan_chieftain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230883369/70F43C45C518BC57F74873B4E6C9A29B204671C3/",
+        "painter": "ragme"
+    },
+    "freefolk/war_mammoth": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2031716132195939413/7255D7B4F65EC61FECE55E94A21E2A0096FB3B31/",
+        "painter": "ragme"
+    },
+    "freefolk/wolf_pack": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2077889630686369393/572F7DBDFB530F114A70BAB481FC21E08A22971D/",
+        "painter": "Stilgar"
+    },
+    "freefolk/wun_wun": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230883531/92AE755FEF394EACC5887359F148A129CF0FEECE/",
+        "painter": "ragme"
+    },
+    "freefolk/ygritte": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272393330389/4A5BCBE3FDF3183F582863D8D77842F7D9DC19F4/",
+        "painter": "Masarath"
+    },
+    "freefolk/bear": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871086720/A3670F9601A6152D8A3DD5EA2EFD31F045B5530E/"
+    },
+    "freefolk/wolf": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871087462/9EC7401FF436CFC4C39AC630AD07FEA55E8BD61B/"
+    },
+    "freefolk/cave_dweller_alpha": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871090068/5CA2C4E68A67CE2DD8B17F74BBB8111D5526049B/"
+    },
+    "freefolk/skinchanger": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871090379/F722D35FAA41DA9EE69FBB87B0D65FF07F5FE097/"
+    },
+    "neutral/bloody_mummer_skirmishers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1661232658848642300/E887D20255C87C9A0906F43A9DC9BC52090051E6/",
+        "painter": "Bloodraven"
+    },
+    "neutral/bloody_mummer_zorse_riders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170315207/1690E54A35172CE30F1950CA37CF3D1FB426A011/",
+        "painter": "Jan Koch"
+    },
+    "neutral/bolton_flayer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727564377/DA3804084ED3AD8ADE862E00453CD5579B13CBA0/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/brienne": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727559573/E775C027BE44FC2BA03450ECD6487EFBDA1139AD/",
+        "painter": "Brush Brighta"
+    },
+    "neutral/bronn": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727561378/90DA25340CC8D7B767446E2418B2BBF3D1AA97DE/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/daario_naharis": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727563506/718797A8EEF733EA246BEE5CB4D3F1BF6966E8AC/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/dreadfort_captain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758936647/6D4EBF9F06C27E9C456AE9E41B70DB7E15332406/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/fortune_seeker": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729041598/B7293B12413EFED2D02BEBE42E2D39EDBEF027FA/",
+        "painter": "Jan Koch"
+    },
+    "neutral/glory_seeker": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729041846/880ADF9D08AB53C7827EA49726692E974ED29C22/",
+        "painter": "Jan Koch"
+    },
+    "neutral/golden_company_officer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230887780/86DD9AB9433EBE650D3A0C9454A35422A37B27F5/",
+        "painter": "Hobbes"
+    },
+    "neutral/golden_company_swordsmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230888115/C018EDBA624FCB7A720DEB799706FFDE90B3A97C/",
+        "painter": "Hobbes"
+    },
+    "neutral/golden_company_war_elephant": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230888302/4CEBE61866B220983EF3985BD34CED3F3C262FE1/",
+        "painter": "Hobbes"
+    },
+    "neutral/hedge_knights": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729042027/D658F3D866AA557565699E5E2C2A40F07355C928/",
+        "painter": "Jan Koch"
+    },
+    "neutral/house_bolton_bastards_girls": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727556325/2D3FF5E980DB0FC7CD9669BD54380BA4EF3877F2/",
+        "painter": "Bloodraven"
+    },
+    "neutral/house_bolton_blackguards": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727558673/12C17AFED5EE246F47803E9C321EED78F2B33B49/",
+        "painter": "Bloodraven"
+    },
+    "neutral/house_bolton_cutthroats": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727562651/FB03C370882BB1862C30F8D6230ED9843B63091C/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/house_bolton_flayed_men": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727563952/03F7235DDD4D3EDA17024AF552165EA25C7A1BDC/",
+        "painter": "Bloodraven"
+    },
+    "neutral/jaqen_hghar": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758936894/8CE59B5A3DA2C2D95670E30CB00DF22BBA501D6F/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/lord_varys": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727566610/534D7DB057F167B65ACD936D70867C3CAB5F80D0/",
+        "painter": "Bloodraven"
+    },
+    "neutral/petyr_baelish": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758937091/85389D7A340EC3FA0D8741C1D4D4BF68E2771E5E/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/ramsay_snow": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727564872/BEF6E3664E95E9A0888481DE5E444846A219E535/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/roose_bolton": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647721139197437116/64F3A19D458B200536ACA2C4CFF0D9993AC9A9D8/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/stormcrow_archers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170314641/3525223D35D2BE908508E431B10EF5A019F864A9/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/stormcrow_dervishes": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1780589749098729245/56DBECC19E7772119219CBAD621DCAE14A3EDDA7/",
+        "painter": "Bloodraven"
+    },
+    "neutral/stormcrow_lieutenant": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727565508/8E05447A8C9776DB3DFB312A04C58B489261BC8A/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/stormcrow_mercenaries": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646591093901130174/6B3EABEB54C1D7092B411CDC2BE49CB982850700/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/theon_greyjoy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727565217/3193C171E282FBC98E282079C69A7EFEB10AA863/",
+        "painter": "Bolton Skincare"
+    },
+    "neutral/tycho_nestoris": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727566172/94EB6CCC7FD05B48B7A4BBA2AC69ECAA1AE1B268/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "neutral/vargo_hoat": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170314967/E904D91A807420EF9B32F8BADBF40F2B8B333681/",
+        "painter": "Bloodraven"
+    },
+    "neutral/walder_frey": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727567038/224C8B5DEDBC872DA876844C6096995FB808A697/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/barristan_selmy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395482137/1FE985397A856EFEE4AFA6681454E610E312835F/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/belwas": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395482899/9CF16A16EA5AD0B81858DF6B5024C91FFB93B48D/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/cohollo": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729045454/181207D14A92721EDF53D4B8AE0BDDD3A09DE8D9/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/daenerys_targaryen_khaleesi": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395483691/36CC007854F62FD07D53B6969EB74AEF11446B7E/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/daenerys_targaryen_mother_of_dragons": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395483339/997515207032AB26B627863E059E8DE2AB7077E5/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/dothraki_outriders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747940860543276071/CB600A7487CA93B3FCC7949284B82B514DDEE806/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/dothraki_screamers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395489150/D138651C58A779AD81110B7C07A1D399CB18E2E3/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/dothraki_veterans": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395484484/9DFCE101DD5F297640877B0D2A0952AF45949E86/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/drogon": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395484761/8EC45101D634D43E54FB4FFB326C913642333AEE/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/drogos_bloodriders": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729045454/181207D14A92721EDF53D4B8AE0BDDD3A09DE8D9/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/freedmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729045663/BE5D89DE097CF26D368FCCB662418E34756EA0BC/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/grey_worm": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1688270377700786386/348D0F1215FFEFD3BA6DD9C1687BFCF1D891A9C2/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/haggo": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729045842/BF908B58E277959E9C6932F463827556DFAE36D5/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/daario_naharis": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727563506/718797A8EEF733EA246BEE5CB4D3F1BF6966E8AC/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/stormcrow_archers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924170314641/3525223D35D2BE908508E431B10EF5A019F864A9/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/stormcrow_dervishes": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1780589749098729245/56DBECC19E7772119219CBAD621DCAE14A3EDDA7/",
+        "painter": "Bloodraven"
+    },
+    "targaryen/stormcrow_lieutenant": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593378727565508/8E05447A8C9776DB3DFB312A04C58B489261BC8A/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/stormcrow_mercenaries": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646591093901130174/6B3EABEB54C1D7092B411CDC2BE49CB982850700/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/illyrio_mopatis": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395485256/A96D68CF6BA3590D5A9611CAB3B39AEC8E39D5EB/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/jorah_mormont_penitent_betrayer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1688270377700733752/62246E19B8211A6652F702FA05827DFDEFE3ABB6/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/jorah_mormont_the_exiled_knight": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395485746/3EC6DDF0C1F9B5B70DBA108C2510CA43C2B850F9/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/khal_drogo": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395486173/D73D43ED4DD416A6622F8FD31630F44A05676B53/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/marselen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062136939651468567/1185B3ABA72C2A85F81CC2717277FFE5A6491B89/",
+        "painter": "Willybunks"
+    },
+    "targaryen/mirri_maz_duur": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983045285/F5A5F3B91352B67C1911C2C7A4A165451740366C/",
+        "painter": "Willybunks"
+    },
+    "targaryen/missandei": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062136939651468810/D0E5B9F2FADA066C94781E90BB615F4407D3EE94/",
+        "painter": "Willybunks"
+    },
+    "targaryen/outrider_ko": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395486467/81981F2E8BE4C8388991F92CD7438B2C467233FE/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/pyat_pree": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1688270377700734097/72717A10E6F5BEDE7D928918E2B6C0FAAE874F11/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/qotho": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729046078/35FBE551473DDA069BFDD92B7534E3591019C9D0/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/quaithe": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062136939651468988/90F40D09F9EB908C125A11A0BDF53B92C15362C5/",
+        "painter": "Willybunks"
+    },
+    "targaryen/rakharo": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729046301/CBEEBE58C4F510E172DD0847C29B55FF670515DC/",
+        "painter": "Jan Koch"
+    },
+    "targaryen/rhaegal": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395487641/87B3B67733172435FC16AB2BF512DC4B46F69A34/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/screamer_ko": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395489446/F9418F9E271B6418C12208778A2F21213640D45C/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/unsullied_officer": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395489760/0C8FB0D1E40600E70CB72CE9A419455CF62590B5/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/unsullied_pikemen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1688270286569449021/7A96F0B054C1F217D52110DEB1A6FA52B129481C/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/unsullied_swordmasters": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395490112/7B3455C577B68E46BA82FE661FC35868D7C1A631/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/viserion": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747940860543276410/EA207AD756C4C9AC8D50ED2F7DBE2D9165018035/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/xaro_xhoan_daxos": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272395490668/F4B5157B74812A48C37D2BE7086F6BA630107DEA/",
+        "painter": "Yannic (Tabletop Warden)"
+    },
+    "targaryen/hizdar": {
+        "painter": "Willybunks",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871090701/1C6D1AA73EF9FEE959D624E136B90D5E91186144/"
+    },
+    "targaryen/hrakkars": {
+        "painter": "Willybunks",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871090845/BB9601D0A93A6A92E703A87E7BA378EDDC95589A/"
+    },
+    "targaryen/skahaz": {
+        "painter": "Willybunks",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2500150687871091013/BF71BAB6674128F3C7671C89FD6BC9CFCF18F6EB/"
+    },
+    "baratheon/alester_florent": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394428190/E795D48DF2FD35789F6434D0E23C79B8B96FC1C0/",
+        "painter": "Othell"
+    },
+    "baratheon/andrew_estermont": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924171194272/2E5FC8365D7F105EE5803C431FB6C56D549ABB3D/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/axell_florent": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394428719/3DA5220A2C5FDB50233F5B9C928ACC16716416E9/",
+        "painter": "Othell"
+    },
+    "baratheon/baratheon_sentinels": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276806384/2B58366B6047B9EF221FEDD4D51C51CC6A73B7B4/",
+        "painter": "Othell"
+    },
+    "baratheon/baratheon_wardens": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394435998/65C2E3B94A81D8DD96DE13BE5C77F256DF7B31E4/",
+        "painter": "Othell"
+    },
+    "baratheon/brienne": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276807083/B74A7723F852337F3118D411B412EE4C4136DC4C/",
+        "painter": "Othell"
+    },
+    "baratheon/bryen_farring": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015621793/515B18E5D9FF8CB51CD777D8127905BF21825EF7/",
+        "painter": "Hobbes"
+    },
+    "baratheon/champions_of_the_stag": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860548222776714826/3D8F0D34758BE7169E7AEC7BF2CF9F84F1530DC4/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/cortnay_penrose": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924171194581/22395853ADCB8A42BF67FAF302307E02856E82AF/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/cressen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015622293/3EB7B770788BBD383393979D65EEA295D20823C2/",
+        "painter": "Hobbes"
+    },
+    "baratheon/dale_seaworth": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015622865/8E9F52B3CF022A6626AE2393435C5BD5A3167455/",
+        "painter": "Hobbes"
+    },
+    "baratheon/davos_seaworth": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394429343/DC04E0CD6ADB093C0A5D76616151F2D7E2D05A32/",
+        "painter": "Othell"
+    },
+    "baratheon/devan_seaworth": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394429778/3BEADBA196577F18A5BA1182C035B6ACD29001BE/",
+        "painter": "Othell"
+    },
+    "baratheon/dragonstone_noble": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758923486/4984603DC73678A3662BCDF42616F1FAB9303A15/",
+        "painter": "Othell"
+    },
+    "baratheon/eldon_estermont": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720103758923712/54495C11F557C4D573456781BD0B93E7B4B9FD2A/",
+        "painter": "Othell"
+    },
+    "baratheon/highgarden_pikemen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230864520/4232C6C61434F8D459B26468928A2BF40348A7C6/",
+        "painter": "Hobbes"
+    },
+    "baratheon/justin_massey": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015625036/2CF1F6CB7D0BB38A4CA6A46620C01928542BF318/",
+        "painter": "Hobbes"
+    },
+    "baratheon/kings_men": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230879057/829D5858860986AC0A1B6907D57C29135C49BB8E/",
+        "painter": "Hobbes"
+    },
+    "baratheon/loras_tyrell": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924171194913/9F1E64D6C54D0CBA0E18E88573AD6690609D4138/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/margaery_tyrell": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924171195178/F1BDB2A879530D7F07611FFC55D3E1723E8391EE/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/master_warden": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394430657/4675A0C762E0A404B02FE4694A59C03D130793F5/",
+        "painter": "Othell"
+    },
+    "baratheon/melisandre": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394431017/9F8B7C93A356B5E72266302A16437DB51DC22606/",
+        "painter": "Othell"
+    },
+    "baratheon/olenna_tyrell": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1752434924171195433/672DB8F55F8B1F843535F44C9ABA7B0F66E1E210/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/patchface": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015626311/7A16AF4AD054E868C77F6E40CA1CF44A86504DEC/",
+        "painter": "Hobbes"
+    },
+    "baratheon/pikemen_captain": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662707758/0F725ECEF32AD46A7D8CC9D1F75806DC574F1E91/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/red_priestess": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394431341/4B86178CAF8E4439BB8488620002061669313834/",
+        "painter": "Othell"
+    },
+    "baratheon/renly_baratheon_lord_paramount_of_the_stormlands": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394432855/416390FEC16CC5087BB57C0ECBEE8CA11D8BA9A5/",
+        "painter": "Othell"
+    },
+    "baratheon/renly_baratheon_the_charismatic_heir": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276806032/9E151C25AAD595173B4242C284005736D7F9C4E8/",
+        "painter": "Othell"
+    },
+    "baratheon/rhllor_faithful": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394433219/EC32CA42C5731CE325621BEA5F2006B11D782AB5/",
+        "painter": "Othell"
+    },
+    "baratheon/rhllor_lightbringers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1822264323729110602/9E886AB4D0AD87D82E9387BACC6264523F3A70CD/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/rhllor_queens_men": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230879216/5109BACFB4D97E012D410AC427C561CBD1091AAE/",
+        "painter": "Hobbes"
+    },
+    "baratheon/riders_of_highgarden": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230879469/E6CED1F06918D93633A8D5E2C9FBEFF1D63BD22B/",
+        "painter": "Hobbes"
+    },
+    "baratheon/rose_knights": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394433537/4684D2A359ADB50FF9777FFC0C0D03F989552666/",
+        "painter": "Othell"
+    },
+    "baratheon/selyse__shireen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276806688/A6536D8AF6DFEDB347C20EC4B67652F07E08DC0A/",
+        "painter": "Othell"
+    },
+    "baratheon/shyra_errol": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394434119/8761C27FAB3469673A0C4EC5FC79F80F255A6AB3/",
+        "painter": "Othell"
+    },
+    "baratheon/stag_knight_noble": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662708142/CAAFC2474A195395EB59383A70A5DCE27C62AA49/",
+        "painter": "Jan Koch"
+    },
+    "baratheon/stag_knights": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394434528/088D2FB4E8A1F2C425FFA6F3251C78C90B7D3CBB/",
+        "painter": "Othell"
+    },
+    "baratheon/stannis_baratheon_king_at_the_wall": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1979923964015628252/275FA0CCA06A969894D3170EFF716F1834B52027/",
+        "painter": "Hobbes"
+    },
+    "baratheon/stannis_baratheon_the_one_true_king": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394435541/5C0A6402291135807482088016ED71BAC7A0A1DA/",
+        "painter": "Othell"
+    },
+    "baratheon/stannis_baratheon_the_rightful_heir": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1646593272394435020/69D1735B9A4E1F04DC6BAA90827DCBAA70F9AB62/",
+        "painter": "Othell"
+    },
+    "baratheon/thorn_watch": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1937136685230879599/402D83032149B5EA58BC2FDDFC460A122EDE67BB/",
+        "painter": "Hobbes"
+    },
+    "baratheon/thorn_watch_sentinel": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1710786701662708479/A267E55FA90E92FBDB3552FBE967D9D83A178665/",
+        "painter": "Jan Koch"
+    },
+    "greyjoy/balon_greyjoy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297991313328/9C90151CF56E370817DAC07563EAF87B58D77E76/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/beron_blacktyde": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983106208/5E286C90041FB3B8CE39A39A8F0CAE1BA464F931/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/erik_ironmaker": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1839160661427483334/CD4B0F9319655D612C58A4599727DC5CAF61CF8F/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/euron_greyjoy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1845919274737878122/9436144ADCBA1FC2C6AE7C420C18521F1EBB2762/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/house_harlaw_reapers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983106406/D8EC97582943B676E8F2D49D99D122FCA5192ED0/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/ironborn_bowmen": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1845919274737878319/E6C45AA2B09926A572F4DA3757642764AD9BEFE4/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/ironborn_reavers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983106612/07D6614CF8F6FCD70B393EF3D3B02BBECCCD2190/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/ironmakers": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1747940523274549972/C4911C27EBA7CE5DC61CD2CAB0684989D7ED1CAC/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/nute": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983106842/F48B0D279D8D68D94966C5BD91A305B5DE73DD87/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/qarl": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983107069/521A6BC640337A213F114E8A7143DD300F8C1CCB/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/rodrik_harlaw": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860547856500574230/5F75B3FF82AA754A467C7FA675A65C2C6709C195/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/silenced_men": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1839160661427483553/248F04D94AA0CE278437589471763D615289E808/",
+        "painter": "Bloodraven"
+    },
+    "greyjoy/victarion_greyjoy": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983107292/10EBEC8E28AC8A5D6438764F442B334E479AC180/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/warsworn": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2062138297983107776/EA2AEDAC3411FEC685D22989C780E04CEC2940FD/",
+        "painter": "Willybunks"
+    },
+    "greyjoy/wendamyr": {
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/1860547856500574451/EE1AA77A29F227AEE99A583D8C946A6184ADF5FA/",
+        "painter": "Bloodraven"
+    },
+    "martell/sunspear_dervishes": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478743541449724960/2CC83700638B83190E62BCBA71B90EA2EBABE394/"
+    },
+    "neutral/shae": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2478743541449725217/C442B692A6890B09CC2BFD2891B37E85C911C751/"
+    },
+    "martell/darkstar_retinue": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249116495/3E29B2335AA81539AA82D2F726ECE639006AEEA7/"
+    },
+    "martell/dervish_captain": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249116763/BCA9EFF9D3A9A7945203CE12EED2B2EE374F2EAB/"
+    },
+    "martell/edric": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249116988/F7D750FF900FBC20533F6033ACCDB732C0CA1793/"
+    },
+    "martell/elia": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249117210/5A3BDA26A8D3237C5E989249F660BF211F6F39CF/"
+    },
+    "martell/obara": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249117416/DABA87FC2FBC41EAF6AD1FC92B9CAC4593BAE492/"
+    },
+    "martell/quentyn": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249117775/BBE06E48504901F7BE3C0AC32B2FC259F7D6C1B5/"
+    },
+    "martell/tyene": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/2475367572249118050/5D3A7242B973872AE8640FD0F2B6BC0F13CF1084/"
+    },
+    "bolton/bolton_cutthroats": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829553/8B7764F9899E0518B6CBD01CA7624ADC16A8DFDD/"
+    },
+    "bolton/bolton_blackguards": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829620/9EED10E9F7FEA518721DB964B723672F59A3C625/"
+    },
+    "bolton/bolton_bastard_girls": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829686/40BB574C0D32525D1271160D0C74693D08680846/"
+    },
+    "bolton/bolton_flayed_men": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829737/769DFF9195436D136FAFFA83EEC5FA8F702F54E2/"
+    },
+    "bolton/roose_bolton": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829859/D3D187F217C94FB280759D55A3F33FEAE4ECF61A/"
+    },
+    "bolton/ben_bones": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479829931/043D190EACFBD0C3C410486C19F047D78489A879/"
+    },
+    "bolton/bolton_spearmen": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479830014/2F2EFCF10D3718FF68D9BD180EEBBF0031A632A3/"
+    },
+    "bolton/damon_dance": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479830069/875B39ECDB86F823C3DDD7DB5EE0BAB6B5CE7D38/"
+    },
+    "bolton/dreadfort_archers": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479830166/E2D58E221E2A8C07BE146CF976377D0C5C9ED550/"
+    },
+    "bolton/sour_alyn": {
+        "painter": "Knuspernikus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/32188334479830282/4531DCE7E75D2B6CC403C281153E7099154C2D81/"
+    },
+    "martell/skyreach_bowmen": {
+        "painter": "Obyiscus",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/13696582885529887226/61554DDC2558C33DCC6C7544F7B80B12B80CEA21/"
+    },
+    "stark/eddard_hotk": {
+        "painter": "Ragnok",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/10574998464113941445/B378401F5CAEF44D776E9355121D6598EBAA331E/"
+    },
+    "freefolk/jon_snow": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/11567858326363974271/76C59854D250E51CDC00D41169061AC9C7E08C2A/"
+    },
+    "freefolk/lady_dalla": {
+        "painter": "jengibrew",
+        "url": "https://steamusercontent-a.akamaihd.net/ugc/12160221416632816120/31F4AC32AE352D9ABB65CB9AE62A30786773944A/"
+    }
+}

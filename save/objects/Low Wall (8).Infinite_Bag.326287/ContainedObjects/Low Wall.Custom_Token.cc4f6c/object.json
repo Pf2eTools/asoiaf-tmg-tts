@@ -1,0 +1,174 @@
+{
+    "GUID": "cc4f6c",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -55.544,
+        "posY": 3.796,
+        "posZ": 8.51,
+        "rotX": 2.693,
+        "rotY": 359.963,
+        "rotZ": 0.254,
+        "scaleX": 0.79,
+        "scaleY": 1.0,
+        "scaleZ": 0.79
+    },
+    "Nickname": "Low Wall",
+    "Description": "•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  FORTIFIED: If the Attacker moved through or ended on this Terrain piece during a Charge, the defender gains +1 to their Defense Dice Rolls vs. their attack.\n•  HINDERING: If the Attacker moved through or ended on this Terrain piece during a Charge, they do not gain their Charge Bonus.\r\n",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552672/C0B70850374BFDC5B9ADE3F8627733660CE93629/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "378b28",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": -16.457,
+                "posY": 1.947,
+                "posZ": 6.258,
+                "rotX": 0.0,
+                "rotY": 0.0,
+                "rotZ": 0.0,
+                "scaleX": 0.79,
+                "scaleY": 1.0,
+                "scaleZ": 0.79
+            },
+            "Nickname": "Low Wall",
+            "Description": "•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.\n•  FORTIFIED: If the Attacker moved through or ended on this Terrain piece during a Charge, the defender gains +1 to their Defense Dice Rolls vs. their attack.\n•  HINDERING: If the Attacker moved through or ended on this Terrain piece during a Charge, they do not gain their Charge Bonus.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552672/C0B70850374BFDC5B9ADE3F8627733660CE93629/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "a496fc",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 0.006,
+                        "posY": 0.003,
+                        "posZ": -0.006,
+                        "rotX": 359.989,
+                        "rotY": 89.981,
+                        "rotZ": 359.924,
+                        "scaleX": 1.4,
+                        "scaleY": 1.05,
+                        "scaleZ": 1.733
+                    },
+                    "Nickname": "Z_L2_BrickWall_el1",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928712050/338A3C6E260005BE15F70D9827FDCD2730367E15/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

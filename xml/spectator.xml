@@ -1,0 +1,148 @@
+<Panel id="tacticsPanelSide"
+  active="true"
+  height="625"
+  width="85"
+  rectAlignment="MiddleRight"
+  offsetXY="-5 0"
+  backgroundColor="#F9F7F4"
+  visibility="Grey|Black|Brown">
+  <TableLayout cellSpacing="5" cellBackgroundColor="clear">
+    <Row><Cell><Image id="tacticsPanelSide__Round" image="Round1"></Image></Cell></Row>
+    <Row id="tacticsPanelSide__wrpRed" active="false"><Cell><Image id="tacticsPanelSide__Red" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__Crown" image="Crown"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__MoneyBag" image="MoneyBag"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__Letter" image="Letter"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__Swords" image="Swords"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__Horse" image="Horse"></Image></Cell></Row>
+    <Row id="tacticsPanelSide__wrpBlue" active="false"><Cell><Image id="tacticsPanelSide__Blue" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image image="BlankZone"></Image></Cell></Row>
+  </TableLayout>
+  <TableLayout cellSpacing="5" cellBackgroundColor="clear">
+    <Row><Cell><Image id="tacticsPanelSide__RoundOverlay" image="RedZone"></Image></Cell></Row>
+    <Row id="tacticsPanelSide__wrpRedOverlay" active="false"><Cell><Image id="tacticsPanelSide__RedOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__CrownOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__MoneyBagOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__LetterOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__SwordsOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Image id="tacticsPanelSide__HorseOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row id="tacticsPanelSide__wrpBlueOverlay" active="false"><Cell><Image id="tacticsPanelSide__BlueOverlay" image="BlankZone"></Image></Cell></Row>
+    <Row><Cell><Button id="tacticsPanelSide__ToggleTacticsBoard" icon="tacticsToBottom"
+    onClick="onToggleTacticsBoardUI_Click" color="#FFFFFF00"></Button></Cell></Row>
+  </TableLayout>
+</Panel>
+
+
+<Panel id="tacticsPanelBottom"
+  height="85"
+  width="625"
+  rectAlignment="LowerCenter"
+  offsetXY="0 10"
+  backgroundColor="#F9F7F4"
+  visibility="Hidden">
+  <TableLayout cellSpacing="5" cellBackgroundColor="clear">
+    <Row>
+      <Cell><Image id="tacticsPanelBottom__Round" image="Round1"></Image></Cell>
+      <Cell id="tacticsPanelBottom__wrpRed" active="false"><Image id="tacticsPanelBottom__Red" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__Crown" image="Crown"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__MoneyBag" image="MoneyBag"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__Letter" image="Letter"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__Swords" image="Swords"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__Horse" image="Horse"></Image></Cell>
+      <Cell id="tacticsPanelBottom__wrpBlue" active="false"><Image id="tacticsPanelBottom__Blue" image="BlankZone"></Image></Cell>
+      <Cell><Image image="BlankZone"></Image></Cell>
+    </Row>
+  </TableLayout>
+  <TableLayout cellSpacing="5" cellBackgroundColor="clear">
+    <Row>
+      <Cell><Image id="tacticsPanelBottom__RoundOverlay" image="RedZone"></Image></Cell>
+      <Cell id="tacticsPanelBottom__wrpRedOverlay" active="false"><Image id="tacticsPanelBottom__RedOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__CrownOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__MoneyBagOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__LetterOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__SwordsOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Image id="tacticsPanelBottom__HorseOverlay" image="BlankZone"></Image></Cell>
+      <Cell id="tacticsPanelBottom__wrpBlueOverlay" active="false"><Image id="tacticsPanelBottom__BlueOverlay" image="BlankZone"></Image></Cell>
+      <Cell><Button id="tacticsPanelBottom__ToggleTacticsSide" icon="tacticsToSide"
+        onClick="onToggleTacticsBoardUI_Click" color="#FFFFFF00"></Button></Cell>
+    </Row>
+  </TableLayout>
+</Panel>
+
+
+<Panel id="WOW_Panel"
+  visibility="Black|Grey|Brown"
+  height="214"
+  width="249"
+  color="#000000F5"
+  active="false"
+  rectAlignment="MiddleLeft"
+  >
+  <TableLayout
+    padding="2 2 2 2"
+    cellSpacing="5"
+    cellBackgroundColor="#00000000"
+    columnWidths="120 120"
+    rowBackgroundColor="#00000000">
+    <Row preferredHeight="20">
+      <Cell><Text color="#FFB2B2" fontSize="12">Active Mission: Red</Text></Cell>
+      <Cell><Text color="#93D2FF" fontSize="12">Active Mission: Blue</Text></Cell>
+    </Row>
+    <Row preferredHeight="185">
+      <Cell overrideGlobalCellPadding="true" padding="0 20 0 0"><Image id="WOW__Red" image="MissionBack"></Image></Cell>
+      <Cell overrideGlobalCellPadding="true" padding="20 0 0 0"><Image id="WOW__Blue" image="MissionBack"></Image></Cell>
+    </Row>  
+  </TableLayout>
+</Panel>
+
+
+<Panel id="DWDW_Panel"
+  visibility="Black|Grey|Brown"
+  height="429"
+  width="249"
+  color="#000000F5"
+  active="false"
+  rectAlignment="MiddleLeft"
+  >
+  <TableLayout
+    padding="2 2 2 2"
+    cellSpacing="5"
+    cellBackgroundColor="#00000000"
+    columnWidths="120 120"
+    rowBackgroundColor="#00000000">
+    <Row preferredHeight="20">
+      <Cell columnSpan="2"><Text color="#CECECE" fontSize="15">Active Missions</Text></Cell>
+    </Row>
+    <Row preferredHeight="185">
+      <Cell><Image id="DWDW__Active1" image="MissionBack"></Image></Cell>
+      <Cell><Image id="DWDW__Active2" image="MissionBack"></Image></Cell>
+    </Row>
+    <Row preferredHeight="20">
+      <Cell columnSpan="2"><Text color="#CECECE" fontSize="15">Reserve Missions</Text></Cell>
+    </Row>
+    <Row preferredHeight="185">
+      <Cell><Image id="DWDW__Reserve1" image="MissionBack"></Image></Cell>
+      <Cell><Image id="DWDW__Reserve2" image="MissionBack"></Image></Cell>
+    </Row>  
+  </TableLayout>
+</Panel>
+
+
+<Panel id="cameraPanel"
+  active="true"
+  height="220"
+  width="55"
+  offsetXY="5 45"
+  visibility="Grey|Black|Brown"
+  rectAlignment="LowerLeft"
+  >
+  <VerticalLayout spacing="1">
+    <Button id="greyCameraButton" color="#FFFFFF00" active="true" icon="CameraGrey"
+      onClick="onGreyCameraClick" tooltip="Top Down View" tooltipPosition="Right"></Button>
+    <Button id="blueCameraButton" color="#FFFFFF00" active="true" icon="CameraBlue"
+      onClick="onBlueCameraClick" tooltip="Blue Player's View" tooltipPosition="Right"></Button>
+    <Button id="redCameraButton" color="#FFFFFF00" active="true" icon="CameraRed"
+      onClick="onRedCameraClick" tooltip="Red Player's View" tooltipPosition="Right"></Button>
+    <Button id="redAndBlueCameraButton" color="#FFFFFF00" active="true" icon="CameraRedAndBlue"
+      onClick="onRedAndBlueCameraClick" tooltip="View Tactics Board" tooltipPosition="Right"></Button>
+  </VerticalLayout>
+</Panel>

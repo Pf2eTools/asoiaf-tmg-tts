@@ -1,0 +1,59 @@
+{
+    "GUID": "cfeedb",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -85.118,
+        "posY": 2.289,
+        "posZ": -30.358,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "A Game Of Thrones",
+    "Description": "Game Mode A Game Of Thrones",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "Tags": [
+        "GamemodeCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 160100,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1601": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1921375369818741083/7F65BF5E68214A5635DDD21825547355393664DD/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834317745/9F1313366FB17C946BC893B049513DE82D98CDBF/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

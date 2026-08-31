@@ -1,0 +1,59 @@
+{
+    "GUID": "1fe2a8",
+    "Name": "Card",
+    "Transform": {
+        "posX": -26.5,
+        "posY": 1.3,
+        "posZ": -2.5,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 180.0,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "M3: Swords/Letters",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.713,
+        "g": 0.713,
+        "b": 0.713
+    },
+    "Tags": [
+        "MissionCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 10008000,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "100080": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2072257990323879837/E186E433A196DF0C6735782FE6888BF6D0D2B814/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2072257990323880564/6ADE1B6016FECD5A746F476865A58F0CA2CFC3F3/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

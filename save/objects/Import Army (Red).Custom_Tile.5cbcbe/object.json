@@ -1,0 +1,55 @@
+{
+    "GUID": "5cbcbe",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": 42.5,
+        "posY": -1.09,
+        "posZ": 39.5,
+        "rotX": 0.0,
+        "rotY": 359.985,
+        "rotZ": 0.0,
+        "scaleX": 2.54,
+        "scaleY": 1.0,
+        "scaleZ": 2.54
+    },
+    "Nickname": "Import Army (Red)",
+    "Description": "Import an Army from asoiaf-stats.com",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1662353234454189324/749974E45DC7DB88B3918D78BD556A0190C8419A/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "{\"source\":\"ASoIaF-Stats.com\"}"
+}

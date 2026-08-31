@@ -1,0 +1,44 @@
+{
+    "GUID": "64db7d",
+    "Name": "ScriptingTrigger",
+    "Transform": {
+        "posX": 39.75,
+        "posY": 1.805,
+        "posZ": -23.35,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.0,
+        "scaleX": 16.4,
+        "scaleY": 5.1,
+        "scaleZ": 16.0
+    },
+    "Nickname": "NCUs Blue",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0,
+        "a": 0.51
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "LuaScriptState": ""
+}

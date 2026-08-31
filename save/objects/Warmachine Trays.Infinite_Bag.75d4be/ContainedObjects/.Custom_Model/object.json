@@ -1,0 +1,139 @@
+{
+    "GUID": "",
+    "Name": "Custom_Model",
+    "Transform": {
+        "posX": 22.219,
+        "posY": 1.205,
+        "posZ": -34.975,
+        "rotX": 0.004,
+        "rotY": 0.0,
+        "rotZ": 0.136,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.29,
+        "g": 0.643,
+        "b": 0.671
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933130017691269/5B5E8FDA7812D2417EB5CCCC72CFB1B13793401E/",
+        "DiffuseURL": "",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933130017692332/D503C4B988FC0138DBB95AD01AF60A4338DA95E1/",
+        "Convex": true,
+        "MaterialIndex": 0,
+        "TypeIndex": 0,
+        "CustomShader": {
+            "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "SpecularIntensity": 0.2,
+            "SpecularSharpness": 7.0,
+            "FresnelStrength": 0.4
+        },
+        "CastShadows": true
+    },
+    "LuaScriptState": "",
+    "CustomUIAssets": [
+        {
+            "Type": 0,
+            "Name": "Activation",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1001431421934410500/DA50881354D448E13FEBC913BA6938EA516ADE9C/"
+        },
+        {
+            "Type": 0,
+            "Name": "Weakened",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1001431421934417557/ACA41623B5DDB7ED7923E92FE7A2E2BB06159B9B/"
+        },
+        {
+            "Type": 0,
+            "Name": "Vulnerable",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1001431421934416341/FE20F5A621616D8A89AE739E73723B59FC01D106/"
+        },
+        {
+            "Type": 0,
+            "Name": "Panicked",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1001431421934412348/662E4E1B8F53B40FD30BAD488D39F10C36E77275/"
+        },
+        {
+            "Type": 0,
+            "Name": "Order",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1001431421934411387/F7F2E08E479BA6571D099DE0BFE7FA8FF0420D94/"
+        },
+        {
+            "Type": 0,
+            "Name": "Heart",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002556022161104789/6EB9380FE4D35148114B0BE7220CF63605970D0A/"
+        },
+        {
+            "Type": 0,
+            "Name": "Wound",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555926636270951/F0956B41C418BCA9036368309D3A2920206D6E61/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactiveWound",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555926636269937/2FA954D7C1E76FFB3F3D0FC784FCC3768E5A021E/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactiveWeakened",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721989558/54EDCDFAA89586409C19966D7F927568799BBC2A/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactiveVulnerable",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721986966/4736E2067712C923FF0545F62A677FFBBFED735D/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactivePanicked",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721985235/A5EE530E2F76CBCF85FDE80740561C1A602ED4AC/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactiveOrder",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721983223/1286EAAC77FE5436808F482FBA827B71DCCAA3E4/"
+        },
+        {
+            "Type": 0,
+            "Name": "InactiveActivation",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721971647/D765F17BBF23A97E64EF62C31BD7D091C6C54717/"
+        }
+    ],
+    "AttachedSnapPoints": [
+        {
+            "Position": {
+                "x": 0.129,
+                "y": 0.125,
+                "z": -0.095
+            }
+        }
+    ]
+}

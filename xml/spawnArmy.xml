@@ -1,0 +1,46 @@
+<InputField id="armyInput"
+      onValueChanged="onArmyInput_ValueChanged"
+      colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+      textColor="#000000"
+      position="0 0 -21"
+      rotation="0 0 180 "
+      width="300"
+      height="50"
+      fontSize="20"
+      fontStyle="Bold"
+      placeholder="Paste army ID here"></InputField>
+
+<Panel width="305" height="40" rotation="0 0 180" position="0 60 -21">
+  <TableLayout cellSpacing="5" cellBackgroundColor="clear"
+    columnWidths="150 150">
+    <Row>
+      <Cell>
+        <Dropdown id="chooseColorOption"
+            onValueChanged="onChooseColor_ValueChanged"
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+            width="150"
+            height="40"
+            fontSize="20"
+            fontStyle="Bold"
+            itemHeight="40"            >
+            <Option selected="true">Blue</Option>
+            <Option>Green</Option>
+            <Option>Black</Option>
+            <Option>Brown</Option>
+            <Option>Yellow</Option>
+            <Option>Purple</Option>
+            <Option>Red</Option>
+        </Dropdown>
+      </Cell>
+      <Cell>
+        <Button id="spawnArmyButton"
+              onclick="onSpawnArmy_Click"
+              colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+              width="150"
+              height="40"
+              fontSize="20"
+              fontStyle="Bold">Spawn Army</Button>
+      </Cell>
+    </Row>
+  </TableLayout>
+</Panel>

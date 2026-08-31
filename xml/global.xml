@@ -1,0 +1,137 @@
+<Defaults>
+  <Text class="settingsText" alignment="MiddleLeft" color="#FFFFFF" fontSize="18" tooltipBackgroundColor="Black"></Text>
+  <InputField class="addSetTime" onEndEdit="onEndEdit_genericInput" width="50" characterLimit="2" characterValidation="Integer" text="00" placeholder="00"></InputField>
+</Defaults>
+<Button id="showTerrainOptionsButton"
+    onclick="onShowTerrainOptions_Click"
+    visibility="Blue|Red|Black|Hidden"
+    colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+    rectAlignment="UpperLeft"
+    offsetXY="65 -12"
+    width="150"
+    height="40">Show Terrain Options</Button>
+<Button id="hideTerrainOptionsButton"
+    onclick="onHideTerrainOptions_Click"
+    colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+    visibility="Hidden"
+    rectAlignment="UpperLeft"
+    offsetXY="65 -12"
+    width="150"
+    height="40">Hide Terrain Options</Button>
+<Panel id="terrainPanel"
+  visibility="Hidden"
+  height="80"
+  width="555"
+  rectAlignment="UpperLeft"
+  offsetXY="65 -70">
+<TableLayout cellPadding="0 2 0 2"  cellBackgroundColor="clear" columnWidths="150 110 130 130">
+    <Row>
+      <Cell>
+        <Button id="swapSidesButton"
+              onclick="onSwapSides_Click"
+              colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+              width="145"
+              height="40">Swap Sides</Button>
+      </Cell>
+      <Cell>
+        <Button id="readyTerrainButton"
+              onclick="onReadyTerrain_Click"
+              colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+              width="105"
+              height="40">Ready Terrain</Button>
+      </Cell>
+      <Cell>
+        <Button id="readyTerrainAndObjectivesButton"
+              onclick="onReadyTerrainAndObjectives_Click"
+              colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+              width="125"
+              height="40">Ready Terrain &amp; Objectives</Button>
+      </Cell>
+      <Cell>
+        <Button id="clearTerrainButton"
+              onclick="onClearTerrain_Click"
+              colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+              width="125"
+              height="40">Clear Terrain &amp; Objectives</Button>
+      </Cell>
+    </Row>
+    <Row spacing="5">
+      <Cell columnSpan="3"></Cell>
+      <Cell>
+        <HorizontalLayout spacing="2">
+          <Button id="confirmButton"
+                rectAlignment="UpperRight"
+                visibility="Hidden"
+                onclick="onConfirm_Click"
+                colors="#008C00|#00FF00|#FFFFFF|A0A0A0"
+                width="70"
+                height="40"><Text color="#FFFFFF">Confirm</Text></Button>
+          <Button id="cancelButton"
+                rectAlignment="UpperRight"
+                visibility="Hidden"
+                onclick="onCancel_Click"
+                colors="#8C0000|#FF0000|#FFFFFF|A0A0A0"
+                width="60"
+                height="40"><Text color="#FFFFFF">Cancel</Text></Button>
+        </HorizontalLayout>
+      </Cell>
+    </Row>
+</TableLayout>
+</Panel>
+
+<Button id="highlightObjectivesButton"
+    onclick="onHighlightObjectives_Click"
+    active="true"
+    visibility="Blue|Black|Red"
+    rectAlignment="UpperLeft"
+    offsetXY="213 -3"
+    width="60"
+    height="60"
+    icon="HighlightObjectives"
+    color="#FFFFFF00"
+    tooltip="Highlight Objectives"
+    tooltipPosition="Below">
+</Button>
+<Button id="highlightUnactivatedUnitsButton"
+    onclick="onHighlightUnactivatedUnits_Click"
+    active="true"
+    visibility="Blue|Black|Red"
+    rectAlignment="UpperLeft"
+    offsetXY="265 -3"
+    width="60"
+    height="60"
+    icon="HighlightUnactivatedUnits"
+    color="#FFFFFF00"
+    tooltip="Highlight Unactivated Units"
+    tooltipPosition="Below">
+</Button>
+
+<ProgressBar id="toggle3DProgress"
+        active="false"
+        height="50"
+        width="377"
+        rectAlignment="UpperLeft"
+        showPercentageText="false"
+        offsetXY="65 -70"
+        color="#FFFFFF"
+        fillImageColor="#0094FF">
+</ProgressBar>
+
+<Panel id="modal__greetings"
+  active="false"
+  visibility="Hidden|Blue|Red"
+  height="450"
+  width="800"
+  onclick="onGreetingsClick">
+  <Image
+    image="Greetings"
+    preserveAspect="true"
+    height="450"
+    width="800">
+  </Image>
+</Panel>
+
+<Include src="xml/spectator.xml"/>
+<Include src="xml/settings.xml"/>
+<Include src="xml/changelog.xml"/>
+<Include src="xml/clockAndScore.xml"/>

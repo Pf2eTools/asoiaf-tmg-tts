@@ -1,0 +1,278 @@
+{
+    "GUID": "c7f18d",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -55.147,
+        "posY": 3.817,
+        "posZ": 2.512,
+        "rotX": 359.45,
+        "rotY": 75.004,
+        "rotZ": 0.13,
+        "scaleX": 1.5,
+        "scaleY": 1.0,
+        "scaleZ": 1.5
+    },
+    "Nickname": "Forest",
+    "Description": "•  COVER: When tracing Line of Sight for Ranged Attacks, Line of Sight may not be traced through this terrain piece by units not inside this terrain piece.\n•  FORTIFIED: If the Attacker moved through or ended on this Terrain piece during a Charge, the defender gains +1 to their Defense Dice Rolls vs. their attack.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553616/6094ED700471C2D910656B1162E96108FC5F1A27/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "ddbdfa",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": 2.177,
+                "posY": 1.947,
+                "posZ": 4.312,
+                "rotX": 0.0,
+                "rotY": 75.001,
+                "rotZ": 0.0,
+                "scaleX": 1.5,
+                "scaleY": 1.0,
+                "scaleZ": 1.5
+            },
+            "Nickname": "Forest",
+            "Description": "•  COVER: When tracing Line of Sight for Ranged Attacks, Line of Sight may not be traced through this terrain piece by units not inside this terrain piece.\n•  FORTIFIED: If the Attacker moved through or ended on this Terrain piece during a Charge, the defender gains +1 to their Defense Dice Rolls vs. their attack.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553616/6094ED700471C2D910656B1162E96108FC5F1A27/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "ee7ec6",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 0.371,
+                        "posY": 0.503,
+                        "posZ": -0.763,
+                        "rotX": 0.0,
+                        "rotY": 239.97,
+                        "rotZ": 0.0,
+                        "scaleX": 0.501,
+                        "scaleY": 1.0,
+                        "scaleZ": 0.501
+                    },
+                    "Nickname": "Z_L3_Tree_1",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928711111/C59CACFE97DD9AC77AC4911884E769302B07ADF6/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                },
+                {
+                    "GUID": "d48777",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 1.176,
+                        "posY": 0.501,
+                        "posZ": 0.533,
+                        "rotX": -0.001,
+                        "rotY": 14.967,
+                        "rotZ": 0.0,
+                        "scaleX": 0.502,
+                        "scaleY": 1.001,
+                        "scaleZ": 0.501
+                    },
+                    "Nickname": "Z_L3_Tree_1",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928710718/631008DBA4D22C1DA6307360BFED31D2EFE1E54E/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                },
+                {
+                    "GUID": "b61f66",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": -1.345,
+                        "posY": 0.5,
+                        "posZ": 0.0,
+                        "rotX": 0.0,
+                        "rotY": 104.957,
+                        "rotZ": -0.001,
+                        "scaleX": 0.501,
+                        "scaleY": 1.0,
+                        "scaleZ": 0.501
+                    },
+                    "Nickname": "Z_L3_Tree_1",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928710718/631008DBA4D22C1DA6307360BFED31D2EFE1E54E/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,44 @@
+<Panel id="modal__changelog"
+    visibility="Hidden"
+    height="600"
+    width="1066"
+    color="#282828"
+    outline="#000000"
+    outlineSize="2 -2"
+    allowDragging="true"
+    returnToOriginalPositionWhenReleased="false">
+    <Text
+        alignment="UpperLeft"
+        fontSize="18"
+        offsetXY="15 -10"
+        fontStyle="Bold"
+        color="#FFFFFF"
+        text="Changelog">
+    </Text>
+    <Button id="modal__changelog_close"
+        width="20"
+        height="20"
+        offsetXY="-10 -10"
+        rectAlignment="UpperRight"
+        color="#990000"
+        textColor="#FFFFFF"
+        text="X"
+        onClick="onClick_closeChangelog">
+    </Button>
+    <VerticalScrollView
+        height="550"
+        width="1048"
+        offsetXY="-1 10"
+        rectAlignment="LowerCenter"
+        scrollSensitivity="50"
+        color="#00000000"
+        scrollbarColors="#CDCDCD|#727272|#333333|rgba(0.78,0.78,0.78,0.5)">
+        <VerticalLayout id="modal__changelog_wrp"
+            width="1018"
+            height="10000"
+            spacing="10"
+            offsetXY="6 0"
+            childForceExpandHeight="false">
+        </VerticalLayout>
+    </VerticalScrollView>
+</Panel>

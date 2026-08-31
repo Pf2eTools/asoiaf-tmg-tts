@@ -1,0 +1,174 @@
+{
+    "GUID": "fd0f97",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -55.36,
+        "posY": 3.8,
+        "posZ": 23.269,
+        "rotX": 359.115,
+        "rotY": 194.998,
+        "rotZ": 359.438,
+        "scaleX": 1.27,
+        "scaleY": 1.0,
+        "scaleZ": 1.27
+    },
+    "Nickname": "Corpse Pile",
+    "Description": "•  HINDERING: If the Attacker moved through or ended on this Terrain piece during a Charge, they do not gain their Charge Bonus.\n•  HORRIFIC: While within short range of this Terrain piece, units suffer -1 to Morale Test rolls.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553128/9C87D8DAB8CFCE51935CD1D6915687D95E7626B4/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "81d966",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": -13.13,
+                "posY": 1.947,
+                "posZ": 14.982,
+                "rotX": 0.0,
+                "rotY": 195.0,
+                "rotZ": 0.0,
+                "scaleX": 1.27,
+                "scaleY": 1.0,
+                "scaleZ": 1.27
+            },
+            "Nickname": "Corpse Pile",
+            "Description": "•  HINDERING: If the Attacker moved through or ended on this Terrain piece during a Charge, they do not gain their Charge Bonus.\n•  HORRIFIC: While within short range of this Terrain piece, units suffer -1 to Morale Test rolls.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734553128/9C87D8DAB8CFCE51935CD1D6915687D95E7626B4/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "1cda97",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 0.002,
+                        "posY": -0.04,
+                        "posZ": -0.043,
+                        "rotX": 0.0,
+                        "rotY": 172.0,
+                        "rotZ": 0.0,
+                        "scaleX": 0.838,
+                        "scaleY": 1.0,
+                        "scaleZ": 0.758
+                    },
+                    "Nickname": "",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": false,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683711339077841/089EB1D62BC5140BDE5D965FDB7CE94E1096A199/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 1,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

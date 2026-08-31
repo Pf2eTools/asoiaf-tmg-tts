@@ -1,0 +1,278 @@
+{
+    "GUID": "e091c7",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": -54.858,
+        "posY": 3.769,
+        "posZ": -20.408,
+        "rotX": 358.621,
+        "rotY": 89.998,
+        "rotZ": 359.99,
+        "scaleX": 0.873,
+        "scaleY": 1.0,
+        "scaleZ": 0.873
+    },
+    "Nickname": "Castle Wall",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1035211763833322600/2DE6F7D6C520065DEB53300D6F70A820D927AB8E/",
+        "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/1035211763833322600/2DE6F7D6C520065DEB53300D6F70A820D927AB8E/",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "a10813",
+            "Name": "Custom_Tile",
+            "Transform": {
+                "posX": 15.995,
+                "posY": 1.902,
+                "posZ": 3.668,
+                "rotX": 359.923,
+                "rotY": 90.0,
+                "rotZ": 359.985,
+                "scaleX": 0.873,
+                "scaleY": 1.0,
+                "scaleZ": 0.873
+            },
+            "Nickname": "Castle Wall",
+            "Description": "",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1035211763833322600/2DE6F7D6C520065DEB53300D6F70A820D927AB8E/",
+                "ImageSecondaryURL": "https://steamusercontent-a.akamaihd.net/ugc/1035211763833322600/2DE6F7D6C520065DEB53300D6F70A820D927AB8E/",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomTile": {
+                    "Type": 0,
+                    "Thickness": 0.1,
+                    "Stackable": false,
+                    "Stretch": true
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "022474",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": -5.248,
+                        "posY": 0.003,
+                        "posZ": 0.013,
+                        "rotX": 359.962,
+                        "rotY": 90.02,
+                        "rotZ": 359.94,
+                        "scaleX": 0.263,
+                        "scaleY": 0.34,
+                        "scaleZ": 0.263
+                    },
+                    "Nickname": "Z_L2_CityWall5",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928710257/DA1D340A91BCFF749553CDC0134656EC5810CD34/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                },
+                {
+                    "GUID": "19306a",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 0.046,
+                        "posY": 0.006,
+                        "posZ": 0.01,
+                        "rotX": 359.94,
+                        "rotY": 0.02,
+                        "rotZ": 0.038,
+                        "scaleX": 0.544,
+                        "scaleY": 0.35,
+                        "scaleZ": 0.401
+                    },
+                    "Nickname": "Z_L2_CityWall",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928709453/90C2F163C630B4C6C7A7B746CEC629A888E83268/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 1,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                },
+                {
+                    "GUID": "9f2124",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": 5.257,
+                        "posY": 0.009,
+                        "posZ": -0.001,
+                        "rotX": 359.962,
+                        "rotY": 90.02,
+                        "rotZ": 359.94,
+                        "scaleX": 0.263,
+                        "scaleY": 0.34,
+                        "scaleZ": 0.263
+                    },
+                    "Nickname": "Z_L2_CityWall5",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928710257/DA1D340A91BCFF749553CDC0134656EC5810CD34/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": ""
+                }
+            ]
+        }
+    }
+}

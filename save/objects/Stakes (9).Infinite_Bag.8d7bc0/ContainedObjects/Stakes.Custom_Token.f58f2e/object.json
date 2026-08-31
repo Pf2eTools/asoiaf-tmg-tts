@@ -1,0 +1,228 @@
+{
+    "GUID": "f58f2e",
+    "Name": "Custom_Token",
+    "Transform": {
+        "posX": -55.244,
+        "posY": 3.818,
+        "posZ": 4.736,
+        "rotX": 359.014,
+        "rotY": 179.991,
+        "rotZ": 359.529,
+        "scaleX": 0.79,
+        "scaleY": 1.0,
+        "scaleZ": 0.79
+    },
+    "Nickname": "Stakes",
+    "Description": "•  DANGEROUS: Before performing actions while within this terrain piece, or when moving into it, units suffer D3+1 wounds (units only suffer damage once during a Charge).\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "Tags": [
+        "Terrain"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552939/7517055DDE34AFE335C0D013D6A2F1AFC9E0CAEF/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomToken": {
+            "Thickness": 0.1,
+            "MergeDistancePixels": 15.0,
+            "StandUp": false,
+            "Stackable": false
+        }
+    },
+    "LuaScriptState": "",
+    "States": {
+        "1": {
+            "GUID": "564a8b",
+            "Name": "Custom_Token",
+            "Transform": {
+                "posX": -8.101,
+                "posY": 1.947,
+                "posZ": 5.298,
+                "rotX": 0.0,
+                "rotY": 180.0,
+                "rotZ": 0.0,
+                "scaleX": 0.79,
+                "scaleY": 1.0,
+                "scaleZ": 0.79
+            },
+            "Nickname": "Stakes",
+            "Description": "•  DANGEROUS: Before performing actions while within this terrain piece, or when moving into it, units suffer D3+1 wounds (units only suffer damage once during a Charge).\n•  DESTRUCTIBLE: While within 1” of this terrain piece, units may make a melee attack action targeting it to automatically remove it from play.",
+            "GMNotes": "",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "Tags": [
+                "Terrain"
+            ],
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/2058742120734552939/7517055DDE34AFE335C0D013D6A2F1AFC9E0CAEF/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.0,
+                "WidthScale": 0.0,
+                "CustomToken": {
+                    "Thickness": 0.1,
+                    "MergeDistancePixels": 15.0,
+                    "StandUp": false,
+                    "Stackable": false
+                }
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": "",
+            "ChildObjects": [
+                {
+                    "GUID": "ca4bd3",
+                    "Name": "Custom_Assetbundle",
+                    "Transform": {
+                        "posX": -0.057,
+                        "posY": 0.031,
+                        "posZ": -0.45,
+                        "rotX": 10.707,
+                        "rotY": 359.0,
+                        "rotZ": 0.071,
+                        "scaleX": 1.4,
+                        "scaleY": 0.7,
+                        "scaleZ": 1.15
+                    },
+                    "Nickname": "Z_L2_Camp02_Blocked",
+                    "Description": "",
+                    "GMNotes": "",
+                    "AltLookAngle": {
+                        "x": 0.0,
+                        "y": 0.0,
+                        "z": 0.0
+                    },
+                    "ColorDiffuse": {
+                        "r": 1.0,
+                        "g": 1.0,
+                        "b": 1.0
+                    },
+                    "LayoutGroupSortIndex": 0,
+                    "Value": 0,
+                    "Locked": true,
+                    "Grid": true,
+                    "Snap": true,
+                    "IgnoreFoW": false,
+                    "MeasureMovement": false,
+                    "DragSelectable": true,
+                    "Autoraise": true,
+                    "Sticky": true,
+                    "Tooltip": true,
+                    "GridProjection": false,
+                    "HideWhenFaceDown": false,
+                    "Hands": false,
+                    "CustomAssetbundle": {
+                        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928713042/0F783C46D1896EB1115DAA98A75ACAB6CFF4F72C/",
+                        "AssetbundleSecondaryURL": "",
+                        "MaterialIndex": 0,
+                        "TypeIndex": 0,
+                        "LoopingEffectIndex": 0
+                    },
+                    "LuaScript": "",
+                    "LuaScriptState": "",
+                    "XmlUI": "",
+                    "ChildObjects": [
+                        {
+                            "GUID": "09c9b8",
+                            "Name": "Custom_Assetbundle",
+                            "Transform": {
+                                "posX": 0.0,
+                                "posY": 0.225,
+                                "posZ": 0.84,
+                                "rotX": 30.0,
+                                "rotY": 180.0,
+                                "rotZ": 0.0,
+                                "scaleX": 1.0,
+                                "scaleY": 1.0,
+                                "scaleZ": 1.0
+                            },
+                            "Nickname": "Z_L2_Camp02_Blocked",
+                            "Description": "",
+                            "GMNotes": "",
+                            "AltLookAngle": {
+                                "x": 0.0,
+                                "y": 0.0,
+                                "z": 0.0
+                            },
+                            "ColorDiffuse": {
+                                "r": 1.0,
+                                "g": 1.0,
+                                "b": 1.0
+                            },
+                            "LayoutGroupSortIndex": 0,
+                            "Value": 0,
+                            "Locked": true,
+                            "Grid": true,
+                            "Snap": true,
+                            "IgnoreFoW": false,
+                            "MeasureMovement": false,
+                            "DragSelectable": true,
+                            "Autoraise": true,
+                            "Sticky": true,
+                            "Tooltip": true,
+                            "GridProjection": false,
+                            "HideWhenFaceDown": false,
+                            "Hands": false,
+                            "CustomAssetbundle": {
+                                "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1754683191928713042/0F783C46D1896EB1115DAA98A75ACAB6CFF4F72C/",
+                                "AssetbundleSecondaryURL": "",
+                                "MaterialIndex": 0,
+                                "TypeIndex": 0,
+                                "LoopingEffectIndex": 0
+                            },
+                            "LuaScript": "",
+                            "LuaScriptState": "",
+                            "XmlUI": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

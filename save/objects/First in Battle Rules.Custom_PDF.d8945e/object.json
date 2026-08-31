@@ -1,0 +1,49 @@
+{
+    "GUID": "d8945e",
+    "Name": "Custom_PDF",
+    "Transform": {
+        "posX": 59.03,
+        "posY": 0.0,
+        "posZ": -19.836,
+        "rotX": 0.0,
+        "rotY": 270.006,
+        "rotZ": 0.0,
+        "scaleX": 0.254,
+        "scaleY": 1.0,
+        "scaleZ": 0.254
+    },
+    "Nickname": "First in Battle Rules",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomPDF": {
+        "PDFUrl": "https://steamusercontent-a.akamaihd.net/ugc/1035212664425830773/8DC1C32254229CF9CD7041856BC349EDF05ECEBF/",
+        "PDFPassword": "",
+        "PDFPage": 0,
+        "PDFPageOffset": 0
+    },
+    "LuaScriptState": ""
+}

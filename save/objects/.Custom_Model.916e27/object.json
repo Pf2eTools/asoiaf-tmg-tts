@@ -1,0 +1,114 @@
+{
+    "GUID": "916e27",
+    "Name": "Custom_Model",
+    "Transform": {
+        "posX": -36.0,
+        "posY": 2.0,
+        "posZ": 14.5,
+        "rotX": 0.001,
+        "rotY": 270.0,
+        "rotZ": 0.0,
+        "scaleX": 1.8,
+        "scaleY": 2.0,
+        "scaleZ": 1.7
+    },
+    "Nickname": "",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.608,
+        "g": 0.12,
+        "b": 0.12
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": false,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomMesh": {
+        "MeshURL": "https://steamusercontent-a.akamaihd.net/ugc/1753559404949422370/E87F8673D1C54AC2A2C89FA6AEF8F84435018E9E/",
+        "DiffuseURL": "https://steamusercontent-a.akamaihd.net/ugc/2053115793388581095/63427F69EBF3763DD7EDCFA0033EFB22D0E7B561/",
+        "NormalURL": "",
+        "ColliderURL": "https://steamusercontent-a.akamaihd.net/ugc/1035211763835159790/FCCB25796F15658004C0911C72B5717878CC2B0B/",
+        "Convex": false,
+        "MaterialIndex": 1,
+        "TypeIndex": 0,
+        "CustomShader": {
+            "SpecularColor": {
+                "r": 1.0,
+                "g": 1.0,
+                "b": 1.0
+            },
+            "SpecularIntensity": 0.0,
+            "SpecularSharpness": 2.767,
+            "FresnelStrength": 0.0
+        },
+        "CastShadows": true
+    },
+    "LuaScriptState": "{\"currentDieImage\":\"https://steamusercontent-a.akamaihd.net/ugc/1461933821421519475/9FFBF8B31045E38FB29BF1CDD420263E9CC92A88/\",\"currentDieOption\":\"Lannister\",\"currentTargetNumber\":4,\"currentTrayImage\":{\"image\":\"https://steamusercontent-a.akamaihd.net/ugc/1710786701663890737/1A8C5DDEC221FDE1CA132ABCEE93BBA264A0428A/\",\"scale\":8},\"diceCountvalue\":\"0\",\"diceRollingPanelActive\":\"true\",\"diceTargetPanelActive\":\"true\",\"diceType\":\"House\",\"showSuccesses\":true,\"toggleRollerPanelActive\":\"false\"}",
+    "CustomUIAssets": [
+        {
+            "Type": 0,
+            "Name": "Expander",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1461933996973578453/D132E6131585EB3375E5672406082498628BCEDF/"
+        },
+        {
+            "Type": 0,
+            "Name": "RemovePanicDice",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1773847942321882876/B6B780A54ADFD457B4C5373526F104C428FBD087/"
+        },
+        {
+            "Type": 0,
+            "Name": "Panic",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1002555774721936660/59E9C02AB7C30407486D9BFFD18D2670C15DCBC5/"
+        }
+    ],
+    "PhysicsMaterial": {
+        "StaticFriction": 1.0,
+        "DynamicFriction": 0.7,
+        "Bounciness": 0.33,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+    },
+    "Rigidbody": {
+        "Mass": 1.208,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": true
+    },
+    "AttachedDecals": [
+        {
+            "Transform": {
+                "posX": 0.0,
+                "posY": -0.36,
+                "posZ": 0.0,
+                "rotX": 90.0,
+                "rotY": 270.0,
+                "rotZ": 0.0,
+                "scaleX": 8.0,
+                "scaleY": 8.0,
+                "scaleZ": 8.0
+            },
+            "CustomDecal": {
+                "Name": "Decal",
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1710786701663890737/1A8C5DDEC221FDE1CA132ABCEE93BBA264A0428A/",
+                "Size": 1.0
+            },
+            "OwnerSteamID": 0
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "GUID": "1dd4e5",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -85.127,
+        "posY": 2.279,
+        "posZ": -30.351,
+        "rotX": 0.0,
+        "rotY": 90.0,
+        "rotZ": 0.0,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "A Feast For Crows",
+    "Description": "Game Mode A Feast For Crows",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.0,
+        "g": 0.0,
+        "b": 0.0
+    },
+    "Tags": [
+        "GamemodeCard"
+    ],
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 160000,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1600": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1921375369818740745/084C64358889FB3FA3A413D3DC36C5B1A2721448/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834317745/9F1313366FB17C946BC893B049513DE82D98CDBF/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

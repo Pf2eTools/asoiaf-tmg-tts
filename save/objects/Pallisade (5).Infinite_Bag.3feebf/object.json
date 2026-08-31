@@ -1,0 +1,45 @@
+{
+    "GUID": "3feebf",
+    "Name": "Infinite_Bag",
+    "Transform": {
+        "posX": -53.5,
+        "posY": 0.733,
+        "posZ": 12.307,
+        "rotX": 0.0,
+        "rotY": 0.0,
+        "rotZ": 0.001,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "Pallisade (5)",
+    "Description": "Blocks Line of Sight, Destructable, Impassable",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.129,
+        "g": 0.694,
+        "b": 0.607
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "MaterialIndex": -1,
+    "MeshIndex": -1,
+    "LuaScriptState": ""
+}

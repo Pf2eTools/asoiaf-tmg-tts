@@ -1,0 +1,116 @@
+{
+    "GUID": "60f2a3",
+    "Name": "Custom_Assetbundle",
+    "Transform": {
+        "posX": 33.529,
+        "posY": 0.772,
+        "posZ": 13.636,
+        "rotX": 0.797,
+        "rotY": 179.888,
+        "rotZ": 359.623,
+        "scaleX": 2.15,
+        "scaleY": 2.15,
+        "scaleZ": 2.15
+    },
+    "Nickname": "First Player",
+    "Description": "Painted by Benjen Stark",
+    "GMNotes": "First Player",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.443,
+        "g": 0.231,
+        "b": 0.09
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomAssetbundle": {
+        "AssetbundleURL": "https://steamusercontent-a.akamaihd.net/ugc/1647720395276804054/92A240D8ADD8F319B2E4B83181DA718DEC7A43EC/",
+        "AssetbundleSecondaryURL": "",
+        "MaterialIndex": 0,
+        "TypeIndex": 1,
+        "LoopingEffectIndex": 0
+    },
+    "LuaScriptState": "",
+    "PhysicsMaterial": {
+        "StaticFriction": 1.0,
+        "DynamicFriction": 0.7,
+        "Bounciness": 0.0,
+        "FrictionCombine": 0,
+        "BounceCombine": 0
+    },
+    "Rigidbody": {
+        "Mass": 1.288,
+        "Drag": 0.1,
+        "AngularDrag": 0.1,
+        "UseGravity": false
+    },
+    "States": {
+        "1": {
+            "GUID": "911ed9",
+            "Name": "Figurine_Custom",
+            "Transform": {
+                "posX": 33.573,
+                "posY": 1.184,
+                "posZ": 11.367,
+                "rotX": 0.0,
+                "rotY": 180.001,
+                "rotZ": -0.001,
+                "scaleX": 1.4,
+                "scaleY": 1.4,
+                "scaleZ": 1.4
+            },
+            "Nickname": "First Player",
+            "Description": "",
+            "GMNotes": "First Player",
+            "AltLookAngle": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            },
+            "ColorDiffuse": {
+                "r": 0.098,
+                "g": 0.098,
+                "b": 0.098
+            },
+            "LayoutGroupSortIndex": 0,
+            "Value": 0,
+            "Locked": false,
+            "Grid": true,
+            "Snap": true,
+            "IgnoreFoW": false,
+            "MeasureMovement": false,
+            "DragSelectable": true,
+            "Autoraise": true,
+            "Sticky": true,
+            "Tooltip": true,
+            "GridProjection": false,
+            "HideWhenFaceDown": false,
+            "Hands": false,
+            "CustomImage": {
+                "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1007058799834046903/E11F69A31B2DAD41DC577E4E7314B46D2DEE6C4E/",
+                "ImageSecondaryURL": "",
+                "ImageScalar": 1.5,
+                "WidthScale": 0.0
+            },
+            "LuaScript": "",
+            "LuaScriptState": "",
+            "XmlUI": ""
+        }
+    }
+}

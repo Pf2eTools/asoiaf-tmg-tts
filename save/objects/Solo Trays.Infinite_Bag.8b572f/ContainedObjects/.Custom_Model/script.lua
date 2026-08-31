@@ -1,0 +1,1 @@
+function onLoad() Wait.condition(function() Global.call('injectTrayCode', {class = 'SoloTray', guid = self.getGUID()}) end, function() return self.resting end) end

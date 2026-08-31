@@ -1,0 +1,67 @@
+{
+    "GUID": "beef90",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": 50.144,
+        "posY": 4.905,
+        "posZ": 11.2,
+        "rotX": 60.0,
+        "rotY": 270.0,
+        "rotZ": 0.0,
+        "scaleX": 4.041,
+        "scaleY": 1.0,
+        "scaleZ": 4.04
+    },
+    "Nickname": "Red: 0",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.098,
+        "g": 0.098,
+        "b": 0.098
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1461933361185754932/340F60486DDB339CC1BAD99D1F44337CFB367B46/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "",
+    "CustomUIAssets": [
+        {
+            "Type": 0,
+            "Name": "AddVP",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1617312248756273147/8797CD3254B6FF498E3409E57A0E17122EB74C3D/"
+        },
+        {
+            "Type": 0,
+            "Name": "RemoveVP",
+            "URL": "https://steamusercontent-a.akamaihd.net/ugc/1617312248756274082/E58989D1DCE31F914C30223F206EADCEAC76CC29/"
+        }
+    ]
+}

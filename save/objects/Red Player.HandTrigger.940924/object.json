@@ -1,0 +1,45 @@
+{
+    "GUID": "940924",
+    "Name": "HandTrigger",
+    "Transform": {
+        "posX": 0.0,
+        "posY": 10.0,
+        "posZ": 28.0,
+        "rotX": 0.0,
+        "rotY": 179.8,
+        "rotZ": 0.0,
+        "scaleX": 16.642,
+        "scaleY": 12.968,
+        "scaleZ": 6.861
+    },
+    "Nickname": "Red Player",
+    "Description": "",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.856,
+        "g": 0.1,
+        "b": 0.094,
+        "a": 0.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": false,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "FogColor": "Red",
+    "LuaScriptState": ""
+}

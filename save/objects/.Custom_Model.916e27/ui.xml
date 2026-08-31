@@ -1,0 +1,243 @@
+<!-- include xml/diceTrayRed.xml -->
+<Defaults><Dropdown scrollSensitivity="50"/></Defaults>
+
+<Panel id="totalResultPanel"
+
+  active="true"
+
+  height="240"
+
+  width="240"
+
+  position="410 480 -15" rotation="0 0 90">
+
+  <HorizontalLayout height="120"
+
+  width="240">
+
+    <Text id="totalResultLabel" color="White" fontStyle="Bold" fontSize="68" text=""></Text>
+
+  </HorizontalLayout>
+
+</Panel>
+
+
+
+<Panel id="resultPanel"
+
+  active="true"
+
+  height="800"
+
+  width="240"
+
+  position="10 -480 -15" rotation="0 0 90">
+
+  <VerticalLayout height="790"
+
+  width="240">
+
+    <Text id="resultLabel1" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+    <Text id="resultLabel2" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+    <Text id="resultLabel3" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+    <Text id="resultLabel4" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+    <Text id="resultLabel5" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+    <Text id="resultLabel6" color="White" fontStyle="Bold" fontSize="72" text=""></Text>
+
+  </VerticalLayout>
+
+</Panel>
+
+
+
+<Panel id="diceTargetPanel"
+
+    active="true"
+
+    height="40"
+
+    width="465"
+
+    position="217 -638 -61" rotation="0 0 180">
+
+    <TableLayout cellSpacing="5" cellBackgroundColor="clear"
+
+      columnWidths="30 150 30 150 40 40">
+
+      <Row>
+
+        <Cell cellPadding="5"><Button id="decreaseTargetButton" onClick="onDecreaseTarget_Click"
+
+          colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true" text="&lt;" fontStyle="Bold" fontSize="20"></Button></Cell>
+
+        <Cell cellPadding="5"><Slider id="targetNumberSlider" onValueChanged="onTargetNumber_ValueChanged" active="true"
+
+          colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0"
+
+          maxValue="6" minValue="2" value="4" wholeNumbers="true"/></Cell>
+
+        <Cell cellPadding="5"><Button id="increaseTargetButton" onClick="onIncreaseTarget_Click"
+
+          colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true" text="&gt;" fontStyle="Bold" fontSize="20"></Button></Cell>
+
+        <Cell cellPadding="5" dontUseTableCellBackground="true" cellBackgroundColor="White">
+
+          <Text id="targetNumberLabel" color="White" fontStyle="Bold" fontSize="30">Target  4</Text></Cell>
+
+          <Cell><Button id="rollPanicDice" onClick="onRollPanicDice_Click" active="true" color="#FFFFFF00" icon="Panic" tooltip="Roll for Panic"  tooltipPosition="Right"></Button></Cell>
+
+          <Cell><Button id="removePanicDice" onClick="onRemovePanicDice_Click" active="true" color="#FFFFFF00" icon="RemovePanicDice" tooltip="Clear Panic Dice"  tooltipPosition="Right"></Button></Cell>
+
+      </Row>
+
+    </TableLayout>
+
+	</Panel>
+
+
+
+  <Panel id="toggleRollerPanel"
+
+    active="false"
+
+    height="35"
+
+    width="70"
+
+    position="481 -638 -61">
+
+    <Button height="35" width="70" id="showPanelButton" onClick="onShowPanel_Click" icon="Expander"
+
+       color="#FFFFFF00" active="true" rotation="0 0 270"></Button>
+
+  </Panel>
+
+
+
+  <Panel id="diceRollingPanel"
+
+      active="true"
+
+      height="35"
+
+      width="1320"
+
+      position="481 5 -61" rotation="0 0 90">
+
+      <TableLayout cellSpacing="5" cellBackgroundColor="clear"
+
+        columnWidths="135 135 70 40 320 40 150 200 130 70">
+
+        <Row>
+
+          <Cell><Button id="RollHistButton" onClick="onRollHits_Click"
+
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true"><Text fontStyle="Bold" fontSize="20">Successes</Text></Button></Cell>
+
+          <Cell><Button id="RollMissesButton" onClick="onRollMisses_Click"
+
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true"><Text fontStyle="Bold" fontSize="20">Failures</Text></Button></Cell>
+
+          <Cell><Button id="RollDiceButton" onClick="onRollDice_Click"
+
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true"><Text fontStyle="Bold" fontSize="20">Roll</Text></Button></Cell>
+
+          <Cell><Button id="decreaseDiceButton" onClick="onDecreaseDice_Click"
+
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true" text="&lt;" fontStyle="Bold" fontSize="20"></Button></Cell>
+
+          <Cell><Slider id="diceCountSlider" colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" onValueChanged="onDiceCount_ValueChanged" active="true"
+
+            maxValue="17"  minValue="0" value="8" wholeNumbers="true"/></Cell>
+
+          <Cell><Button id="increaseDiceButton" onClick="onIncreaseDice_Click"
+
+            colors="#FFFFFF|#C0C0C0|#FFFFFF|A0A0A0" active="true" text="&gt;" fontStyle="Bold" fontSize="20"></Button></Cell>
+
+          <Cell dontUseTableCellBackground="true" cellBackgroundColor="White">
+
+            <Text id="diceCountLabel" color="White" fontStyle="Bold" fontSize="30">Dice  0</Text></Cell>
+
+          <!-- include xml/dicetray_select_die.xml -->
+          <Cell>
+
+            <Dropdown id="selectDie" active="true"
+
+    onValueChanged="onSelectDie_ValueChanged"
+
+    width="200" height="35"
+
+    fontSize="20" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+  <Dropdown id="selectTslDie" active="false"
+
+    onValueChanged="onSelectDie_ValueChanged"
+
+    width="200" height="35"
+
+    fontSize="16" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+  <Dropdown id="selectCommunityDie" active="false"
+
+    onValueChanged="onSelectDie_ValueChanged"
+
+    width="200" height="35"
+
+    fontSize="16" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+  <Dropdown id="selectWorldCupDie" active="false"
+
+    onValueChanged="onSelectDie_ValueChanged"
+
+    width="200" height="35"
+
+    fontSize="20" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+  <Dropdown id="selectChampionDie" active="false"
+
+    onValueChanged="onSelectDie_ValueChanged"
+
+    width="200" height="35"
+
+    fontSize="12" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+</Cell>
+
+<Cell>
+
+  <Dropdown id="diceTypeDropDown" onValueChanged="onDiceTypeDropDown_ValueChanged"
+
+    height="35" fontSize="16" itemHeight="35" fontStyle="Bold">
+
+  </Dropdown>
+
+</Cell>
+          <!-- include xml/dicetray_select_die.xml -->
+
+          <Cell><Button id="hidePanelButton" onClick="onHidePanel_Click" icon="Expander"
+
+             color="#FFFFFF00" active="true"></Button></Cell>
+
+        </Row>
+
+      </TableLayout>
+
+  	</Panel>
+
+
+<!-- include xml/diceTrayRed.xml -->

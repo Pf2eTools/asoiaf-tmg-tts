@@ -1,0 +1,55 @@
+{
+    "GUID": "de68a4",
+    "Name": "Custom_Tile",
+    "Transform": {
+        "posX": 42.5,
+        "posY": -1.09,
+        "posZ": -39.502,
+        "rotX": 0.0,
+        "rotY": 180.01,
+        "rotZ": 0.0,
+        "scaleX": 2.54,
+        "scaleY": 1.0,
+        "scaleZ": 2.54
+    },
+    "Nickname": "Import Army (Blue)",
+    "Description": "Import an Army from ASoIaF-Stats.com",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 1.0,
+        "g": 1.0,
+        "b": 1.0
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": true,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": false,
+    "Hands": false,
+    "CustomImage": {
+        "ImageURL": "https://steamusercontent-a.akamaihd.net/ugc/1662353234454190393/69E336C641B00F84D81BAFF55D50C4C1CC3E4EA0/",
+        "ImageSecondaryURL": "",
+        "ImageScalar": 1.0,
+        "WidthScale": 0.0,
+        "CustomTile": {
+            "Type": 0,
+            "Thickness": 0.1,
+            "Stackable": false,
+            "Stretch": true
+        }
+    },
+    "LuaScriptState": "{\"source\":\"ASoIaF-Stats.com\"}"
+}

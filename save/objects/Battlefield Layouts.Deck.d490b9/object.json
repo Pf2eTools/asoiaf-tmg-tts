@@ -1,0 +1,108 @@
+{
+    "GUID": "d490b9",
+    "Name": "Deck",
+    "Transform": {
+        "posX": -77.396,
+        "posY": 1.747,
+        "posZ": -2.727,
+        "rotX": 0.0,
+        "rotY": 89.988,
+        "rotZ": 180.0,
+        "scaleX": 1.65,
+        "scaleY": 1.0,
+        "scaleZ": 1.65
+    },
+    "Nickname": "Battlefield Layouts",
+    "Description": "Use to randomize the terrain pool. Numbers at the bottom can also be used to determin first player.",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.713,
+        "g": 0.713,
+        "b": 0.713
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": false,
+    "SidewaysCard": false,
+    "DeckIDs": [
+        161400,
+        161200,
+        160800,
+        161300,
+        161000,
+        161100
+    ],
+    "CustomDeck": {
+        "1614": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630388194/BE6FD53EC5EFFF09C91D87623B127E140A543FCA/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        },
+        "1612": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387834/AA18C49A393CFEF606EF4E71F5DFA88E9EB464BC/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        },
+        "1608": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630388317/C62468E4434408F214D5B4AD47BA5D789C59138B/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        },
+        "1613": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387721/52BEBC66F95C8BE5D03735D69D797DC4E417F4C9/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        },
+        "1610": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630388094/F8C32A13A7190884142804F72830F7B232B40FD6/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        },
+        "1611": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387964/71485E158D00D0CC5449E18617B8956E28B7A278/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}

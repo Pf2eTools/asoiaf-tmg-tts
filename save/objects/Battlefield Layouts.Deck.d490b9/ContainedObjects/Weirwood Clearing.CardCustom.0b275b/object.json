@@ -1,0 +1,56 @@
+{
+    "GUID": "0b275b",
+    "Name": "CardCustom",
+    "Transform": {
+        "posX": -67.339,
+        "posY": 0.86,
+        "posZ": -14.561,
+        "rotX": 0.003,
+        "rotY": 180.0,
+        "rotZ": 180.001,
+        "scaleX": 1.0,
+        "scaleY": 1.0,
+        "scaleZ": 1.0
+    },
+    "Nickname": "Weirwood Clearing",
+    "Description": "1",
+    "GMNotes": "",
+    "AltLookAngle": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+    },
+    "ColorDiffuse": {
+        "r": 0.713,
+        "g": 0.713,
+        "b": 0.713
+    },
+    "LayoutGroupSortIndex": 0,
+    "Value": 0,
+    "Locked": false,
+    "Grid": true,
+    "Snap": true,
+    "IgnoreFoW": false,
+    "MeasureMovement": false,
+    "DragSelectable": true,
+    "Autoraise": true,
+    "Sticky": true,
+    "Tooltip": true,
+    "GridProjection": false,
+    "HideWhenFaceDown": true,
+    "Hands": true,
+    "CardID": 161400,
+    "SidewaysCard": false,
+    "CustomDeck": {
+        "1614": {
+            "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630388194/BE6FD53EC5EFFF09C91D87623B127E140A543FCA/",
+            "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2502391334630387551/FA08E4A161B144064D5C5C67FD97074AD29E3E4B/",
+            "NumWidth": 1,
+            "NumHeight": 1,
+            "BackIsHidden": true,
+            "UniqueBack": false,
+            "Type": 0
+        }
+    },
+    "LuaScriptState": ""
+}
