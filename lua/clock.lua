@@ -1,6 +1,5 @@
 local TableUtils = require("lua.utils-table")
 local UiUtil = require("lua.utils-ui")
-local SettingsUtil = require("lua.settings")
 
 
 local Clock = {

@@ -480,3 +480,7 @@
 ## v233
 #### Released 11.May.2026
 - fixed errors on cards
+
+## v234
+#### Released ??.Sep.2026
+- moved hosting to a public GitHub repository

@@ -23,7 +23,7 @@ SETTINGS = {
     patch = "CMON: S07",
 }
 
-local SettingsUtil = {
+SettingsUtil = {
     _idSettingsModal = "modal__settings",
     _idSettingsWrapper = "modal__settings_wrp",
 

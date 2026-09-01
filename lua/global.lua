@@ -1,20 +1,20 @@
 -- credit for the original mod and code goes to Z Games: https://steamcommunity.com/sharedfiles/filedetails/?id=1473990576
 
 --current change note number or work shop item
-VERSION_NUMBER = "233.0"
+VERSION_NUMBER = "234.0"
 
 --require("vscode.console")
 require("lua.const")
 
 local Utils = require("lua.utils")
 local UiUtil = require("lua.utils-ui")
-local SettingsUtil = require("lua.settings")
 local SaveGameUtils = require("lua.utils-savegame")
 local EventUtils = require("lua.utils-events")
 local UtilsDeadUnits = require("lua.utils-destroyed-units")
 local Hotkeys = require("lua.hotkeys")
 
 
+require("lua.settings")
 Clock = require("lua.clock")
 -- global classes
 require("lua.class")

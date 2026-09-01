@@ -1,6 +1,7 @@
 local TableUtils = require("lua.utils-table")
 local Utils = require("lua.utils")
 local EventUtils = require("lua.utils-events")
+local UiUtil = require("lua.utils-ui")
 
 local TacticsBoard = {
     specialTactics = {
