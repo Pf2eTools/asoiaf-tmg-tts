@@ -1,6 +1,5 @@
 local Utils = require("lua.utils")
 local TableUtils = require("lua.utils-table")
-local Setup = require("lua.setup")
 local GameModeUtil = require("lua.utils-gamemode")
 local ChangelogUtils = require("lua.utils-changelog")
 local UiUtil = require("lua.utils-ui")
@@ -23,7 +22,7 @@ SETTINGS = {
     patch = "CMON: S07",
 }
 
-SettingsUtil = {
+local SettingsUtil = {
     _idSettingsModal = "modal__settings",
     _idSettingsWrapper = "modal__settings_wrp",
 

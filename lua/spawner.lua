@@ -1,7 +1,7 @@
 local TableUtils = require("lua.utils-table")
 local db = require("lua.data-lookup")
 
-Spawner = {
+local Spawner = {
     _ix = 100000
 }
 Spawner.__index = Spawner
@@ -447,3 +447,5 @@ Spawner.colorLookup = {
         b = 214 / 255
     }
 }
+
+return Spawner

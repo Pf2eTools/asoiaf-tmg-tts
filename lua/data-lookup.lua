@@ -158,7 +158,7 @@ local function injectLookup(lang, meta_type, data)
         if data.cardFace == nil then
             data.cardFace = gitHubBaseURL .. commitHash .. "/generated/" .. lang .. "/" .. data.faction .. "/" .. data.id .. ".jpg"
         end
-        if data.cardFace == nil then
+        if data.cardBack == nil then
             data.cardBack = gitHubBaseURL .. commitHash .. "/generated/" .. lang .. "/" .. data.faction .. "/" .. data.id .. "b.jpg"
         end
     end

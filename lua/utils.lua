@@ -25,8 +25,8 @@ end
 function Utils.split(s, sep)
     local tokens = {}
 
-    local sep = sep or " "
-    local pattern = string.format("([^%s]+)", sep)
+    local seperator = sep or " "
+    local pattern = string.format("([^%s]+)", seperator)
     string.gsub(s, pattern, function(t) table.insert(tokens, t) end)
 
     return tokens

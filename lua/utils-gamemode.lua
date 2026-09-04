@@ -1,4 +1,3 @@
-local Setup = require("lua.setup")
 local EventUtils = require("lua.utils-events")
 local TableUtils = require("lua.utils-table")
 local Utils = require("lua.utils")

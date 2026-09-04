@@ -1,6 +1,6 @@
 local TableUtils = require("lua.utils-table")
 
-Grid = {}
+local Grid = {}
 Grid.__index = Grid
 
 setmetatable(Grid, {
@@ -53,3 +53,5 @@ function Grid:clear()
         end
     end
 end
+
+return Grid

@@ -1,4 +1,3 @@
-local Setup = require("lua.setup")
 local UiUtil = require("lua.utils-ui")
 local Utils = require("lua.utils")
 

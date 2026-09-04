@@ -6,24 +6,25 @@ VERSION_NUMBER = "234.0"
 --require("vscode.console")
 require("lua.const")
 
+-- Why some classes are local and some global doesn't really make sense. A lot of this was developed when I wasn't aware of luabundler
+-- and most code lived in global scope, some circular dependencies were introduced because of that. This should be fixed!
+Setup = require("lua.setup")
 local Utils = require("lua.utils")
 local UiUtil = require("lua.utils-ui")
 local SaveGameUtils = require("lua.utils-savegame")
 local EventUtils = require("lua.utils-events")
 local UtilsDeadUnits = require("lua.utils-destroyed-units")
 local Hotkeys = require("lua.hotkeys")
-
-
-require("lua.settings")
 Clock = require("lua.clock")
--- global classes
+SettingsUtil = require("lua.settings")
 require("lua.class")
 require("lua.trays")
-require("lua.grid")
-require("lua.spawner")
+Grid = require("lua.grid")
+Spawner = require("lua.spawner")
 require("lua.army-importer")
 require("lua.faction-spawner")
 require("lua.dicetray")
+
 
 require("lua.custom-importer")
 require("lua.ui-events")
