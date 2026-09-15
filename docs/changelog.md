@@ -482,5 +482,6 @@
 - fixed errors on cards
 
 ## v234
-#### Released ??.Sep.2026
+#### Released 15.Sep.2026
+- updated cards to S07.2
 - moved hosting to a public GitHub repository

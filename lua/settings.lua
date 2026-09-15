@@ -19,7 +19,7 @@ SETTINGS = {
     playerCount = "1 vs 1",
     boardsize = "4x4",
     language = "en",
-    patch = "CMON: S07",
+    patch = "CMON: S07.2",
 }
 
 local SettingsUtil = {
@@ -53,9 +53,9 @@ SettingsUtil._settingsMeta = {
         settingName = "patch",
         name = "Patch",
         tooltip = "Change the game version of newly spawned cards.",
-        options = { "CMON: S07", "Custom Balance" },
+        options = { "CMON: S07.2", "Custom Balance" },
         callback = function(_, value)
-            if value == "CMON: S07" then
+            if value == "CMON: S07.2" then
                 DB.reset()
             elseif value == "Custom Balance" then
                 DB.patch("cba")
@@ -145,11 +145,11 @@ SettingsUtil._settingsMeta = {
         settingName = "tacticsboard",
         name = "Tactics Board",
         tooltip = "Change the image for the tactics board",
-        options = {"S07", "Playtest (November)", "Playtest (v0.1)", "Playtest (January v1.0)", "Playtest (February)"},
+        options = {"S07.2", "Playtest (November)", "Playtest (v0.1)", "Playtest (January v1.0)", "Playtest (February)"},
         callback = function(player, value)
             local tile = getObjectFromGUID(GUIDS["tactics_tile"])
             local url = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/37c9687cc785d28da3d7ffe8afe589ab0978a32f/generated/en/game/default-tactics-board.jpg"
-            if value == "S07" then
+            if value == "S07.2" then
                 url = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/37c9687cc785d28da3d7ffe8afe589ab0978a32f/generated/en/game/default-tactics-board.jpg"
             elseif value == "Playtest (November)" then
                 url = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/37c9687cc785d28da3d7ffe8afe589ab0978a32f/generated/en/game/scaling-tactics-board.jpg"

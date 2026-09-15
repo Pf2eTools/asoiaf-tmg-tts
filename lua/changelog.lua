@@ -200,8 +200,9 @@ CHANGELOG["v233"] = {
 	}
 }
 CHANGELOG["v234"] = {
-	date = "??.Sep.2026",
+	date = "15.Sep.2026",
 	changes = {
+		"updated cards to S07.2",
 		"moved hosting to a public GitHub repository"
 	}
 }

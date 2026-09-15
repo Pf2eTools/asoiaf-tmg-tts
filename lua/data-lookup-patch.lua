@@ -13,581 +13,581 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Subjugation of Power",
 			_a = 1,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40107.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40107.jpg"
 		})
 		_i("en", 0, {
 			id = "40110",
 			name = "Kingslayer's Infamy",
 			_a = 1,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40110.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40110.jpg"
 		})
 		_i("en", 0, {
 			id = "40123",
 			name = "You Will Obey Me!",
 			_a = 1,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40123.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40123.jpg"
 		})
 		_i("en", 0, {
 			id = "40124",
 			name = "Traitors! I Will Have Their Heads!",
 			_a = 1,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40124.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40124.jpg"
 		})
 		_i("en", 0, {
 			id = "40125",
 			name = "I Am The King!",
 			_a = 1,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40125.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40125.jpg"
 		})
 		_i("en", 0, {
 			id = "40215",
 			name = "Refuse to Yield",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40215.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40215.jpg"
 		})
 		_i("en", 0, {
 			id = "40216",
 			name = "War Cry",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40216.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40216.jpg"
 		})
 		_i("en", 0, {
 			id = "40221",
 			name = "Martial Superiority",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40221.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40221.jpg"
 		})
 		_i("en", 0, {
 			id = "40222",
 			name = "Press The Advantage",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40222.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40222.jpg"
 		})
 		_i("en", 0, {
 			id = "40223",
 			name = "Crannog Traps",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40223.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40223.jpg"
 		})
 		_i("en", 0, {
 			id = "40229",
 			name = "Rush of Aggression",
 			_a = 2,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40229.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40229.jpg"
 		})
 		_i("en", 0, {
 			id = "40321",
 			name = "Skin Collection",
 			_a = 3,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40321.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40321.jpg"
 		})
 		_i("en", 0, {
 			id = "40325",
 			name = "Styr's Vengeance",
 			_a = 3,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40325.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40325.jpg"
 		})
 		_i("en", 0, {
 			id = "40339",
 			name = "Summon Companions",
 			_a = 3,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40339.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40339.jpg"
 		})
 		_i("en", 0, {
 			id = "40407",
 			name = "Spoils of War",
 			_a = 4,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40407.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40407.jpg"
 		})
 		_i("en", 0, {
 			id = "40415",
 			name = "Careless Aggression",
 			_a = 4,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40415.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40415.jpg"
 		})
 		_i("en", 0, {
 			id = "40420",
 			name = "Brothers In Arms",
 			_a = 4,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40420.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40420.jpg"
 		})
 		_i("en", 0, {
 			id = "40506",
 			name = "Take The Black",
 			_a = 5,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40506.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40506.jpg"
 		})
 		_i("en", 0, {
 			id = "40508",
 			name = "And Now My Watch Begins",
 			_a = 5,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40508.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40508.jpg"
 		})
 		_i("en", 0, {
 			id = "40511",
 			name = "It Shall Not End Until My Death!",
 			_a = 5,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40511.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40511.jpg"
 		})
 		_i("en", 0, {
 			id = "40518",
 			name = "Refuse To Yield",
 			_a = 5,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40518.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40518.jpg"
 		})
 		_i("en", 0, {
 			id = "40521",
 			name = "Rapid Construction",
 			_a = 5,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40521.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40521.jpg"
 		})
 		_i("en", 0, {
 			id = "40601",
 			name = "Baratheon Justice",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40601.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40601.jpg"
 		})
 		_i("en", 0, {
 			id = "40608",
 			name = "Regroup and Reform",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40608.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40608.jpg"
 		})
 		_i("en", 0, {
 			id = "40611",
 			name = "Loved By The Smallfolk",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40611.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40611.jpg"
 		})
 		_i("en", 0, {
 			id = "40614",
 			name = "Baratheon Loyalty",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40614.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40614.jpg"
 		})
 		_i("en", 0, {
 			id = "40615",
 			name = "Martial Superiority",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40615.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40615.jpg"
 		})
 		_i("en", 0, {
 			id = "40620",
 			name = "Wealth And Charisma",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40620.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40620.jpg"
 		})
 		_i("en", 0, {
 			id = "40622",
 			name = "They Will Make Me King!",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40622.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40622.jpg"
 		})
 		_i("en", 0, {
 			id = "40623",
 			name = "Will Of The One True King",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40623.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40623.jpg"
 		})
 		_i("en", 0, {
 			id = "40625",
 			name = "Tactical Approach",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40625.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40625.jpg"
 		})
 		_i("en", 0, {
 			id = "40629",
 			name = "Flea Bottom Tricks",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40629.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40629.jpg"
 		})
 		_i("en", 0, {
 			id = "40632",
 			name = "Parlay",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40632.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40632.jpg"
 		})
 		_i("en", 0, {
 			id = "40634",
 			name = "Reckless Fury",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40634.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40634.jpg"
 		})
 		_i("en", 0, {
 			id = "40637",
 			name = "R'hllor's Wrath",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40637.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40637.jpg"
 		})
 		_i("en", 0, {
 			id = "40638",
 			name = "Fiery Resolve",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40638.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40638.jpg"
 		})
 		_i("en", 0, {
 			id = "40639",
 			name = "Devastating Impact",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40639.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40639.jpg"
 		})
 		_i("en", 0, {
 			id = "40640",
 			name = "On The Double!",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40640.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40640.jpg"
 		})
 		_i("en", 0, {
 			id = "40644",
 			name = "Precious Supplies",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40644.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40644.jpg"
 		})
 		_i("en", 0, {
 			id = "40646",
 			name = "Knights of Summer",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40646.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40646.jpg"
 		})
 		_i("en", 0, {
 			id = "40647",
 			name = "Lavish Encampment",
 			_a = 6,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40647.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40647.jpg"
 		})
 		_i("en", 0, {
 			id = "40716",
 			name = "Pathetic Attempt",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40716.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40716.jpg"
 		})
 		_i("en", 0, {
 			id = "40717",
 			name = "Expert Parry",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40717.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40717.jpg"
 		})
 		_i("en", 0, {
 			id = "40719",
 			name = "Count The Cuts",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40719.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40719.jpg"
 		})
 		_i("en", 0, {
 			id = "40722",
 			name = "Legendary Boldness",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40722.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40722.jpg"
 		})
 		_i("en", 0, {
 			id = "40723",
 			name = "Victory Comes Hard",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40723.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40723.jpg"
 		})
 		_i("en", 0, {
 			id = "40727",
 			name = "Retribution Of The Dragon",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40727.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40727.jpg"
 		})
 		_i("en", 0, {
 			id = "40731",
 			name = "Fire Made Flesh",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40731.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40731.jpg"
 		})
 		_i("en", 0, {
 			id = "40732",
 			name = "Targaryen Supremacy",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40732.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40732.jpg"
 		})
 		_i("en", 0, {
 			id = "40733",
 			name = "Counterplot",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40733.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40733.jpg"
 		})
 		_i("en", 0, {
 			id = "40734",
 			name = "Subjugation Of Power",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40734.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40734.jpg"
 		})
 		_i("en", 0, {
 			id = "40735",
 			name = "Remorseless Examples",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40735.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40735.jpg"
 		})
 		_i("en", 0, {
 			id = "40739",
 			name = "Hasty Offense",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40739.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40739.jpg"
 		})
 		_i("en", 0, {
 			id = "40742",
 			name = "War Cry",
 			_a = 7,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40742.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40742.jpg"
 		})
 		_i("en", 0, {
 			id = "40809",
 			name = "Raider Bravery",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40809.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40809.jpg"
 		})
 		_i("en", 0, {
 			id = "40810",
 			name = "War Cry",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40810.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40810.jpg"
 		})
 		_i("en", 0, {
 			id = "40820",
 			name = "Devious Methods",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40820.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40820.jpg"
 		})
 		_i("en", 0, {
 			id = "40821",
 			name = "Cunning Ploy",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40821.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40821.jpg"
 		})
 		_i("en", 0, {
 			id = "40822",
 			name = "Mind Games",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40822.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40822.jpg"
 		})
 		_i("en", 0, {
 			id = "40830",
 			name = "Thirst for Battle",
 			_a = 8,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40830.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40830.jpg"
 		})
 		_i("en", 0, {
 			id = "40912",
 			name = "Parlay",
 			_a = 9,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40912.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40912.jpg"
 		})
 		_i("en", 0, {
 			id = "40913",
 			name = "Ripe to Act",
 			_a = 9,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40913.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40913.jpg"
 		})
 		_i("en", 0, {
 			id = "40915",
 			name = "Fury for the Fallen",
 			_a = 9,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40915.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40915.jpg"
 		})
 		_i("en", 0, {
 			id = "40924",
 			name = "Coup Attempt",
 			_a = 9,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/40924.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/40924.jpg"
 		})
 		_i("en", 0, {
 			id = "41001",
 			name = "Bloody Beheadings",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41001.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41001.jpg"
 		})
 		_i("en", 0, {
 			id = "41002",
 			name = "Harsh Punishments",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41002.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41002.jpg"
 		})
 		_i("en", 0, {
 			id = "41003",
 			name = "Our Blades Are Sharp",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41003.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41003.jpg"
 		})
 		_i("en", 0, {
 			id = "41004",
 			name = "Sadistic Games",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41004.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41004.jpg"
 		})
 		_i("en", 0, {
 			id = "41005",
 			name = "Cruel Methods",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41005.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41005.jpg"
 		})
 		_i("en", 0, {
 			id = "41006",
 			name = "A Flayed Man Has No Secrets",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41006.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41006.jpg"
 		})
 		_i("en", 0, {
 			id = "41007",
 			name = "Fear Keeps a Man Alive",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41007.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41007.jpg"
 		})
 		_i("en", 0, {
 			id = "41008",
 			name = "Skin Collection",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41008.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41008.jpg"
 		})
 		_i("en", 0, {
 			id = "41009",
 			name = "Opportunist",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41009.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41009.jpg"
 		})
 		_i("en", 0, {
 			id = "41010",
 			name = "Spoils In Flesh",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41010.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41010.jpg"
 		})
 		_i("en", 0, {
 			id = "41011",
 			name = "Whispered Threats",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41011.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41011.jpg"
 		})
 		_i("en", 0, {
 			id = "41012",
 			name = "Seeing Their Flaws",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41012.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41012.jpg"
 		})
 		_i("en", 0, {
 			id = "41013",
 			name = "Dreadfort Secrets",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41013.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41013.jpg"
 		})
 		_i("en", 0, {
 			id = "41014",
 			name = "Price of Fear",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41014.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41014.jpg"
 		})
 		_i("en", 0, {
 			id = "41015",
 			name = "Rush of Aggression",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41015.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41015.jpg"
 		})
 		_i("en", 0, {
 			id = "41016",
 			name = "Taunt",
 			_a = 10,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41016.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41016.jpg"
 		})
 		_i("en", 0, {
 			id = "41112",
 			name = "Loved By The Smallfolk",
 			_a = 11,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41112.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41112.jpg"
 		})
 		_i("en", 0, {
 			id = "41113",
 			name = "The Last Kiss",
 			_a = 11,
 			_y = 1,
-			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/41113.jpg"
+			face = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/41113.jpg"
 		})
 		_i("en", 1, {
 			id = "10108",
 			name = "The Warrior's Sons",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10108.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10108b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10108.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10108b.jpg",
 			_a = 1,
 			_y = 3,
 			_r = 1,
@@ -600,8 +600,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10113",
 			name = "Lannisport City Watch",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10113.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10113b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10113.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10113b.jpg",
 			_a = 1,
 			_y = 3,
 			_r = 1,
@@ -612,8 +612,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10114",
 			name = "Casterly Rock Honor Guard",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10114.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10114b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10114.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10114b.jpg",
 			_a = 1,
 			_y = 3,
 			_r = 1,
@@ -622,8 +622,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10115",
 			name = "Gold Cloaks",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10115.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10115b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10115.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10115b.jpg",
 			_a = 1,
 			_y = 3,
 			_r = 1,
@@ -632,8 +632,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10116",
 			name = "Stone Crows",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10116.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10116b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10116.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10116b.jpg",
 			_a = 1,
 			_y = 3,
 			_r = 1,
@@ -642,8 +642,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10205",
 			name = "Stark Bowmen",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10205.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10205b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10205.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10205b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -654,8 +654,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10208",
 			name = "House Umber Greataxes",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10208.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10208b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10208.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10208b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -666,8 +666,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10213",
 			name = "House Tully Cavaliers",
 			cost = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10213.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10213b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10213.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10213b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 2,
@@ -679,8 +679,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10214",
 			name = "House Mormont She-Bears",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10214.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10214b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10214.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10214b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -691,8 +691,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10216",
 			name = "House Mormont Bruisers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10216.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10216b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10216.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10216b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -701,8 +701,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10217",
 			name = "House Karstark Loyalists",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10217.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10217b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10217.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10217b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -711,8 +711,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10218",
 			name = "Crannogman Bog Devils",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10218.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10218b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10218.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10218b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -722,8 +722,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10220",
 			name = "Winterfell Guard",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10220.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10220b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10220.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10220b.jpg",
 			_a = 2,
 			_y = 3,
 			_r = 1,
@@ -732,8 +732,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10306",
 			name = "Wun Wun",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10306.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10306b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10306.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10306b.jpg",
 			_a = 3,
 			_y = 3,
 			_r = 4,
@@ -745,8 +745,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10312",
 			name = "War Mammoth",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10312.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10312b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10312.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10312b.jpg",
 			_a = 3,
 			_y = 3,
 			_r = 3,
@@ -758,8 +758,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10321",
 			name = "Frozen Shore Hunters",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10321.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10321b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10321.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10321b.jpg",
 			_a = 3,
 			_y = 3,
 			_r = 1,
@@ -768,8 +768,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10322",
 			name = "Giant Spear Throwers",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10322.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10322b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10322.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10322b.jpg",
 			_a = 3,
 			_y = 3,
 			_r = 4,
@@ -779,8 +779,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10323",
 			name = "Harma's Vanguard",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10323.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10323b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10323.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10323b.jpg",
 			_a = 3,
 			_y = 3,
 			_r = 2,
@@ -790,8 +790,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10405",
 			name = "Bloody Mummer Skirmishers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10405.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10405b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10405.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10405b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 1,
@@ -802,8 +802,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10407",
 			name = "Stormcrow Archers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10407.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10407b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10407.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10407b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 1,
@@ -814,8 +814,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10408",
 			name = "Bloody Mummer Zorse Riders",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10408.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10408b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10408.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10408b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 2,
@@ -827,8 +827,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10410",
 			name = "Hedge Knights",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10410.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10410b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10410.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10410b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 2,
@@ -840,8 +840,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10411",
 			name = "Golden Company Swordsmen",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10411.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10411b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10411.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10411b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 1,
@@ -852,8 +852,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10415",
 			name = "Stone Crows",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10415.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10415b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10415.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10415b.jpg",
 			_a = 4,
 			_y = 3,
 			_r = 1,
@@ -862,8 +862,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10501",
 			name = "Veterans of the Watch",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10501.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10501b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10501.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10501b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 1,
@@ -874,8 +874,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10502",
 			name = "Sworn Brothers",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10502.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10502b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10502.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10502b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 1,
@@ -886,8 +886,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10506",
 			name = "Builder Scorpion Crew",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10506.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10506b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10506.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10506b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 3,
@@ -899,8 +899,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10507",
 			name = "Builder Stone Thrower",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10507.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10507b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10507.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10507b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 3,
@@ -912,8 +912,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10508",
 			name = "Builder Crossbowmen",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10508.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10508b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10508.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10508b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 1,
@@ -924,8 +924,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10509",
 			name = "Conscripts",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10509.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10509b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10509.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10509b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 1,
@@ -937,8 +937,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Coldhands",
 			subname = "Mysterious Ally",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10511.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10511b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10511.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10511b.jpg",
 			_a = 5,
 			_y = 3,
 			_r = 4,
@@ -950,8 +950,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10601",
 			name = "Stag Knights",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10601.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10601b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10601.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10601b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -962,8 +962,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10602",
 			name = "Baratheon Wardens",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10602.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10602b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10602.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10602b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -974,8 +974,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10604",
 			name = "Rose Knights",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10604.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10604b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10604.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10604b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -986,8 +986,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10605",
 			name = "R’hllor Faithful",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10605.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10605b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10605.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10605b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -1000,8 +1000,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10606",
 			name = "Champions of The Stag",
 			cost = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10606.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10606b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10606.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10606b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 2,
@@ -1013,8 +1013,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10609",
 			name = "R’hllor Queen's Men",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10609.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10609b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10609.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10609b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -1027,8 +1027,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10613",
 			name = "Highgarden Pikemen",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10613.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10613b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10613.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10613b.jpg",
 			_a = 6,
 			_y = 3,
 			_r = 1,
@@ -1039,8 +1039,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10701",
 			name = "Dothraki Screamers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10701.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10701b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10701.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10701b.jpg",
 			_a = 7,
 			_y = 3,
 			_r = 2,
@@ -1052,8 +1052,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10703",
 			name = "Dothraki Veterans",
 			cost = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10703.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10703b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10703.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10703b.jpg",
 			_a = 7,
 			_y = 3,
 			_r = 2,
@@ -1066,8 +1066,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jorah Mormont",
 			subname = "The Wandering Knight",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10704.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10704b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10704.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10704b.jpg",
 			_a = 7,
 			_y = 3,
 			_r = 4,
@@ -1079,8 +1079,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10710",
 			name = "Dothraki Hrakkars",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10710.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10710b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10710.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10710b.jpg",
 			_a = 7,
 			_y = 3,
 			_r = 3,
@@ -1092,8 +1092,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10712",
 			name = "Stormcrow Archers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10712.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10712b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10712.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10712b.jpg",
 			_a = 7,
 			_y = 3,
 			_r = 1,
@@ -1104,8 +1104,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10801",
 			name = "Ironborn Reavers",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10801.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10801b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10801.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10801b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1116,8 +1116,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10803",
 			name = "House Harlaw Reapers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10803.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10803b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10803.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10803b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1128,8 +1128,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10804",
 			name = "Ironmakers",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10804.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10804b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10804.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10804b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1140,8 +1140,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10805",
 			name = "Ironborn Trappers",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10805.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10805b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10805.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10805b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1150,8 +1150,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10806",
 			name = "Blacktyde Chosen",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10806.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10806b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10806.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10806b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1160,8 +1160,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10807",
 			name = "Silenced Men",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10807.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10807b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10807.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10807b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1172,8 +1172,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10809",
 			name = "Stony Shore Pillagers",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10809.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10809b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10809.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10809b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1182,8 +1182,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10810",
 			name = "Iron Victory Crew",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10810.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10810b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10810.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10810b.jpg",
 			_a = 8,
 			_y = 3,
 			_r = 1,
@@ -1192,8 +1192,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10902",
 			name = "Sand Skirmishers",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10902.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10902b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10902.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10902b.jpg",
 			_a = 9,
 			_y = 3,
 			_r = 1,
@@ -1204,8 +1204,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10903",
 			name = "Sunspear Dervishes",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10903.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10903b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10903.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10903b.jpg",
 			_a = 9,
 			_y = 3,
 			_r = 1,
@@ -1216,8 +1216,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10905",
 			name = "Dune Vipers",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10905.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10905b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10905.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10905b.jpg",
 			_a = 9,
 			_y = 3,
 			_r = 1,
@@ -1229,8 +1229,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10907",
 			name = "Starfall Knights",
 			cost = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10907.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10907b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10907.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10907b.jpg",
 			_a = 9,
 			_y = 3,
 			_r = 2,
@@ -1242,8 +1242,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "10908",
 			name = "Darkstar Retinue",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10908.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/10908b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10908.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/10908b.jpg",
 			_a = 9,
 			_y = 3,
 			_r = 1,
@@ -1254,8 +1254,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11001",
 			name = "Cutthroats",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11001.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11001b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11001.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11001b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 1,
@@ -1266,8 +1266,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11002",
 			name = "Blackguards",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11002.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11002b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11002.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11002b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 1,
@@ -1278,8 +1278,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11003",
 			name = "Dreadfort Archers",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11003.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11003b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11003.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11003b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 1,
@@ -1290,8 +1290,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11004",
 			name = "Bastard's Girls",
 			cost = 7,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11004.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11004b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11004.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11004b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 1,
@@ -1302,8 +1302,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11005",
 			name = "Flayed Men",
 			cost = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11005.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11005b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11005.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11005b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 2,
@@ -1315,8 +1315,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11006",
 			name = "Dreadfort Spearmen",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11006.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11006b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11006.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11006b.jpg",
 			_a = 10,
 			_y = 3,
 			_r = 1,
@@ -1327,8 +1327,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "11102",
 			name = "Men-At-Arms",
 			cost = 6,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11102.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/11102b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11102.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/11102b.jpg",
 			_a = 11,
 			_y = 3,
 			_r = 1,
@@ -1338,8 +1338,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Meryn Trant",
 			subname = "Kingsguard",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20109.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20109b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20109.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20109b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 1,
@@ -1351,8 +1351,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Gregor Clegane",
 			subname = "Lord Tywin's Mad Dog",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20114.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20114b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20114.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20114b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 1,
@@ -1364,8 +1364,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Gregor Clegane",
 			subname = "Mounted Behemoth",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20118.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20118b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20118.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20118b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 2,
@@ -1377,8 +1377,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jaime Lannister",
 			subname = "Maimed Hostage",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20119.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20119b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20119.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20119b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 1,
@@ -1391,8 +1391,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Joffrey Baratheon",
 			subname = "First of His Name",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20121.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20121b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20121.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20121b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 1,
@@ -1406,8 +1406,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Addam Marbrand",
 			subname = "Trusted Bannerman",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20127.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20127b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20127.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20127b.jpg",
 			_a = 1,
 			_y = 2,
 			_r = 1,
@@ -1419,8 +1419,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Greatjon Umber",
 			subname = "Fierce Bannerman",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20205.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20205b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20205.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20205b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1434,8 +1434,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Robb Stark",
 			subname = "The Young Wolf",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20206.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20206b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20206.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20206b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1446,8 +1446,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20212",
 			name = "Crannogman Warden",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20212.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20212b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20212.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20212b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1459,8 +1459,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Brynden Tully",
 			subname = "Vanguard Infiltrator",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20214.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20214b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20214.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20214b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 2,
@@ -1472,8 +1472,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Brynden Tully",
 			subname = "Outrider Commander",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20215.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20215b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20215.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20215b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 2,
@@ -1486,8 +1486,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20223",
 			name = "Crannogman Survivalist",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20223.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20223b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20223.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20223b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1498,8 +1498,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20224",
 			name = "Winterfell Guardian",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20224.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20224b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20224.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20224b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 2,
@@ -1511,8 +1511,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Howland Reed",
 			subname = "Lord of the Crannogs",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20225.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20225b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20225.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20225b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1526,8 +1526,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Rickard Karstark",
 			subname = "Vengeful Bannerman",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20227.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20227b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20227.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20227b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1539,8 +1539,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Rickard Karstark",
 			subname = "Lord of Karhold",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20228.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20228b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20228.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20228b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1554,8 +1554,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Maege Mormont",
 			subname = "Lady of Bear Island",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20229.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20229b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20229.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20229b.jpg",
 			_a = 2,
 			_y = 2,
 			_r = 1,
@@ -1569,8 +1569,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Tormund Giantsbane",
 			subname = "Thunderfist",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20301.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20301b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20301.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20301b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1584,8 +1584,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Tormund Giantsbane",
 			subname = "Tall-Talker, Horn-Blower, Breaker of Ice",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20302.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20302b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20302.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20302b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1596,8 +1596,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20305",
 			name = "Cave Dweller Alpha",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20305.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20305b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20305.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20305b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1609,8 +1609,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Harma",
 			subname = "Vanguard Commander",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20317.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20317b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20317.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20317b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1624,8 +1624,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "The Weeper",
 			subname = "Horrific Butcher",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20320.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20320b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20320.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20320b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1639,8 +1639,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ygritte",
 			subname = "Spearwife Archer",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20322.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20322b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20322.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20322b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1652,8 +1652,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jarl",
 			subname = "Advance Raid Leader",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20323.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20323b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20323.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20323b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1665,8 +1665,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jon Snow",
 			subname = "The Crow-Come-Over",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20326.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20326b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20326.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20326b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1678,8 +1678,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "The Great Walrus",
 			subname = "Lord of the Frozen Shore",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20329.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20329b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20329.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20329b.jpg",
 			_a = 3,
 			_y = 2,
 			_r = 1,
@@ -1693,8 +1693,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Brienne",
 			subname = "Maiden of Tarth",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20406.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20406b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20406.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20406b.jpg",
 			_a = 4,
 			_y = 2,
 			_r = 1,
@@ -1706,8 +1706,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Rorge",
 			subname = "The Mad Dog of Saltpans",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20422.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20422b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20422.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20422b.jpg",
 			_a = 4,
 			_y = 2,
 			_r = 1,
@@ -1717,8 +1717,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Biter",
 			subname = "Rorge's Mad Dog",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20423.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20423b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20423.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20423b.jpg",
 			_a = 4,
 			_y = 2,
 			_r = 1,
@@ -1728,8 +1728,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jokin",
 			subname = "Stormcrow Captain",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20424.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20424b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20424.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20424b.jpg",
 			_a = 4,
 			_y = 2,
 			_r = 1,
@@ -1743,8 +1743,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jon Snow",
 			subname = "\"Lord Snow\"",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20503.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20503b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20503.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20503b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1755,8 +1755,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20504",
 			name = "Watch Captain",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20504.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20504b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20504.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20504b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1768,8 +1768,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Donal Noye",
 			subname = "Defender of Castle Black",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20511.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20511b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20511.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20511b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1783,8 +1783,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Benjen Stark",
 			subname = "Wolf of the Wall",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20523.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20523b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20523.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20523b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1796,8 +1796,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Coldhands",
 			subname = "Enigmatic Guide",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20524.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20524b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20524.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20524b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1809,8 +1809,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Coldhands",
 			subname = "Former Crow",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20526.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20526b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20526.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20526b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 2,
@@ -1822,8 +1822,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Benjen Stark",
 			subname = "First Ranger",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20527.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20527b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20527.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20527b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1837,8 +1837,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ser Denys Mallister",
 			subname = "Shadow Tower Commander",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20535.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20535b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20535.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20535b.jpg",
 			_a = 5,
 			_y = 2,
 			_r = 1,
@@ -1852,8 +1852,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Davos Seaworth",
 			subname = "Hero of Blackwater",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20607.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20607b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20607.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20607b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1868,8 +1868,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Andrew Estermont",
 			subname = "First of the King's Men",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20610.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20610b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20610.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20610b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1883,8 +1883,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Renly Baratheon",
 			subname = "Lord Paramount of the Stormlands",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20611.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20611b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20611.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20611b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1898,8 +1898,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Loras Tyrell",
 			subname = "King's Squire",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20613.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20613b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20613.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20613b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1911,8 +1911,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Eldon Estermont",
 			subname = "Lord of Greenstone",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20615.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20615b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20615.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20615b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1925,8 +1925,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20619",
 			name = "Thorn Watch Sentinel",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20619.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20619b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20619.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20619b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1938,8 +1938,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Stannis Baratheon",
 			subname = "King at the Wall",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20625.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20625b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20625.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20625b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 2,
@@ -1953,8 +1953,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Renly Baratheon",
 			subname = "King in the South",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20630.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20630b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20630.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20630b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1966,8 +1966,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Loras Tyrell",
 			subname = "Lord Commander of the Rainbow Guard",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20631.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20631b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20631.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20631b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1977,8 +1977,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Emmon Cuy",
 			subname = "Emmon The Yellow",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20635.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20635b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20635.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20635b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1988,8 +1988,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Robar Royce",
 			subname = "Robar The Red",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20636.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20636b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20636.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20636b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -1999,8 +1999,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Guyard Morrigen",
 			subname = "Guyard The Green",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20637.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20637b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20637.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20637b.jpg",
 			_a = 6,
 			_y = 2,
 			_r = 1,
@@ -2010,8 +2010,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Khal Drogo",
 			subname = "The Great Khal",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20701.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20701b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20701.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20701b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2026,8 +2026,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jorah Mormont",
 			subname = "Westerosi Tactician",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20702.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20702b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20702.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20702b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2041,8 +2041,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "20706",
 			name = "Unsullied Officer",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20706.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20706b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20706.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20706b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 1,
@@ -2054,8 +2054,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Barristan Selmy",
 			subname = "The Bold",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20707.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20707b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20707.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20707b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 1,
@@ -2070,8 +2070,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Belwas",
 			subname = "The Strong",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20711.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20711b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20711.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20711b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 1,
@@ -2086,8 +2086,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Daenerys Targaryen",
 			subname = "Queen of Meereen",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20715.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20715b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20715.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20715b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 1,
@@ -2102,8 +2102,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Rakharo",
 			subname = "Bloodrider",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20719.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20719b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20719.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20719b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2115,8 +2115,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Qotho",
 			subname = "Bloodrider",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20720.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20720b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20720.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20720b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2128,8 +2128,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Cohollo",
 			subname = "Bloodrider",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20721.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20721b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20721.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20721b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2141,8 +2141,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Haggo",
 			subname = "Bloodrider",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20722.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20722b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20722.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20722b.jpg",
 			_a = 7,
 			_y = 2,
 			_r = 2,
@@ -2154,8 +2154,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Asha Greyjoy",
 			subname = "The Kraken's Daughter",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20801.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20801b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20801.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20801b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2167,8 +2167,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Victarion Greyjoy",
 			subname = "Master of the Iron Victory",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20804.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20804b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20804.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20804b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2180,8 +2180,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Balon Greyjoy",
 			subname = "The Kraken King",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20813.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20813b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20813.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20813b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2195,8 +2195,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Erik Ironmaker",
 			subname = "Anvil-Breaker",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20815.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20815b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20815.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20815b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2210,8 +2210,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Asha Greyjoy",
 			subname = "\"Lady Greyjoy\"",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20816.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20816b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20816.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20816b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2221,8 +2221,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Dagmer Cleftjaw",
 			subname = "Master-at-Arms",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20821.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20821b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20821.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20821b.jpg",
 			_a = 8,
 			_y = 2,
 			_r = 1,
@@ -2234,8 +2234,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Oberyn Martell",
 			subname = "The Snake",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20902.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20902b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20902.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20902b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2247,8 +2247,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Obara Sand",
 			subname = "Eldest Sister",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20909.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20909b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20909.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20909b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2262,8 +2262,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Obara Sand",
 			subname = "Sand Snake",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20910.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20910b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20910.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20910b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2275,8 +2275,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Quentyn Martell",
 			subname = "Prince Of Dorne",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20916.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20916b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20916.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20916b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2288,8 +2288,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Gerold Dayne",
 			subname = "Knight Of High Hermitage",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20917.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20917b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20917.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20917b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2301,8 +2301,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Daemon Sand",
 			subname = "Vengeful Knight",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20920.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20920b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20920.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20920b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2316,8 +2316,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Gerold Dayne",
 			subname = "Darkstar",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20921.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/20921b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20921.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/20921b.jpg",
 			_a = 9,
 			_y = 2,
 			_r = 1,
@@ -2331,8 +2331,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ramsay Snow",
 			subname = "Spiteful Heir",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21001.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21001b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21001.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21001b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2346,8 +2346,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Roose Bolton",
 			subname = "Lord of the Dreadfort",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21002.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21002b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21002.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21002b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2361,8 +2361,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ramsay Snow",
 			subname = "Sadist",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21003.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21003b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21003.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21003b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2374,8 +2374,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Theon Greyjoy",
 			subname = "Reek",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21004.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21004b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21004.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21004b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2386,8 +2386,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "21005",
 			name = "Dreadfort Captain",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21005.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21005b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21005.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21005b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2398,8 +2398,8 @@ local function patchLookup(_i, _b, _p, id)
 			id = "21006",
 			name = "Bolton Flayer",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21006.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21006b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21006.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21006b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2411,8 +2411,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ben Bones",
 			subname = "Kennelmaster",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21007.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21007b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21007.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21007b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2424,8 +2424,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Damon Dance-For-Me",
 			subname = "Bastard's Boy",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21008.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21008b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21008.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21008b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2437,8 +2437,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Skinner",
 			subname = "Bastard's Boy",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21009.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21009b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21009.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21009b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2448,8 +2448,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Grunt",
 			subname = "Bastard's Boy",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21010.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21010b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21010.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21010b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2459,8 +2459,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Sour Alyn",
 			subname = "Bastard's Boy",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21011.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21011b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21011.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21011b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2472,8 +2472,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Steelshanks Walton",
 			subname = "Relentless Soldier",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21012.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21012b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21012.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21012b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2483,8 +2483,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Steelshanks Walton",
 			subname = "Captain of the Guard",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21013.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21013b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21013.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21013b.jpg",
 			_a = 10,
 			_y = 2,
 			_r = 1,
@@ -2496,8 +2496,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Beric Dondarrion",
 			subname = "Lightning Lord",
 			cost = 0,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21101.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21101b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21101.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21101b.jpg",
 			_a = 11,
 			_y = 2,
 			_r = 1,
@@ -2509,8 +2509,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Thoros of Myr",
 			subname = "Faithful Believer",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21104.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21104b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21104.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21104b.jpg",
 			_a = 11,
 			_y = 2,
 			_r = 1,
@@ -2520,8 +2520,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Anguy",
 			subname = "The Archer",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21108.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21108b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21108.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21108b.jpg",
 			_a = 11,
 			_y = 2,
 			_r = 1,
@@ -2531,8 +2531,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Edric Dayne",
 			subname = "Loyal Squire",
 			cost = 1,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21109.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/21109b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21109.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/21109b.jpg",
 			_a = 11,
 			_y = 2,
 			_r = 1,
@@ -2542,8 +2542,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Tywin Lannister",
 			subname = "The Great Lion",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30101.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30101b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30101.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30101b.jpg",
 			_a = 1,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593272395236561/9A037F2897F9CB5F73515273F1CB0F599D9312DE/",
@@ -2554,8 +2554,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Kevan Lannister",
 			subname = "Master Of Law",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30107.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30107b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30107.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30107b.jpg",
 			_a = 1,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1937136685230884939/790AC403118C3FF56F8337D7BFB842BCA1544371/",
@@ -2566,8 +2566,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Eddard Stark",
 			subname = "Warden of the North",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30204.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30204b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30204.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30204b.jpg",
 			_a = 2,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593378726429482/A76B44E9524FDD0E0BAF2E363F80AB05B3397DCB/",
@@ -2579,8 +2579,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Styr",
 			subname = "Iron-Fisted Tyrant",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30304.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30304b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30304.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30304b.jpg",
 			_a = 3,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593272393328204/5933F281DF47FC386025C21743DD0B5ECEFB0867/",
@@ -2591,8 +2591,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Lady Dalla",
 			subname = "Wife and Council",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30306.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30306b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30306.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30306b.jpg",
 			_a = 3,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/12160221416632816120/31F4AC32AE352D9ABB65CB9AE62A30786773944A/",
@@ -2603,8 +2603,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Lord Varys",
 			subname = "The Spider",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30403.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30403b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30403.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30403b.jpg",
 			_a = 4,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593378727566610/534D7DB057F167B65ACD936D70867C3CAB5F80D0/",
@@ -2616,8 +2616,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Bowen Marsh",
 			subname = "First Steward",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30501.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30501b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30501.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30501b.jpg",
 			_a = 5,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593272393864351/A2CC1B4997A7B1CC0FDBD3E8EFB3EDD12319AB6B/",
@@ -2628,8 +2628,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jeor Mormont",
 			subname = "The Old Bear",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30503.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30503b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30503.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30503b.jpg",
 			_a = 5,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593272393866924/0F8001CA22970C563C82DF83007696CA57FFC65E/",
@@ -2640,8 +2640,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Gilly",
 			subname = "The Wildling Girl",
 			cost = 2,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30510.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30510b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30510.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30510b.jpg",
 			_a = 5,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1860548222776717652/454700AE9F2D18101C2763A8E9B2C4328E0C9AB8/",
@@ -2653,8 +2653,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Craster",
 			subname = "Ally of the Watch",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30511.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30511b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30511.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30511b.jpg",
 			_a = 5,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646591393628019257/90102323609089ABB4DF898879EF3B773647082B/",
@@ -2665,8 +2665,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Balon Greyjoy",
 			subname = "King of Salt and Rock",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30803.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30803b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30803.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30803b.jpg",
 			_a = 8,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/2062138297991313328/9C90151CF56E370817DAC07563EAF87B58D77E76/",
@@ -2677,8 +2677,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Erik Ironmaker",
 			subname = "The Just",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30805.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30805b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30805.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30805b.jpg",
 			_a = 8,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1839160661427483334/CD4B0F9319655D612C58A4599727DC5CAF61CF8F/",
@@ -2691,8 +2691,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Moqorro",
 			subname = "The Black Flame",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30807.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30807b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30807.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30807b.jpg",
 			_a = 8,
 			_y = 4,
 		})
@@ -2701,8 +2701,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Oberyn Martell",
 			subname = "Red Viper",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30904.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30904b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30904.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30904b.jpg",
 			_a = 9,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/2478742831195019457/8D501BB78E4955CCDF08EF9EAD2F5E6792620964/",
@@ -2714,8 +2714,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Tyene Sand",
 			subname = "Septa's Daughter",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30905.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/30905b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30905.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/30905b.jpg",
 			_a = 9,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/2475367572249118050/5D3A7242B973872AE8640FD0F2B6BC0F13CF1084/",
@@ -2727,8 +2727,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Walda Frey",
 			subname = "Fat Walda",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31001.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31001b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31001.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31001b.jpg",
 			_a = 10,
 			_y = 4,
 		})
@@ -2737,8 +2737,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Jeyne Poole",
 			subname = "Arya Stark, Bride Of Bolton",
 			cost = 5,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31002.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31002b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31002.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31002b.jpg",
 			_a = 10,
 			_y = 4,
 		})
@@ -2747,8 +2747,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Roose Bolton",
 			subname = "Calculating And Cruel",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31003.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31003b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31003.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31003b.jpg",
 			_a = 10,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/32188334479829859/D3D187F217C94FB280759D55A3F33FEAE4ECF61A/",
@@ -2760,8 +2760,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ramsay Snow",
 			subname = "Red Helm",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31004.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31004b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31004.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31004b.jpg",
 			_a = 10,
 			_y = 4,
 			assetBundle = "https://steamusercontent-a.akamaihd.net/ugc/1646593378727564872/BEF6E3664E95E9A0888481DE5E444846A219E535/",
@@ -2772,8 +2772,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Tybald",
 			subname = "Maester of the Dreadfort",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31005.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31005b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31005.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31005b.jpg",
 			_a = 10,
 			_y = 4,
 			tokens = 3,
@@ -2783,8 +2783,8 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Ghost of High Heart",
 			subname = "The Wood's Witch",
 			cost = 4,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31101.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/31101b.jpg",
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31101.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/31101b.jpg",
 			_a = 11,
 			_y = 4,
 		})
@@ -2793,32 +2793,32 @@ local function patchLookup(_i, _b, _p, id)
 			name = "Raiders of the Iron Islands",
 			specialType = "faction",
 			_a = 8,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50801.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50801b.jpg"
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50801.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50801b.jpg"
 		})
 		_i("en", 2, {
 			id = "50900",
 			name = "Water Gardens",
 			specialType = "zone",
 			_a = 9,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50900.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50900b.jpg"
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50900.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50900b.jpg"
 		})
 		_i("en", 2, {
 			id = "50999",
 			name = "Dornish Poison",
 			specialType = "poison",
 			_a = 9,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50999.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/50999b.jpg"
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50999.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/50999b.jpg"
 		})
 		_i("en", 2, {
 			id = "51099",
 			name = "Dreadfort Allies",
 			specialType = "faction",
 			_a = 10,
-			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/51099.jpg",
-			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/eb9daf72872fa2909ad4293812981bee44757f5e/custom/generated/cba/51099b.jpg"
+			cardFace = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/51099.jpg",
+			cardBack = "https://raw.githubusercontent.com/Pf2eTools/asoiaf-tmg-data/71ddcaedbae4491d26c3e557c98122797978900b/custom/generated/cba/51099b.jpg"
 		})
 		end
 end
